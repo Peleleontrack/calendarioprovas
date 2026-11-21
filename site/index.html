@@ -3,6 +3,14 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="manifest" href="/manifest.webmanifest">
+<meta name="theme-color" content="#1f4fd1">
+<link rel="icon" type="image/png" href="/icons/favicon-64.png">
+<link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Provas">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
 </head>
 <body>
@@ -85,6 +93,10 @@ h1 span { color: var(--accent); }
 .login { display: flex; gap: 6px; flex-wrap: wrap; }
 .login input { flex: 1 1 220px; min-width: 0; padding: 8px 10px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--bg); }
 details.alt summary { cursor: pointer; font-size: 13px; color: var(--muted); }
+.auth-links { display: flex; flex-wrap: wrap; gap: 4px 16px; }
+.linkbtn { border: 0; background: none; padding: 0; color: var(--accent); cursor: pointer; font-size: 13px; }
+.linkbtn:hover { text-decoration: underline; }
+.install-row { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; }
 details.alt[open] { display: grid; gap: 10px; }
 
 .filters { display: grid; grid-template-columns: minmax(0, 1fr); gap: 8px; }
@@ -157,6 +169,7 @@ a.course:hover { border-color: var(--t-ultra); }
 .code input { flex: 1 1 220px; min-width: 0; padding: 8px 10px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--bg); font-family: ui-monospace, Consolas, monospace; font-size: 12px; }
 .note { font-size: 13px; color: var(--muted); }
 .note.ok { color: var(--t-trail); }
+.note.err { color: var(--saved); }
 .gone { font-size: 11px; color: var(--saved); font-weight: 600; text-transform: uppercase; letter-spacing: .05em; }
 
 footer { border-top: 1px solid var(--line); color: var(--muted); font-size: 12.5px; }
@@ -251,7 +264,11 @@ footer .wrap { padding-block: 16px 32px; display: grid; gap: 6px; }
 <footer>
   <div class="wrap">
     <div class="status" id="status"></div>
-    <div>Os dados são recolhidos automaticamente uma vez por dia. As inscrições fazem-se sempre no site oficial ou no site de origem. Orientação: <a href="https://www.orioasis.pt/oasis/shortcut.php?action=shortcut_events+event_view_info&amp;script=events&amp;view_type=list&amp;header=advanced&amp;country_code=-1&amp;interval=calend" target="_blank" rel="noopener">calendário no OriOasis</a>.</div>
+    <div class="install-row">
+      <button class="btn" id="install" data-action="install" hidden>Instalar app</button>
+      <span id="ios-hint" hidden>No iPhone: no Safari, carrega em Partilhar e depois em "Adicionar ao ecrã principal".</span>
+    </div>
+    <div>Os dados são recolhidos automaticamente de 3 em 3 horas. As inscrições fazem-se sempre no site oficial ou no site de origem. Orientação: <a href="https://www.orioasis.pt/oasis/shortcut.php?action=shortcut_events+event_view_info&amp;script=events&amp;view_type=list&amp;header=advanced&amp;country_code=-1&amp;interval=calend" target="_blank" rel="noopener">calendário no OriOasis</a>.</div>
   </div>
 </footer>
 
@@ -317,6 +334,7 @@ footer .wrap { padding-block: 16px 32px; display: grid; gap: 6px; }
   const sb = CFG.supabaseUrl && CFG.supabaseAnonKey && window.supabase ? window.supabase.createClient(CFG.supabaseUrl, CFG.supabaseAnonKey) : null;
   let user = null;
   let authNote = "";
+  let authErr = false;
   const rowOf = (s) => ({ main_key: s.keys[0], keys: s.keys, snapshot: s });
   function flash(msg) { const n = $("#mine-note"); if (n) { n.textContent = msg; n.className = "note"; } else $("#summary").textContent = msg; }
 
@@ -329,7 +347,7 @@ footer .wrap { padding-block: 16px 32px; display: grid; gap: 6px; }
   }
   async function syncFromServer() {
     const { data, error } = await sb.from("saved_races").select("keys,snapshot");
-    if (error) { authNote = "Não foi possível ler o teu calendário da conta."; return; }
+    if (error) { authErr = true; authNote = "Não foi possível ler o teu calendário da conta."; return; }
     const server = data.map((row) => ({ ...row.snapshot, keys: row.keys }));
     const serverKeys = new Set(server.flatMap((s) => s.keys));
     // provas marcadas neste dispositivo antes de entrar sobem para a conta
@@ -341,9 +359,41 @@ footer .wrap { padding-block: 16px 32px; display: grid; gap: 6px; }
     saved = [...server, ...local];
     persist();
   }
-  async function sendLink(email) {
-    const { error } = await sb.auth.signInWithOtp({ email, options: { emailRedirectTo: location.origin + location.pathname } });
-    authNote = error ? `Não foi possível enviar o link: ${error.message}` : `Enviámos um link para ${email}. Abre-o neste dispositivo para entrar.`;
+  // Entrar com email + password funciona também na app instalada (no iPhone, um link do email abre no Safari,
+  // que tem a sessão separada da app). O link por email fica como alternativa no browser.
+  const backTo = () => location.origin + location.pathname;
+  let loginEmail = "";
+  let recovering = false;
+  const authMsg = (error) => {
+    const m = error?.message || "";
+    if (/invalid login credentials/i.test(m)) return "Email ou password errados. Se até agora só entraste com link, entra com o link e define uma password.";
+    if (/email not confirmed/i.test(m)) return "Ainda não confirmaste o email. Abre o link que recebeste e depois entra aqui com a password.";
+    if (/already registered|already exists/i.test(m)) return "Já existe uma conta com este email. Usa \"Entrar\" ou \"Esqueci-me da password\".";
+    if (/password.*(6|characters)/i.test(m)) return "A password tem de ter pelo menos 6 caracteres.";
+    if (/rate limit|too many/i.test(m)) return "Foram enviados demasiados emails. Espera um pouco e tenta outra vez.";
+    return m || "Não foi possível concluir. Tenta outra vez.";
+  };
+  async function authAction(mode, email, password) {
+    loginEmail = email;
+    let res;
+    if (mode === "in") res = await sb.auth.signInWithPassword({ email, password });
+    else if (mode === "up") res = await sb.auth.signUp({ email, password, options: { emailRedirectTo: backTo() } });
+    else if (mode === "link") res = await sb.auth.signInWithOtp({ email, options: { emailRedirectTo: backTo() } });
+    else if (mode === "forgot") res = await sb.auth.resetPasswordForEmail(email, { redirectTo: backTo() });
+    const { data, error } = res;
+    authErr = !!error;
+    if (error) authNote = authMsg(error);
+    else if (mode === "up") authNote = data.session ? "Conta criada." : `Conta criada. Enviámos um email para ${email}: abre o link para confirmar e depois entra aqui com a password.`;
+    else if (mode === "link") authNote = `Enviámos um link para ${email}. Abre-o neste browser para entrar.`;
+    else if (mode === "forgot") authNote = `Enviámos um link para ${email}. Abre-o, e no site define a nova password.`;
+    else authNote = "";
+    render();
+  }
+  async function setPassword(password) {
+    const { error } = await sb.auth.updateUser({ password });
+    authErr = !!error;
+    authNote = error ? authMsg(error) : "Password guardada. Já podes entrar com ela na app instalada no telemóvel.";
+    recovering = false;
     render();
   }
   function renderAccount() {
@@ -361,7 +411,10 @@ footer .wrap { padding-block: 16px 32px; display: grid; gap: 6px; }
   });
   if (sb) {
     sb.auth.getSession().then(({ data }) => setUser(data.session?.user || null));
-    sb.auth.onAuthStateChange((_event, session) => { setUser(session?.user || null); });
+    sb.auth.onAuthStateChange((event, session) => {
+      if (event === "PASSWORD_RECOVERY") { recovering = true; authNote = "Define a tua nova password."; setView("calendario"); }
+      setUser(session?.user || null);
+    });
   }
   function updateCount() {
     const c = $("#saved-count"); c.textContent = saved.length;
@@ -492,14 +545,24 @@ footer .wrap { padding-block: 16px 32px; display: grid; gap: 6px; }
     let account;
     if (sb && user) {
       account = `<h4>Calendário guardado na tua conta</h4>
-        <p>Sessão iniciada como <strong>${esc(user.email)}</strong>. As provas que marcares aparecem em qualquer dispositivo onde entres com este email.</p>`;
+        <p>Sessão iniciada como <strong>${esc(user.email)}</strong>. As provas que marcares aparecem em qualquer dispositivo onde entres com este email.</p>
+        <details class="alt"${recovering ? " open" : ""}><summary>Definir ou mudar a password (para entrar na app instalada)</summary>
+          <form class="login" id="pass-form">
+            <input type="email" value="${esc(user.email)}" autocomplete="username" hidden>
+            <input id="new-pass" type="password" minlength="6" required placeholder="Nova password (mín. 6 caracteres)" autocomplete="new-password" aria-label="Nova password">
+            <button class="btn" type="submit">Guardar password</button>
+          </form>
+        </details>`;
     } else if (sb) {
       account = `<h4>Ter o mesmo calendário no PC e no telemóvel</h4>
-        <p>Entra com o teu email. Recebes um link para entrar, sem password. As provas que já marcaste aqui passam para a conta.</p>
+        <p>Entra com email e password. As provas que já marcaste aqui passam para a conta.</p>
         <form class="login" id="login-form">
-          <input id="login-email" type="email" required placeholder="o.teu@email.pt" autocomplete="email" aria-label="Email">
-          <button class="btn primary" type="submit">Enviar link de entrada</button>
+          <input id="login-email" type="email" required placeholder="o.teu@email.pt" autocomplete="email" aria-label="Email" value="${esc(loginEmail)}">
+          <input id="login-pass" type="password" minlength="6" placeholder="Password" autocomplete="current-password" aria-label="Password">
+          <button class="btn primary" type="submit" value="in">Entrar</button>
+          <button class="btn" type="submit" value="up">Criar conta</button>
         </form>
+        <div class="auth-links"><button class="linkbtn" data-action="forgot">Esqueci-me da password</button><button class="linkbtn" data-action="magic">Entrar com um link por email</button></div>
         <details class="alt"><summary>Sem conta: passar o calendário com um código</summary>${transfer}</details>`;
     } else {
       account = `<h4>Levar este calendário para outro dispositivo</h4>
@@ -508,7 +571,7 @@ footer .wrap { padding-block: 16px 32px; display: grid; gap: 6px; }
     $("#mine-panel").innerHTML = `
       <div class="panel">
         ${account}
-        ${authNote ? `<p class="note ok">${esc(authNote)}</p>` : ""}
+        ${authNote ? `<p class="note${authErr ? " err" : " ok"}">${esc(authNote)}</p>` : ""}
         <div class="row">
           <button class="btn primary" data-action="ics" ${upcoming.length ? "" : "disabled"}>Descarregar ficheiro de calendário (.ics)</button>
           <span class="note" id="mine-note">Abre o ficheiro no Google Calendar, Outlook ou no calendário do telemóvel.</span>
@@ -588,6 +651,19 @@ footer .wrap { padding-block: 16px 32px; display: grid; gap: 6px; }
       t.setAttribute("aria-pressed", state.types.has(ty)); return render();
     }
     const a = t.dataset.action;
+    if (a === "forgot" || a === "magic") {
+      const email = $("#login-email")?.value.trim();
+      if (!email) { authErr = true; authNote = "Escreve primeiro o teu email."; return render(); }
+      authErr = false;
+      authNote = "A enviar…";
+      return authAction(a === "forgot" ? "forgot" : "link", email);
+    }
+    if (a === "install") {
+      if (!installEvt) return;
+      installEvt.prompt();
+      installEvt.userChoice.finally(() => { installEvt = null; $("#install").hidden = true; });
+      return;
+    }
     if (a === "clear") return clearFilters();
     if (a === "go-all") return setView("provas");
     if (a === "ics") return ics();
@@ -603,10 +679,20 @@ footer .wrap { padding-block: 16px 32px; display: grid; gap: 6px; }
     }
   });
   document.addEventListener("submit", (e) => {
+    if (e.target.id === "pass-form") {
+      e.preventDefault();
+      return setPassword($("#new-pass").value);
+    }
     if (e.target.id !== "login-form") return;
     e.preventDefault();
+    const mode = e.submitter?.value || "in";
     const email = $("#login-email").value.trim();
-    if (email) { authNote = "A enviar…"; sendLink(email); }
+    const pass = $("#login-pass").value;
+    if (!email) return;
+    if (pass.length < 6) { loginEmail = email; authErr = true; authNote = "Escreve uma password com pelo menos 6 caracteres."; return render(); }
+    authErr = false;
+    authNote = mode === "up" ? "A criar conta…" : "A entrar…";
+    authAction(mode, email, pass);
   });
   $("#clear").addEventListener("click", clearFilters);
   function clearFilters() {
@@ -625,6 +711,16 @@ footer .wrap { padding-block: 16px 32px; display: grid; gap: 6px; }
   $("#types").innerHTML = TYPES.map(([t, c]) => `<button class="chip" data-type="${t}" aria-pressed="false" style="--c: var(${c})"><i></i>${t}</button>`).join("");
   updateCount();
   renderAccount();
+
+  // ---------- app instalável (PWA) ----------
+  let installEvt = null;
+  const standalone = matchMedia("(display-mode: standalone)").matches || navigator.standalone === true;
+  window.addEventListener("beforeinstallprompt", (e) => { e.preventDefault(); installEvt = e; $("#install").hidden = false; });
+  window.addEventListener("appinstalled", () => { $("#install").hidden = true; });
+  if (!standalone && /iphone|ipad|ipod/i.test(navigator.userAgent)) $("#ios-hint").hidden = false;
+  if ("serviceWorker" in navigator && (location.protocol === "https:" || location.hostname === "localhost")) {
+    navigator.serviceWorker.register("/sw.js").catch((err) => console.warn("Service worker não registado", err));
+  }
   if (location.hash.slice(1) === "calendario") state.view = "calendario";
 
   // provas: do Supabase quando configurado (em blocos de 1000), senão do ficheiro gerado pela recolha

@@ -155,6 +155,15 @@ def build_page() -> None:
     page = (
         '<!doctype html>\n<html lang="pt-PT">\n<head>\n<meta charset="utf-8">\n'
         '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n'
+        # app instalável (PWA)
+        '<link rel="manifest" href="/manifest.webmanifest">\n'
+        '<meta name="theme-color" content="#1f4fd1">\n'
+        '<link rel="icon" type="image/png" href="/icons/favicon-64.png">\n'
+        '<link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">\n'
+        '<meta name="apple-mobile-web-app-capable" content="yes">\n'
+        '<meta name="mobile-web-app-capable" content="yes">\n'
+        '<meta name="apple-mobile-web-app-title" content="Provas">\n'
+        '<meta name="apple-mobile-web-app-status-bar-style" content="default">\n'
         "<style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}"
         "body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>\n"
         "</head>\n<body>\n" + body + "\n</body>\n</html>\n"
