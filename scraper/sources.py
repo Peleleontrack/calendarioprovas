@@ -7,8 +7,8 @@ import json
 import os
 import re
 import time
-from pathlib import Path
 
+import store
 from common import clean, get, race, session
 
 TODAY = dt.date.today()
@@ -24,16 +24,13 @@ def _iso(d: dt.date) -> str:
 # O Athleko limita muito os pedidos seguidos. Por isso cada execução busca só
 # algumas páginas (as mais antigas primeiro) e guarda o progresso; com várias
 # execuções por dia a lista completa-se e mantém-se atualizada.
-ATHLEKO_STATE = Path(__file__).resolve().parent.parent / "site" / "data" / "sources" / "athleko_state.json"
 ATHLEKO_PAGES_PER_RUN = int(os.environ.get("ATHLEKO_PAGES", "4"))
 ATHLEKO_PAUSE = float(os.environ.get("ATHLEKO_PAUSE", "8"))
 
 
 def athleko() -> list[dict]:
-    try:
-        st = json.loads(ATHLEKO_STATE.read_text(encoding="utf-8"))
-    except (OSError, ValueError):
-        st = {}
+    cached = store.load_cache("athleko")
+    st = (cached or {}).get("state") or {}
     pages: dict = st.get("pages", {})
     events: dict = st.get("events", {})
     total_pages = int(st.get("total_pages", 1))
@@ -72,10 +69,7 @@ def athleko() -> list[dict]:
     cutoff = (dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=4)).isoformat(timespec="minutes")
     yesterday = _iso(TODAY - dt.timedelta(days=1))
     events = {k: e for k, e in events.items() if e.get("_seen", "") >= cutoff and e.get("event_date", "") >= yesterday}
-    ATHLEKO_STATE.write_text(
-        json.dumps({"total_pages": total_pages, "pages": pages, "events": events}, ensure_ascii=False),
-        encoding="utf-8",
-    )
+    store.save_cache("athleko", state={"total_pages": total_pages, "pages": pages, "events": events})
     if not events:
         raise RuntimeError("HTTP 429 (limite de pedidos)" if blocked else "sem provas")
 

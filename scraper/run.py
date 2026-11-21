@@ -14,6 +14,7 @@ from difflib import SequenceMatcher
 from pathlib import Path
 
 from common import TYPES, strip_accents
+import store
 from sources import ALL
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -161,10 +162,9 @@ def build_page() -> None:
 
 
 def main(only: list[str]) -> int:
-    CACHE.mkdir(parents=True, exist_ok=True)
+    print("Destino:", "Supabase" if store.remote() else "ficheiros locais", flush=True)
     status = {}
     for name, fn in ALL.items():
-        cache_file = CACHE / f"{name}.json"
         if only and name not in only:
             status[name] = "cache"
             continue
@@ -172,7 +172,7 @@ def main(only: list[str]) -> int:
             items = fn()
             if not items:
                 raise RuntimeError("0 provas devolvidas")
-            cache_file.write_text(json.dumps(items, ensure_ascii=False, indent=0), encoding="utf-8")
+            store.save_cache(name, items=items)
             status[name] = f"ok ({len(items)})"
         except Exception as e:  # um site em baixo não pode estragar os outros
             traceback.print_exc()
@@ -182,11 +182,11 @@ def main(only: list[str]) -> int:
     races = []
     updated = {}
     for name in ALL:
-        f = CACHE / f"{name}.json"
-        if f.exists():
-            races += json.loads(f.read_text(encoding="utf-8"))
-            updated[name] = dt.datetime.fromtimestamp(f.stat().st_mtime, dt.timezone.utc).isoformat(timespec="minutes")
-    # orientação: ficheiro importado à mão (ver README)
+        c = store.load_cache(name)
+        if c and c.get("items"):
+            races += c["items"]
+            updated[name] = c["updated_at"]
+    # orientação: ficheiro mantido à mão no repositório (ver README)
     manual = CACHE / "orioasis.json"
     if manual.exists():
         races += json.loads(manual.read_text(encoding="utf-8"))
@@ -195,19 +195,12 @@ def main(only: list[str]) -> int:
     yesterday = (dt.date.today() - dt.timedelta(days=1)).isoformat()
     races = [r for r in races if (r.get("end_date") or r["date"]) >= yesterday and r["name"]]
     merged = merge(races)
-    OUT.write_text(
-        json.dumps(
-            {
-                "generated": dt.datetime.now(dt.timezone.utc).isoformat(timespec="minutes"),
-                "status": status,
-                "updated": updated,
-                "races": merged,
-            },
-            ensure_ascii=False,
-            separators=(",", ":"),
-        ),
-        encoding="utf-8",
-    )
+    meta = {
+        "generated": dt.datetime.now(dt.timezone.utc).isoformat(timespec="minutes"),
+        "status": status,
+        "updated": updated,
+    }
+    store.publish(merged, meta)
     dup = len(races) - len(merged)
     print(f"\n{len(races)} entradas -> {len(merged)} provas ({dup} duplicados juntados)")
     build_page()

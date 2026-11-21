@@ -16,8 +16,12 @@ as provas que a pessoa quer fazer. Inscrições fazem-se sempre no site oficial 
   (Portugal/Internacional, mês, site, tipo, pontos ITRA), lista por mês, "O meu calendário"
   em `localStorage`, código de transferência entre dispositivos, links "+ Google Calendar"
   e exportação `.ics`. `site/index.html` é gerado a partir dele (não editar à mão).
-- `.github/workflows/atualizar.yml` corre a recolha de 3 em 3 horas e publica no GitHub Pages.
-  **Vai ser substituído** pelo plano abaixo (Vercel + Supabase).
+- `scraper/store.py`: com `SUPABASE_URL` + `SUPABASE_SERVICE_KEY` grava no Supabase (tabelas `races`,
+  `meta`, `source_cache`; função `replace_races`); sem eles, usa ficheiros em `site/data/`.
+- `site/config.js`: URL + anon key do Supabase. Preenchido = a página lê do Supabase e tem login por
+  email (magic link) com o calendário em `saved_races` (RLS por utilizador). Vazio = modo local.
+- `.github/workflows/atualizar.yml` corre a recolha de 3 em 3 horas e grava no Supabase (sem commits).
+- `vercel.json` publica `site/` sem build.
 - Última recolha incluída: cerca de 790 provas (1100 entradas antes de juntar).
 
 Correr: ver `README.md`. Em resumo: `pip install -r requirements.txt`, `python scraper/run.py`,
@@ -48,7 +52,7 @@ Correr: ver `README.md`. Em resumo: `pip install -r requirements.txt`, `python s
   "O meu calendário" usa para reencontrar a prova mesmo que o id principal mude.
 - Prioridade para nome/link principal: athleko > portugalrunning > racefinder > itra.
 
-## Próximo passo decidido: deploy com GitHub + Vercel + Supabase (com login)
+## Deploy: GitHub + Vercel + Supabase (com login) — código feito, ver README para os passos
 
 Decisões já tomadas com o utilizador:
 1. **GitHub**: repositório com o código. A recolha continua no **GitHub Actions** de 3 em 3 horas

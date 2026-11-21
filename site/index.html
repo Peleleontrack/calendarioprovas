@@ -70,7 +70,8 @@ a { color: var(--accent); }
 .top { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--surface); border-bottom: 1px solid var(--line); }
 .top .wrap { padding-block: 12px 10px; display: grid; grid-template-columns: minmax(0, 1fr); gap: 10px; }
 .filters, .filters > * { min-width: 0; }
-.brand { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.brand { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+.brand .tabs { margin-left: auto; }
 h1 { font-family: var(--font-display); font-weight: 700; font-size: 26px; letter-spacing: .01em; margin: 0; line-height: 1; text-transform: uppercase; }
 h1 span { color: var(--accent); }
 .tabs { display: flex; gap: 4px; background: var(--bg); border: 1px solid var(--line); border-radius: 999px; padding: 3px; }
@@ -78,6 +79,13 @@ h1 span { color: var(--accent); }
 .tab[aria-selected="true"] { background: var(--surface); color: var(--fg); box-shadow: 0 1px 2px rgb(0 0 0 / .12); }
 .tab .count { font-variant-numeric: tabular-nums; background: var(--saved); color: #fff; border-radius: 999px; font-size: 11px; padding: 1px 7px; min-width: 20px; text-align: center; }
 .tab .count[data-zero] { background: var(--line); color: var(--muted); }
+.account { order: 3; border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 6px 12px; font-size: 13px; font-weight: 500; cursor: pointer; max-width: 220px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.account.in { color: var(--muted); }
+.account.in::before { content: ""; display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: var(--t-trail); margin-right: 6px; vertical-align: 1px; }
+.login { display: flex; gap: 6px; flex-wrap: wrap; }
+.login input { flex: 1 1 220px; min-width: 0; padding: 8px 10px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--bg); }
+details.alt summary { cursor: pointer; font-size: 13px; color: var(--muted); }
+details.alt[open] { display: grid; gap: 10px; }
 
 .filters { display: grid; grid-template-columns: minmax(0, 1fr); gap: 8px; }
 .row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
@@ -164,7 +172,8 @@ footer .wrap { padding-block: 16px 32px; display: grid; gap: 6px; }
   .month { top: env(safe-area-inset-top, 0px); }
   .top .wrap { padding-block: 10px 8px; gap: 8px; }
   .brand { gap: 8px; }
-  .tabs { width: 100%; }
+  .brand .tabs { width: 100%; order: 4; margin-left: 0; }
+  .account { order: 2; max-width: 45%; padding: 5px 10px; margin-left: auto; }
   .tab { flex: 1; justify-content: center; padding: 6px 8px; }
   .filters .row { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 6px; }
   .filters .search { grid-column: 1 / -1; }
@@ -186,6 +195,7 @@ footer .wrap { padding-block: 16px 32px; display: grid; gap: 6px; }
   <div class="wrap">
     <div class="brand">
       <h1>Calendário <span>de Provas</span></h1>
+      <button class="account" id="account" hidden></button>
       <div class="tabs" role="tablist">
         <button class="tab" role="tab" id="tab-all" aria-selected="true" data-view="provas">Todas as provas</button>
         <button class="tab" role="tab" id="tab-mine" aria-selected="false" data-view="calendario">O meu calendário <span class="count" id="saved-count" data-zero>0</span></button>
@@ -235,6 +245,9 @@ footer .wrap { padding-block: 16px 32px; display: grid; gap: 6px; }
   </div>
 </main>
 
+<script src="config.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
+
 <footer>
   <div class="wrap">
     <div class="status" id="status"></div>
@@ -278,12 +291,77 @@ footer .wrap { padding-block: 16px 32px; display: grid; gap: 6px; }
     return { keys: r.keys, name: r.name, date: r.date, end_date: r.end_date, location: r.location, country: r.country,
       types: r.types, distances: r.distances, official_url: r.official_url, sources: r.sources, itra: r.itra || null };
   }
-  function toggleSave(id) {
+  async function toggleSave(id) {
     const r = RACES.find((x) => x.id === id) || saved.find((x) => x.keys[0] === id);
     if (!r) return;
     const i = findSaved(r);
-    if (i >= 0) saved.splice(i, 1); else saved.push(snapshot(r));
-    persist(); render();
+    if (i >= 0) {
+      const old = saved[i];
+      saved.splice(i, 1); persist(); render();
+      if (user) {
+        const { error } = await sb.from("saved_races").delete().overlaps("keys", old.keys);
+        if (error) { saved.splice(i, 0, old); persist(); render(); flash("Não foi possível tirar a prova da tua conta. Tenta outra vez."); }
+      }
+    } else {
+      const snap = snapshot(r);
+      saved.push(snap); persist(); render();
+      if (user) {
+        const { error } = await sb.from("saved_races").insert(rowOf(snap));
+        if (error) { saved = saved.filter((s) => s !== snap); persist(); render(); flash("Não foi possível guardar a prova na tua conta. Tenta outra vez."); }
+      }
+    }
+  }
+
+  // ---------- conta (Supabase): login por email e calendário sincronizado ----------
+  const CFG = window.CALENDARIO_CONFIG || {};
+  const sb = CFG.supabaseUrl && CFG.supabaseAnonKey && window.supabase ? window.supabase.createClient(CFG.supabaseUrl, CFG.supabaseAnonKey) : null;
+  let user = null;
+  let authNote = "";
+  const rowOf = (s) => ({ main_key: s.keys[0], keys: s.keys, snapshot: s });
+  function flash(msg) { const n = $("#mine-note"); if (n) { n.textContent = msg; n.className = "note"; } else $("#summary").textContent = msg; }
+
+  async function setUser(u) {
+    if ((u?.id || null) === (user?.id || null)) return;
+    user = u || null;
+    renderAccount();
+    if (user) await syncFromServer();
+    render();
+  }
+  async function syncFromServer() {
+    const { data, error } = await sb.from("saved_races").select("keys,snapshot");
+    if (error) { authNote = "Não foi possível ler o teu calendário da conta."; return; }
+    const server = data.map((row) => ({ ...row.snapshot, keys: row.keys }));
+    const serverKeys = new Set(server.flatMap((s) => s.keys));
+    // provas marcadas neste dispositivo antes de entrar sobem para a conta
+    const local = saved.filter((s) => !s.keys.some((k) => serverKeys.has(k)));
+    if (local.length) {
+      const { error: e2 } = await sb.from("saved_races").insert(local.map(rowOf));
+      if (e2) authNote = "Algumas provas deste dispositivo não foram para a conta.";
+    }
+    saved = [...server, ...local];
+    persist();
+  }
+  async function sendLink(email) {
+    const { error } = await sb.auth.signInWithOtp({ email, options: { emailRedirectTo: location.origin + location.pathname } });
+    authNote = error ? `Não foi possível enviar o link: ${error.message}` : `Enviámos um link para ${email}. Abre-o neste dispositivo para entrar.`;
+    render();
+  }
+  function renderAccount() {
+    const b = $("#account");
+    if (!sb) { b.hidden = true; return; }
+    b.hidden = false;
+    b.classList.toggle("in", !!user);
+    b.textContent = user ? user.email : "Entrar";
+    b.title = user ? "Sair da conta" : "Entrar para sincronizar o teu calendário";
+  }
+  $("#account").addEventListener("click", async () => {
+    if (user) { await sb.auth.signOut(); return; }
+    setView("calendario");
+    setTimeout(() => $("#login-email")?.focus(), 50);
+  });
+  if (sb) {
+    sb.auth.getSession().then(({ data }) => setUser(data.session?.user || null));
+    sb.auth.onAuthStateChange((_event, session) => { setUser(session?.user || null); });
   }
   function updateCount() {
     const c = $("#saved-count"); c.textContent = saved.length;
@@ -402,10 +480,7 @@ footer .wrap { padding-block: 16px 32px; display: grid; gap: 6px; }
     $("#summary").textContent = saved.length ? `${upcoming.length} ${upcoming.length === 1 ? "prova marcada" : "provas marcadas"}${past.length ? ` · ${past.length} já ${past.length === 1 ? "passou" : "passaram"}` : ""}` : "Ainda não marcaste nenhuma prova";
     $("#clear").hidden = true;
     $("#mine-panel").hidden = false;
-    $("#mine-panel").innerHTML = `
-      <div class="panel">
-        <h4>Levar este calendário para outro dispositivo</h4>
-        <p>As provas marcadas ficam guardadas neste browser. Copia o código aqui e cola-o no telemóvel (ou no PC) em "Importar".</p>
+    const transfer = `
         <div class="code">
           <input id="export-code" readonly value="${esc(exportCode())}" aria-label="Código do calendário">
           <button class="btn" data-action="copy">Copiar código</button>
@@ -413,7 +488,27 @@ footer .wrap { padding-block: 16px 32px; display: grid; gap: 6px; }
         <div class="code">
           <input id="import-code" placeholder="Cola aqui um código de outro dispositivo" aria-label="Importar código">
           <button class="btn" data-action="import">Importar</button>
-        </div>
+        </div>`;
+    let account;
+    if (sb && user) {
+      account = `<h4>Calendário guardado na tua conta</h4>
+        <p>Sessão iniciada como <strong>${esc(user.email)}</strong>. As provas que marcares aparecem em qualquer dispositivo onde entres com este email.</p>`;
+    } else if (sb) {
+      account = `<h4>Ter o mesmo calendário no PC e no telemóvel</h4>
+        <p>Entra com o teu email. Recebes um link para entrar, sem password. As provas que já marcaste aqui passam para a conta.</p>
+        <form class="login" id="login-form">
+          <input id="login-email" type="email" required placeholder="o.teu@email.pt" autocomplete="email" aria-label="Email">
+          <button class="btn primary" type="submit">Enviar link de entrada</button>
+        </form>
+        <details class="alt"><summary>Sem conta: passar o calendário com um código</summary>${transfer}</details>`;
+    } else {
+      account = `<h4>Levar este calendário para outro dispositivo</h4>
+        <p>As provas marcadas ficam guardadas neste browser. Copia o código aqui e cola-o no telemóvel (ou no PC) em "Importar".</p>${transfer}`;
+    }
+    $("#mine-panel").innerHTML = `
+      <div class="panel">
+        ${account}
+        ${authNote ? `<p class="note ok">${esc(authNote)}</p>` : ""}
         <div class="row">
           <button class="btn primary" data-action="ics" ${upcoming.length ? "" : "disabled"}>Descarregar ficheiro de calendário (.ics)</button>
           <span class="note" id="mine-note">Abre o ficheiro no Google Calendar, Outlook ou no calendário do telemóvel.</span>
@@ -443,13 +538,17 @@ footer .wrap { padding-block: 16px 32px; display: grid; gap: 6px; }
     const arr = JSON.parse(decodeURIComponent(escape(atob(code.slice(3)))));
     let added = 0;
     const byKey = new Map(); RACES.forEach((r) => r.keys.forEach((k) => byKey.set(k, r)));
+    const fresh = [];
     for (const [keys, name, date] of arr) {
       if (findSaved({ keys }) >= 0) continue;
       const live = keys.map((k) => byKey.get(k)).find(Boolean);
-      saved.push(live ? snapshot(live) : { keys, name, date, end_date: null, location: "", country: "", types: [], distances: [], official_url: "", sources: [] });
+      const snap = live ? snapshot(live) : { keys, name, date, end_date: null, location: "", country: "", types: [], distances: [], official_url: "", sources: [] };
+      saved.push(snap);
+      fresh.push(snap);
       added++;
     }
     persist();
+    if (user && fresh.length) sb.from("saved_races").insert(fresh.map(rowOf)).then(({ error }) => { if (error) flash("As provas importadas ficaram só neste dispositivo."); });
     return added;
   }
 
@@ -503,6 +602,12 @@ footer .wrap { padding-block: 16px 32px; display: grid; gap: 6px; }
       catch (err) { $("#mine-note").textContent = err.message.startsWith("Código") ? err.message : "Código inválido. Copia-o outra vez do outro dispositivo."; $("#mine-note").className = "note"; }
     }
   });
+  document.addEventListener("submit", (e) => {
+    if (e.target.id !== "login-form") return;
+    e.preventDefault();
+    const email = $("#login-email").value.trim();
+    if (email) { authNote = "A enviar…"; sendLink(email); }
+  });
   $("#clear").addEventListener("click", clearFilters);
   function clearFilters() {
     Object.assign(state, { q: "", where: "pt", month: "", source: "", pts: "" }); state.types.clear();
@@ -519,9 +624,31 @@ footer .wrap { padding-block: 16px 32px; display: grid; gap: 6px; }
   // ---------- arranque ----------
   $("#types").innerHTML = TYPES.map(([t, c]) => `<button class="chip" data-type="${t}" aria-pressed="false" style="--c: var(${c})"><i></i>${t}</button>`).join("");
   updateCount();
+  renderAccount();
   if (location.hash.slice(1) === "calendario") state.view = "calendario";
 
-  fetch("data/races.json", { cache: "no-cache" }).then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); }).then((data) => {
+  // provas: do Supabase quando configurado (em blocos de 1000), senão do ficheiro gerado pela recolha
+  async function loadRaces() {
+    if (sb) {
+      try {
+        const races = [];
+        for (let from = 0; ; from += 1000) {
+          const { data, error } = await sb.from("races").select("id,keys,name,date,end_date,location,country,types,distances,official_url,sources,itra")
+            .order("date").order("name").range(from, from + 999);
+          if (error) throw error;
+          races.push(...data);
+          if (data.length < 1000) break;
+        }
+        const { data: m } = await sb.from("meta").select("value").eq("key", "last_run").maybeSingle();
+        if (races.length) return { ...(m?.value || {}), races };
+      } catch (err) { console.warn("Supabase indisponível, a usar o ficheiro local", err); }
+    }
+    const r = await fetch("data/races.json", { cache: "no-cache" });
+    if (!r.ok) throw new Error(r.status);
+    return r.json();
+  }
+
+  loadRaces().then((data) => {
     META = data;
     RACES = data.races;
     const months = [...new Set(RACES.map((r) => r.date.slice(0, 7)))].sort();
