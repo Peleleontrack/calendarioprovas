@@ -17,7 +17,13 @@ as provas que a pessoa quer fazer. Inscrições fazem-se sempre no site oficial 
   Estrutura em `supabase/migrations/` (001 tabelas + RLS, 002 permissões: projetos novos não dão grants automáticos).
 - Recolha: GitHub Actions de 3 em 3 horas com o segredo `SUPABASE_SERVICE_KEY`; `SKIP_SOURCES: itra` porque o
   ITRA (CloudFront/WAF) responde HTTP 202 a servidores. A cache ITRA em `source_cache` vem de recolhas feitas de um PC.
-- Login por email testado: o calendário fica em `saved_races`.
+- Login: email + password (principal) e link por email (alternativa). No iPhone, a app instalada tem armazenamento
+  separado do Safari, por isso um link do email não inicia sessão na app; daí a password. Código OTP de 6 dígitos
+  não dá: no plano grátis com o SMTP do Supabase não se podem editar os modelos de email. O calendário fica em `saved_races`.
+- PWA: `site/manifest.webmanifest`, `site/icons/`, `site/sw.js` (cache `provas-v1`: base da app, provas e meta do
+  Supabase em network-first; login e `saved_races` nunca em cache). Mudar `VERSION` no sw.js para forçar limpeza.
+  O browser interno do Claude Code não regista service workers em localhost; testar no site em produção.
+- O Portugal Running deu timeout a partir do GitHub Actions numa execução (21/11 17:00); vigiar se se repete.
 - Próximo: secção Strava (fase 2, abaixo).
 
 ## Estado atual (funciona)
