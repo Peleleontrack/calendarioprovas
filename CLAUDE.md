@@ -9,6 +9,17 @@ Um hub pessoal que junta provas de corrida, trail, triatlo e afins de vários si
 portugueses, ordenadas por data, sem duplicados, com "O meu calendário" para marcar
 as provas que a pessoa quer fazer. Inscrições fazem-se sempre no site oficial (link).
 
+## Em produção (21/11/2026)
+
+- Site: https://calendarioprovas.vercel.app (Vercel, conta do dono do repositório; cada push para `main` publica).
+- Repositório: https://github.com/Peleleontrack/calendarioprovas
+- Supabase: projeto `calendarioprovas` (ref `wtgjdtzvcogfsrhgixgv`, Irlanda), organização Peleleontrack.
+  Estrutura em `supabase/migrations/` (001 tabelas + RLS, 002 permissões: projetos novos não dão grants automáticos).
+- Recolha: GitHub Actions de 3 em 3 horas com o segredo `SUPABASE_SERVICE_KEY`; `SKIP_SOURCES: itra` porque o
+  ITRA (CloudFront/WAF) responde HTTP 202 a servidores. A cache ITRA em `source_cache` vem de recolhas feitas de um PC.
+- Login por email testado: o calendário fica em `saved_races`.
+- Próximo: secção Strava (fase 2, abaixo).
+
 ## Estado atual (funciona)
 
 - `scraper/` recolhe 4 sites, junta duplicados e gera `site/data/races.json` + `site/index.html`.
