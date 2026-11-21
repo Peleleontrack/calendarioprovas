@@ -72,7 +72,7 @@ Para atualizar, num PC com Python (a chave é a mesma service_role do segredo do
 ```
 set SUPABASE_URL=https://wtgjdtzvcogfsrhgixgv.supabase.co
 set SUPABASE_SERVICE_KEY=<service_role key>
-.venv\Scripts\python scraperun.py itra
+.venv\Scripts\python scraper\run.py itra
 ```
 
 (No Claude Code, também se pode pedir para recolher o ITRA localmente e gravar na tabela `source_cache`.)
