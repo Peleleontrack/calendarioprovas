@@ -1,0 +1,536 @@
+<title>Calendário de Provas</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Inter:wght@400;500;600&display=swap">
+<style>
+/* Layout: ferramenta de uma coluna; barra de filtros fixa no topo, lista agrupada por mês com o dia em destaque como um dorsal */
+:root {
+  --bg: #f4f6f8;
+  --surface: #ffffff;
+  --fg: #16202b;
+  --muted: #5d6b7a;
+  --line: #dde3ea;
+  --accent: #1f4fd1;
+  --accent-soft: #e6ecfb;
+  --accent-fg: #ffffff;
+  --saved: #e8590c;
+  --saved-soft: #fdeee4;
+  --t-estrada: #5b6b80;
+  --t-trail: #2f8a4a;
+  --t-ultra: #1d5e33;
+  --t-agua: #0f8aa6;
+  --t-bike: #7a5bc4;
+  --t-orient: #e8590c;
+  --t-outro: #9a7b12;
+  --font-display: "Barlow Condensed", "Arial Narrow", "Roboto Condensed", sans-serif;
+  --font-body: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --radius: 10px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0f151c; --surface: #17202a; --fg: #e6edf4; --muted: #93a1b0; --line: #273341;
+    --accent: #7d9cff; --accent-soft: #1d2a4a; --accent-fg: #0b1220;
+    --saved: #ff8a4c; --saved-soft: #3a2216;
+    --t-estrada: #9aa9bb; --t-trail: #5cc27a; --t-ultra: #8fd9a5; --t-agua: #4cc3dd; --t-bike: #b59cf0; --t-orient: #ff8a4c; --t-outro: #e0c35a;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0f151c; --surface: #17202a; --fg: #e6edf4; --muted: #93a1b0; --line: #273341;
+  --accent: #7d9cff; --accent-soft: #1d2a4a; --accent-fg: #0b1220;
+  --saved: #ff8a4c; --saved-soft: #3a2216;
+  --t-estrada: #9aa9bb; --t-trail: #5cc27a; --t-ultra: #8fd9a5; --t-agua: #4cc3dd; --t-bike: #b59cf0; --t-orient: #ff8a4c; --t-outro: #e0c35a;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--fg);
+  font-family: var(--font-body); font-size: 15px; line-height: 1.45;
+}
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--surface); }
+.wrap {
+  max-width: 960px; margin: 0 auto;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+button, input, select { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+a { color: var(--accent); }
+
+/* Cabeçalho + filtros */
+.top { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--surface); border-bottom: 1px solid var(--line); }
+.top .wrap { padding-block: 12px 10px; display: grid; grid-template-columns: minmax(0, 1fr); gap: 10px; }
+.filters, .filters > * { min-width: 0; }
+.brand { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+h1 { font-family: var(--font-display); font-weight: 700; font-size: 26px; letter-spacing: .01em; margin: 0; line-height: 1; text-transform: uppercase; }
+h1 span { color: var(--accent); }
+.tabs { display: flex; gap: 4px; background: var(--bg); border: 1px solid var(--line); border-radius: 999px; padding: 3px; }
+.tab { border: 0; background: none; padding: 6px 14px; border-radius: 999px; cursor: pointer; font-weight: 600; font-size: 14px; color: var(--muted); display: inline-flex; gap: 6px; align-items: center; }
+.tab[aria-selected="true"] { background: var(--surface); color: var(--fg); box-shadow: 0 1px 2px rgb(0 0 0 / .12); }
+.tab .count { font-variant-numeric: tabular-nums; background: var(--saved); color: #fff; border-radius: 999px; font-size: 11px; padding: 1px 7px; min-width: 20px; text-align: center; }
+.tab .count[data-zero] { background: var(--line); color: var(--muted); }
+
+.filters { display: grid; grid-template-columns: minmax(0, 1fr); gap: 8px; }
+.row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.search { flex: 1 1 240px; min-width: 0; position: relative; }
+.search input { width: 100%; padding: 9px 12px 9px 34px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--bg); }
+.search svg { position: absolute; left: 11px; top: 50%; transform: translateY(-50%); width: 16px; height: 16px; stroke: var(--muted); fill: none; }
+select { padding: 8px 10px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--bg); max-width: 100%; }
+.chips { display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; padding-bottom: 2px; }
+.chips::-webkit-scrollbar { display: none; }
+.chip { flex: none; border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 5px 11px; font-size: 13px; font-weight: 500; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; }
+.chip i { width: 8px; height: 8px; border-radius: 50%; background: var(--c, var(--muted)); }
+.chip[aria-pressed="true"] { background: var(--fg); color: var(--surface); border-color: var(--fg); }
+.chip[aria-pressed="true"] i { box-shadow: 0 0 0 2px var(--surface); }
+.summary { font-size: 13px; color: var(--muted); display: flex; gap: 10px; flex-wrap: wrap; justify-content: space-between; }
+.summary button { border: 0; background: none; color: var(--accent); cursor: pointer; padding: 0; font-size: 13px; }
+
+/* Lista */
+main .wrap { padding-block: 8px 48px; }
+.month { position: sticky; top: calc(env(safe-area-inset-top, 0px) + var(--top-h, 150px)); z-index: 2; background: var(--bg); padding: 14px 0 6px; display: flex; align-items: baseline; gap: 10px; }
+.month h2 { margin: 0; font-family: var(--font-display); font-weight: 600; font-size: 20px; text-transform: uppercase; letter-spacing: .04em; }
+.month small { color: var(--muted); font-variant-numeric: tabular-nums; }
+.list { display: grid; gap: 8px; }
+.race { display: grid; grid-template-columns: 64px minmax(0, 1fr) auto; gap: 14px; align-items: start; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 12px 14px; }
+.race.is-saved { border-color: var(--saved); box-shadow: inset 3px 0 0 var(--saved); }
+.race.is-past { opacity: .55; }
+.bib { text-align: center; border: 1.5px solid var(--fg); border-radius: 6px; padding: 4px 0 3px; line-height: 1; position: relative; }
+.bib::before, .bib::after { content: ""; position: absolute; top: 4px; width: 4px; height: 4px; border-radius: 50%; background: var(--line); }
+.bib::before { left: 4px; } .bib::after { right: 4px; }
+.bib .wd { font-size: 10px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); font-weight: 600; }
+.bib .d { font-family: var(--font-display); font-weight: 700; font-size: 30px; font-variant-numeric: tabular-nums; display: block; margin: 2px 0 1px; }
+.bib .m { font-size: 10px; text-transform: uppercase; letter-spacing: .08em; font-weight: 600; }
+.bib .to { display: block; font-size: 10px; color: var(--muted); margin-top: 3px; font-variant-numeric: tabular-nums; }
+.info { min-width: 0; display: grid; gap: 5px; }
+.info h3 { margin: 0; font-size: 16px; font-weight: 600; line-height: 1.3; text-wrap: balance; overflow-wrap: anywhere; }
+.meta { color: var(--muted); font-size: 13px; display: flex; flex-wrap: wrap; gap: 4px 12px; }
+.tags { display: flex; flex-wrap: wrap; gap: 4px; }
+.type { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .05em; color: var(--c); border: 1px solid currentColor; border-radius: 4px; padding: 1px 6px; }
+.dist { font-size: 12px; background: var(--bg); border-radius: 4px; padding: 1px 6px; color: var(--fg); font-variant-numeric: tabular-nums; }
+.course { font-size: 12px; display: inline-flex; align-items: stretch; border: 1px solid var(--line); border-radius: 4px; overflow: hidden; font-variant-numeric: tabular-nums; text-decoration: none; color: var(--fg); }
+.course span { padding: 1px 6px; }
+.course .dp { color: var(--muted); border-left: 1px solid var(--line); }
+.course .pt { background: var(--t-ultra); color: var(--surface); font-weight: 600; }
+.course .pt.none { background: var(--bg); color: var(--muted); font-weight: 500; }
+a.course:hover { border-color: var(--t-ultra); }
+.links { font-size: 12.5px; display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: center; }
+.links .lbl { color: var(--muted); }
+.links a { text-decoration: none; }
+.links a:hover { text-decoration: underline; }
+.links a.official { font-weight: 600; }
+.actions { display: grid; gap: 6px; justify-items: end; }
+.save { border: 1.5px solid var(--line); background: var(--surface); border-radius: 999px; width: 38px; height: 38px; display: grid; place-items: center; cursor: pointer; color: var(--muted); }
+.save svg { width: 18px; height: 18px; }
+.save[aria-pressed="true"] { background: var(--saved); border-color: var(--saved); color: #fff; }
+.save:hover { border-color: var(--saved); color: var(--saved); }
+.save[aria-pressed="true"]:hover { color: #fff; }
+.until { font-size: 11px; color: var(--muted); white-space: nowrap; font-variant-numeric: tabular-nums; }
+.meta .until-m { display: none; color: var(--fg); font-weight: 500; }
+
+.empty { text-align: center; padding: 48px 16px; color: var(--muted); display: grid; gap: 10px; justify-items: center; }
+.empty strong { color: var(--fg); font-size: 16px; }
+.btn { border: 1px solid var(--line); background: var(--surface); border-radius: var(--radius); padding: 8px 14px; cursor: pointer; font-weight: 500; font-size: 14px; display: inline-flex; gap: 6px; align-items: center; text-decoration: none; color: var(--fg); }
+.btn.primary { background: var(--accent); border-color: var(--accent); color: var(--accent-fg); }
+
+/* Painel do calendário */
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 14px; margin-top: 12px; display: grid; gap: 10px; }
+.panel h4 { margin: 0; font-size: 14px; }
+.panel p { margin: 0; color: var(--muted); font-size: 13px; max-width: 65ch; }
+.code { display: flex; gap: 6px; flex-wrap: wrap; }
+.code input { flex: 1 1 220px; min-width: 0; padding: 8px 10px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--bg); font-family: ui-monospace, Consolas, monospace; font-size: 12px; }
+.note { font-size: 13px; color: var(--muted); }
+.note.ok { color: var(--t-trail); }
+.gone { font-size: 11px; color: var(--saved); font-weight: 600; text-transform: uppercase; letter-spacing: .05em; }
+
+footer { border-top: 1px solid var(--line); color: var(--muted); font-size: 12.5px; }
+footer .wrap { padding-block: 16px 32px; display: grid; gap: 6px; }
+.status { display: flex; flex-wrap: wrap; gap: 4px 14px; }
+.status b { font-weight: 600; color: var(--fg); }
+.dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: var(--t-trail); margin-right: 5px; vertical-align: 1px; }
+.dot.err { background: var(--saved); }
+.dot.manual { background: var(--muted); }
+
+@media (max-width: 560px) {
+  .top { position: static; }
+  .month { top: env(safe-area-inset-top, 0px); }
+  .top .wrap { padding-block: 10px 8px; gap: 8px; }
+  .brand { gap: 8px; }
+  .tabs { width: 100%; }
+  .tab { flex: 1; justify-content: center; padding: 6px 8px; }
+  .filters .row { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 6px; }
+  .filters .search { grid-column: 1 / -1; }
+  select { font-size: 13px; padding: 7px 6px; }
+  .race { grid-template-columns: 52px minmax(0, 1fr) auto; gap: 10px; padding: 10px; }
+  .save { width: 34px; height: 34px; }
+  .until { display: none; }
+  .meta .until-m { display: inline; }
+  .bib .d { font-size: 26px; }
+  .bib .to { font-size: 9px; }
+  h1 { font-size: 22px; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .save { transition: background .15s, border-color .15s, color .15s; }
+}
+</style>
+
+<header class="top" id="top">
+  <div class="wrap">
+    <div class="brand">
+      <h1>Calendário <span>de Provas</span></h1>
+      <div class="tabs" role="tablist">
+        <button class="tab" role="tab" id="tab-all" aria-selected="true" data-view="provas">Todas as provas</button>
+        <button class="tab" role="tab" id="tab-mine" aria-selected="false" data-view="calendario">O meu calendário <span class="count" id="saved-count" data-zero>0</span></button>
+      </div>
+    </div>
+    <div class="filters" id="filters">
+      <div class="row">
+        <label class="search">
+          <svg viewBox="0 0 24 24" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <input id="q" type="search" placeholder="Procurar prova ou local (ex.: Gerês, meia maratona)" autocomplete="off" aria-label="Procurar">
+        </label>
+        <select id="where" aria-label="Onde">
+          <option value="pt">Portugal</option>
+          <option value="intl">Internacional</option>
+          <option value="all">Todo o lado</option>
+        </select>
+        <select id="month" aria-label="Mês"><option value="">Todos os meses</option></select>
+        <select id="source" aria-label="Site">
+          <option value="">Todos os sites</option>
+          <option value="athleko">Athleko</option>
+          <option value="portugalrunning">Portugal Running</option>
+          <option value="racefinder">Racefinder</option>
+          <option value="itra">ITRA (qualificadas)</option>
+          <option value="orioasis">OriOasis</option>
+        </select>
+        <select id="pts" aria-label="Pontos ITRA">
+          <option value="">Pontos ITRA: todos</option>
+          <option value="any">Só provas ITRA</option>
+          <option value="1">1 ponto ou mais</option>
+          <option value="2">2 pontos ou mais</option>
+          <option value="3">3 pontos ou mais</option>
+          <option value="4">4 pontos ou mais</option>
+          <option value="5">5 pontos ou mais</option>
+          <option value="6">6 pontos</option>
+        </select>
+      </div>
+      <div class="chips" id="types" aria-label="Tipo de prova"></div>
+      <div class="summary"><span id="summary">A carregar provas…</span><button id="clear" hidden>Limpar filtros</button></div>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <div id="mine-panel" hidden></div>
+    <div id="out"></div>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="status" id="status"></div>
+    <div>Os dados são recolhidos automaticamente uma vez por dia. As inscrições fazem-se sempre no site oficial ou no site de origem. Orientação: <a href="https://www.orioasis.pt/oasis/shortcut.php?action=shortcut_events+event_view_info&amp;script=events&amp;view_type=list&amp;header=advanced&amp;country_code=-1&amp;interval=calend" target="_blank" rel="noopener">calendário no OriOasis</a>.</div>
+  </div>
+</footer>
+
+<script>
+(() => {
+  const TYPES = [
+    ["Estrada", "--t-estrada"], ["Trail", "--t-trail"], ["Ultra", "--t-ultra"], ["Caminhada", "--t-outro"],
+    ["Triatlo", "--t-agua"], ["Duatlo", "--t-bike"], ["Natação", "--t-agua"], ["Ciclismo", "--t-bike"],
+    ["Obstáculos", "--t-outro"], ["Kids", "--t-outro"], ["Orientação", "--t-orient"],
+  ];
+  const TCOLOR = Object.fromEntries(TYPES);
+  const LABELS = { athleko: "Athleko", portugalrunning: "Portugal Running", racefinder: "Racefinder", itra: "ITRA", orioasis: "OriOasis" };
+  const MONTHS = ["janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"];
+  const MSHORT = ["jan","fev","mar","abr","mai","jun","jul","ago","set","out","nov","dez"];
+  const WD = ["dom","seg","ter","qua","qui","sex","sáb"];
+  const STORE = "calendario-provas:guardadas";
+  const $ = (s) => document.querySelector(s);
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const norm = (s) => String(s ?? "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+  const todayISO = (() => { const d = new Date(); return new Date(d.getTime() - d.getTimezoneOffset() * 60000).toISOString().slice(0, 10); })();
+  const parse = (iso) => { const [y, m, d] = iso.split("-").map(Number); return new Date(y, m - 1, d); };
+
+  let RACES = [];
+  let META = {};
+  const state = { view: "provas", q: "", where: "pt", month: "", source: "", pts: "", types: new Set() };
+  const maxPts = (r) => r.itra ? Math.max(-1, ...r.itra.map((c) => c.points ?? -1)) : -1;
+
+  // ---------- guardadas (localStorage, com proteção) ----------
+  function loadSaved() {
+    try { const v = JSON.parse(localStorage.getItem(STORE) || "[]"); return Array.isArray(v) ? v : []; } catch { return []; }
+  }
+  let saved = loadSaved();
+  function persist() { try { localStorage.setItem(STORE, JSON.stringify(saved)); } catch {} updateCount(); }
+  const savedIndex = () => { const m = new Map(); saved.forEach((s, i) => s.keys.forEach((k) => m.set(k, i))); return m; };
+  function findSaved(r) { const idx = savedIndex(); for (const k of r.keys) if (idx.has(k)) return idx.get(k); return -1; }
+  function snapshot(r) {
+    return { keys: r.keys, name: r.name, date: r.date, end_date: r.end_date, location: r.location, country: r.country,
+      types: r.types, distances: r.distances, official_url: r.official_url, sources: r.sources, itra: r.itra || null };
+  }
+  function toggleSave(id) {
+    const r = RACES.find((x) => x.id === id) || saved.find((x) => x.keys[0] === id);
+    if (!r) return;
+    const i = findSaved(r);
+    if (i >= 0) saved.splice(i, 1); else saved.push(snapshot(r));
+    persist(); render();
+  }
+  function updateCount() {
+    const c = $("#saved-count"); c.textContent = saved.length;
+    if (saved.length) c.removeAttribute("data-zero"); else c.setAttribute("data-zero", "");
+  }
+
+  // ---------- filtros ----------
+  function isPT(r) { return !r.country || norm(r.country) === "portugal"; }
+  function matches(r) {
+    if (state.where === "pt" && !isPT(r)) return false;
+    if (state.where === "intl" && isPT(r)) return false;
+    if (state.month && r.date.slice(0, 7) !== state.month && (r.end_date || r.date).slice(0, 7) !== state.month) return false;
+    if (state.source && !r.sources.some((s) => s.site === state.source)) return false;
+    if (state.types.size && !r.types.some((t) => state.types.has(t))) return false;
+    if (state.pts === "any" && !r.itra) return false;
+    if (state.pts && state.pts !== "any" && maxPts(r) < Number(state.pts)) return false;
+    if (state.q) {
+      const hay = r._hay || (r._hay = norm([r.name, r.location, r.country, r.types.join(" "), r.distances.join(" ")].join(" ")));
+      if (!state.q.split(/\s+/).every((w) => hay.includes(w))) return false;
+    }
+    return true;
+  }
+
+  // ---------- desenho ----------
+  function bib(r) {
+    const d = parse(r.date);
+    let to = "";
+    if (r.end_date) { const e = parse(r.end_date); to = `<span class="to">até ${e.getDate()} ${MSHORT[e.getMonth()]}</span>`; }
+    return `<div class="bib" aria-label="${d.getDate()} de ${MONTHS[d.getMonth()]}"><span class="wd">${WD[d.getDay()]}</span><span class="d">${d.getDate()}</span><span class="m">${MSHORT[d.getMonth()]}</span>${to}</div>`;
+  }
+  function until(r) {
+    const days = Math.round((parse(r.date) - parse(todayISO)) / 86400000);
+    if (days < 0) return (r.end_date && r.end_date >= todayISO) ? "a decorrer" : "já passou";
+    if (days === 0) return "hoje";
+    if (days === 1) return "amanhã";
+    if (days < 60) return `daqui a ${days} dias`;
+    return `daqui a ${Math.round(days / 30.4)} meses`;
+  }
+  function gcal(r) {
+    const a = r.date.replaceAll("-", "");
+    const e = parse(r.end_date || r.date); e.setDate(e.getDate() + 1);
+    const b = `${e.getFullYear()}${String(e.getMonth() + 1).padStart(2, "0")}${String(e.getDate()).padStart(2, "0")}`;
+    const url = r.official_url || r.sources[0]?.url || "";
+    const p = new URLSearchParams({ action: "TEMPLATE", text: r.name, dates: `${a}/${b}`, location: [r.location, r.country].filter(Boolean).join(", "), details: url });
+    return `https://calendar.google.com/calendar/render?${p}`;
+  }
+  function card(r, { mine = false, gone = false } = {}) {
+    const isSaved = mine || findSaved(r) >= 0;
+    const past = (r.end_date || r.date) < todayISO;
+    const loc = [r.location, r.country && !isPT(r) ? r.country : ""].filter(Boolean).join(" · ");
+    const types = r.types.map((t) => `<span class="type" style="--c: var(${TCOLOR[t] || "--muted"})">${esc(t)}</span>`).join("");
+    const kmOf = (s) => parseFloat(String(s).replace(",", "."));
+    const courses = (r.itra || []).map((c) => {
+      const pt = c.points == null ? `<span class="pt none" title="Pontos ITRA ainda não atribuídos">– pts</span>` : `<span class="pt" title="Pontos ITRA">${c.points} ${c.points === 1 ? "pt" : "pts"}</span>`;
+      const inner = `<span>${esc(c.km)}</span>${c.dplus != null ? `<span class="dp">+${c.dplus} m</span>` : ""}${pt}`;
+      return c.url ? `<a class="course" href="${esc(c.url)}" target="_blank" rel="noopener" title="Ver no ITRA">${inner}</a>` : `<span class="course">${inner}</span>`;
+    }).join("");
+    // distâncias de outros sites que o ITRA não cobre (diferença de mais de 2,5 km)
+    const itraKm = (r.itra || []).map((c) => kmOf(c.km));
+    const dists = r.distances.filter((d) => !itraKm.some((k) => Math.abs(k - kmOf(d)) <= 2.5)).slice(0, 7).map((d) => `<span class="dist">${esc(d)}</span>`).join("");
+    const official = r.official_url ? `<a class="official" href="${esc(r.official_url)}" target="_blank" rel="noopener">Site oficial ↗</a>` : "";
+    const srcs = r.sources.map((s) => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label || LABELS[s.site] || s.site)}</a>`).join("");
+    const id = mine ? r.keys[0] : r.id;
+    return `<article class="race${isSaved && !mine ? " is-saved" : ""}${past ? " is-past" : ""}">
+      ${bib(r)}
+      <div class="info">
+        <h3>${esc(r.name)}</h3>
+        <div class="meta">${loc ? `<span>${esc(loc)}</span>` : ""}<span class="until-m">${until(r)}</span></div>
+        ${types || dists ? `<div class="tags">${types}${dists}</div>` : ""}
+        ${courses ? `<div class="tags">${courses}</div>` : ""}
+        <div class="links">${official}<span class="lbl">${r.sources.length > 1 ? "Em" : "Fonte"}:</span>${srcs}${mine ? `<a href="${esc(gcal(r))}" target="_blank" rel="noopener">+ Google Calendar</a>` : ""}</div>
+        ${gone ? `<span class="gone">Já não aparece nos sites</span>` : ""}
+      </div>
+      <div class="actions">
+        <button class="save" data-save="${esc(id)}" aria-pressed="${isSaved}" aria-label="${isSaved ? "Tirar do meu calendário" : "Guardar no meu calendário"}" title="${isSaved ? "Tirar do meu calendário" : "Guardar no meu calendário"}">
+          <svg viewBox="0 0 24 24" fill="${isSaved ? "currentColor" : "none"}" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M6 3h12v18l-6-4-6 4z"/></svg>
+        </button>
+        <span class="until">${until(r)}</span>
+      </div>
+    </article>`;
+  }
+  function groupByMonth(list, opts) {
+    let html = "", cur = "", buf = [], n = 0;
+    const flush = () => {
+      if (!cur) return;
+      const [y, m] = cur.split("-").map(Number);
+      html += `<section><div class="month"><h2>${MONTHS[m - 1]} ${y}</h2><small>${n} ${n === 1 ? "prova" : "provas"}</small></div><div class="list">${buf.join("")}</div></section>`;
+    };
+    for (const item of list) {
+      const r = item.r || item;
+      const k = r.date.slice(0, 7);
+      if (k !== cur) { flush(); cur = k; buf = []; n = 0; }
+      buf.push(card(r, item.opts || opts)); n++;
+    }
+    flush();
+    return html;
+  }
+
+  function renderAll() {
+    const list = RACES.filter(matches);
+    const filtered = state.q || state.month || state.source || state.pts || state.types.size || state.where !== "pt";
+    $("#summary").textContent = `${list.length} ${list.length === 1 ? "prova" : "provas"}${filtered ? " com estes filtros" : " em Portugal"} · ordenadas por data`;
+    $("#clear").hidden = !filtered;
+    $("#out").innerHTML = list.length ? groupByMonth(list) :
+      `<div class="empty"><strong>Nenhuma prova encontrada</strong><span>Experimenta outro mês, outro tipo ou "Todo o lado".</span><button class="btn" data-action="clear">Limpar filtros</button></div>`;
+  }
+
+  function renderMine() {
+    const byKey = new Map(); RACES.forEach((r) => r.keys.forEach((k) => byKey.set(k, r)));
+    const items = saved.map((s) => {
+      const live = s.keys.map((k) => byKey.get(k)).find(Boolean);
+      return live ? { r: { ...live, keys: [...new Set([...s.keys, ...live.keys])] }, opts: { mine: true } } : { r: s, opts: { mine: true, gone: (s.end_date || s.date) >= todayISO } };
+    }).sort((a, b) => a.r.date.localeCompare(b.r.date));
+    const upcoming = items.filter((i) => (i.r.end_date || i.r.date) >= todayISO);
+    const past = items.filter((i) => (i.r.end_date || i.r.date) < todayISO);
+    $("#summary").textContent = saved.length ? `${upcoming.length} ${upcoming.length === 1 ? "prova marcada" : "provas marcadas"}${past.length ? ` · ${past.length} já ${past.length === 1 ? "passou" : "passaram"}` : ""}` : "Ainda não marcaste nenhuma prova";
+    $("#clear").hidden = true;
+    $("#mine-panel").hidden = false;
+    $("#mine-panel").innerHTML = `
+      <div class="panel">
+        <h4>Levar este calendário para outro dispositivo</h4>
+        <p>As provas marcadas ficam guardadas neste browser. Copia o código aqui e cola-o no telemóvel (ou no PC) em "Importar".</p>
+        <div class="code">
+          <input id="export-code" readonly value="${esc(exportCode())}" aria-label="Código do calendário">
+          <button class="btn" data-action="copy">Copiar código</button>
+        </div>
+        <div class="code">
+          <input id="import-code" placeholder="Cola aqui um código de outro dispositivo" aria-label="Importar código">
+          <button class="btn" data-action="import">Importar</button>
+        </div>
+        <div class="row">
+          <button class="btn primary" data-action="ics" ${upcoming.length ? "" : "disabled"}>Descarregar ficheiro de calendário (.ics)</button>
+          <span class="note" id="mine-note">Abre o ficheiro no Google Calendar, Outlook ou no calendário do telemóvel.</span>
+        </div>
+      </div>`;
+    $("#out").innerHTML = items.length
+      ? groupByMonth(upcoming) + (past.length ? `<section><div class="month"><h2>Já passaram</h2><small>${past.length}</small></div><div class="list">${past.map((i) => card(i.r, i.opts)).join("")}</div></section>` : "")
+      : `<div class="empty"><strong>O teu calendário está vazio</strong><span>Em "Todas as provas", carrega no marcador ao lado de uma prova para a guardares aqui.</span><button class="btn primary" data-action="go-all">Ver todas as provas</button></div>`;
+  }
+
+  function render() {
+    $("#tab-all").setAttribute("aria-selected", state.view === "provas");
+    $("#tab-mine").setAttribute("aria-selected", state.view === "calendario");
+    $("#filters").querySelectorAll(".row, .chips").forEach((el) => (el.hidden = state.view !== "provas"));
+    if (state.view === "provas") { $("#mine-panel").hidden = true; renderAll(); } else renderMine();
+    measureTop();
+  }
+
+  // ---------- código para outro dispositivo ----------
+  function exportCode() {
+    if (!saved.length) return "";
+    try { return "P1." + btoa(unescape(encodeURIComponent(JSON.stringify(saved.map((s) => [s.keys, s.name, s.date]))))); } catch { return ""; }
+  }
+  function importCode(code) {
+    code = code.trim();
+    if (!code.startsWith("P1.")) throw new Error("Código inválido. Deve começar por P1.");
+    const arr = JSON.parse(decodeURIComponent(escape(atob(code.slice(3)))));
+    let added = 0;
+    const byKey = new Map(); RACES.forEach((r) => r.keys.forEach((k) => byKey.set(k, r)));
+    for (const [keys, name, date] of arr) {
+      if (findSaved({ keys }) >= 0) continue;
+      const live = keys.map((k) => byKey.get(k)).find(Boolean);
+      saved.push(live ? snapshot(live) : { keys, name, date, end_date: null, location: "", country: "", types: [], distances: [], official_url: "", sources: [] });
+      added++;
+    }
+    persist();
+    return added;
+  }
+
+  // ---------- .ics ----------
+  function ics() {
+    const fmt = (iso, add = 0) => { const d = parse(iso); d.setDate(d.getDate() + add); return `${d.getFullYear()}${String(d.getMonth() + 1).padStart(2, "0")}${String(d.getDate()).padStart(2, "0")}`; };
+    const escI = (s) => String(s || "").replace(/[\\,;]/g, (c) => "\\" + c).replace(/\n/g, "\\n");
+    const stamp = new Date().toISOString().replace(/[-:]/g, "").slice(0, 15) + "Z";
+    const byKey = new Map(); RACES.forEach((r) => r.keys.forEach((k) => byKey.set(k, r)));
+    const lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Calendario de Provas//PT", "CALSCALE:GREGORIAN", "X-WR-CALNAME:As minhas provas"];
+    saved.forEach((s) => {
+      const r = s.keys.map((k) => byKey.get(k)).find(Boolean) || s;
+      if ((r.end_date || r.date) < todayISO) return;
+      const url = r.official_url || r.sources?.[0]?.url || "";
+      lines.push("BEGIN:VEVENT", `UID:${escI(s.keys[0])}@calendario-provas`, `DTSTAMP:${stamp}`,
+        `DTSTART;VALUE=DATE:${fmt(r.date)}`, `DTEND;VALUE=DATE:${fmt(r.end_date || r.date, 1)}`,
+        `SUMMARY:${escI(r.name)}`, `LOCATION:${escI([r.location, r.country].filter(Boolean).join(", "))}`,
+        `DESCRIPTION:${escI([r.distances?.join(" · "), url].filter(Boolean).join("\n"))}`, url ? `URL:${url}` : "", "END:VEVENT");
+    });
+    lines.push("END:VCALENDAR");
+    const blob = new Blob([lines.filter(Boolean).join("\r\n")], { type: "text/calendar" });
+    const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = "as-minhas-provas.ics";
+    document.body.appendChild(a); a.click(); a.remove();
+    $("#mine-note").textContent = "Ficheiro descarregado. Se nada aconteceu, usa os links \"+ Google Calendar\" em cada prova.";
+  }
+
+  // ---------- eventos ----------
+  function setView(v) { state.view = v; if (location.hash.slice(1) !== v) history.replaceState(null, "", v === "provas" ? location.pathname : "#" + v); render(); window.scrollTo(0, 0); }
+  document.addEventListener("click", (e) => {
+    const t = e.target.closest("[data-save],[data-view],[data-action],[data-type]");
+    if (!t) return;
+    if (t.dataset.save) return toggleSave(t.dataset.save);
+    if (t.dataset.view) return setView(t.dataset.view);
+    if (t.dataset.type) {
+      const ty = t.dataset.type;
+      state.types.has(ty) ? state.types.delete(ty) : state.types.add(ty);
+      t.setAttribute("aria-pressed", state.types.has(ty)); return render();
+    }
+    const a = t.dataset.action;
+    if (a === "clear") return clearFilters();
+    if (a === "go-all") return setView("provas");
+    if (a === "ics") return ics();
+    if (a === "copy") {
+      const inp = $("#export-code");
+      if (!inp.value) { $("#mine-note").textContent = "Marca primeiro algumas provas."; return; }
+      const done = () => { $("#mine-note").textContent = "Código copiado."; $("#mine-note").className = "note ok"; };
+      (navigator.clipboard?.writeText(inp.value) || Promise.reject()).then(done, () => { inp.select(); $("#mine-note").textContent = "Seleciona o código e copia-o (Ctrl+C)."; });
+    }
+    if (a === "import") {
+      try { const n = importCode($("#import-code").value); render(); $("#mine-note").textContent = n ? `${n} ${n === 1 ? "prova importada" : "provas importadas"}.` : "Essas provas já estavam no teu calendário."; $("#mine-note").className = "note ok"; }
+      catch (err) { $("#mine-note").textContent = err.message.startsWith("Código") ? err.message : "Código inválido. Copia-o outra vez do outro dispositivo."; $("#mine-note").className = "note"; }
+    }
+  });
+  $("#clear").addEventListener("click", clearFilters);
+  function clearFilters() {
+    Object.assign(state, { q: "", where: "pt", month: "", source: "", pts: "" }); state.types.clear();
+    $("#q").value = ""; $("#where").value = "pt"; $("#month").value = ""; $("#source").value = ""; $("#pts").value = "";
+    document.querySelectorAll("[data-type]").forEach((c) => c.setAttribute("aria-pressed", "false"));
+    render();
+  }
+  let qt; $("#q").addEventListener("input", (e) => { clearTimeout(qt); qt = setTimeout(() => { state.q = norm(e.target.value.trim()); render(); }, 120); });
+  ["where", "month", "source", "pts"].forEach((id) => $("#" + id).addEventListener("change", (e) => { state[id] = e.target.value; render(); }));
+  window.addEventListener("hashchange", () => { const v = location.hash.slice(1) === "calendario" ? "calendario" : "provas"; if (v !== state.view) { state.view = v; render(); } });
+  function measureTop() { document.documentElement.style.setProperty("--top-h", $("#top").offsetHeight + "px"); }
+  window.addEventListener("resize", measureTop);
+
+  // ---------- arranque ----------
+  $("#types").innerHTML = TYPES.map(([t, c]) => `<button class="chip" data-type="${t}" aria-pressed="false" style="--c: var(${c})"><i></i>${t}</button>`).join("");
+  updateCount();
+  if (location.hash.slice(1) === "calendario") state.view = "calendario";
+
+  fetch("data/races.json", { cache: "no-cache" }).then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); }).then((data) => {
+    META = data;
+    RACES = data.races;
+    const months = [...new Set(RACES.map((r) => r.date.slice(0, 7)))].sort();
+    $("#month").innerHTML += months.map((m) => { const [y, mm] = m.split("-").map(Number); return `<option value="${m}">${MONTHS[mm - 1]} ${y}</option>`; }).join("");
+    const when = (iso) => iso ? new Date(iso).toLocaleDateString("pt-PT", { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" }) : "—";
+    $("#status").innerHTML = `<span>Atualizado: <b>${when(data.generated)}</b></span>` + Object.keys(LABELS).map((k) => {
+      const st = data.status?.[k] || "";
+      const has = data.updated?.[k];
+      if (k === "orioasis" && !has) return `<span><i class="dot manual"></i>OriOasis: importação manual</span>`;
+      const err = st.startsWith("erro");
+      const n = RACES.filter((r) => r.sources.some((s) => s.site === k)).length;
+      return `<span title="${esc(st)}"><i class="dot${err ? " err" : ""}"></i>${LABELS[k]}: ${n}${err ? ` (falhou hoje; dados de ${when(has)})` : ""}</span>`;
+    }).join("");
+    render();
+  }).catch(() => {
+    $("#summary").textContent = "Não foi possível carregar as provas.";
+    $("#out").innerHTML = `<div class="empty"><strong>Não foi possível carregar as provas</strong><span>Verifica a ligação e recarrega a página.</span></div>`;
+  });
+})();
+</script>

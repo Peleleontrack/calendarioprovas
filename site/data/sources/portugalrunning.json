@@ -1,0 +1,9155 @@
+[
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72971_0",
+"name": "El Privilegio 100 Millas 2026",
+"date": "2026-11-20",
+"end_date": "2026-11-22",
+"location": "Espanha",
+"country": "Espanha",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Endurance",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/el-privilegio-100-millas/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67459_0",
+"name": "Extremo Sul Ultramarathon 2026",
+"date": "2026-11-20",
+"end_date": "2026-11-22",
+"location": "Brasil",
+"country": "América",
+"types": [
+"Trail"
+],
+"tags": [
+"Trail",
+"Trail Endurance"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/extremo-sul-ultramarathon/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67357_0",
+"name": "S. Silvestre – G.D. Prado 2026",
+"date": "2026-11-21",
+"end_date": null,
+"location": "Vila Verde, Braga",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-g-d-prado/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:68951_0",
+"name": "I São Silvestre da Moita 2026",
+"date": "2026-11-21",
+"end_date": null,
+"location": "Moita, Setúbal",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-da-moita/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72128_0",
+"name": "VI Trail da Escarpiada 2026",
+"date": "2026-11-21",
+"end_date": null,
+"location": "Condeixa-a-Nova, Coimbra",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-da-escarpiada/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:51775_0",
+"name": "Confluência Trail 2026",
+"date": "2026-11-21",
+"end_date": "2026-11-22",
+"location": "Constância, Santarém",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Milha",
+"Trail",
+"Trail Curto",
+"Trail Kids",
+"Trail Longo"
+],
+"distances": [
+"1 milha"
+],
+"url": "https://www.portugalrunning.com/eventos/confluencia-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:48712_0",
+"name": "Trail Carreiros do Pastor Arrimalano 2026",
+"date": "2026-11-21",
+"end_date": "2026-11-22",
+"location": "Porto de Mós, Leiria",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Kids"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-carreiros-do-pastor-arrimalano/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:51528_0",
+"name": "Meia Maratona de Évora 2026",
+"date": "2026-11-21",
+"end_date": "2026-11-22",
+"location": "Évora",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-evora/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:75438_0",
+"name": "Campeonato Nacional de Corta Mato Longo 2026",
+"date": "2026-11-21",
+"end_date": "2026-11-22",
+"location": "Valença, Viana do Castelo",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida Kids",
+"Corrida inferior a 10 km"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/campeonato-nacional-de-corta-mato-longo/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:57903_0",
+"name": "Maratona de San Sebastián 2026",
+"date": "2026-11-22",
+"end_date": null,
+"location": "San Sebastián, Espanha",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Maratona"
+],
+"distances": [
+"10 km",
+"42 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-san-sebastian/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:66719_0",
+"name": "Sousões Trail 2026",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Felgueiras, Porto",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/sousoes-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:53160_0",
+"name": "Bocal Trail Run 2026",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Mafra, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/bocal-trail-run/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:53210_0",
+"name": "Corrida das Empresas 2026",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-das-empresas/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71180_0",
+"name": "Corrida Dom Dinis 2026",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Odivelas, Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-dom-dinis/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:54336_0",
+"name": "Trail do Trabulo 2026",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Satão, Viseu",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-do-trabulo/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:62806_0",
+"name": "ADN Race Ponta do Sol 2026",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Ponta do Sol, Madeira",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/adn-race-ponta-do-sol/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:66656_0",
+"name": "V Trail Veredas de Nexe 2026",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Faro",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Kids",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-veredas-de-nexe/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72805_0",
+"name": "Légua de Arruda dos Pisões 2026",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Rio Maior, Santarém",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida Kids",
+"Corrida inferior a 10 km"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/legua-de-arruda-dos-pisoes/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:62825_0",
+"name": "Sabrosa Trail 2026",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Sabrosa, Vila Real",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/sabrosa-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70267_0",
+"name": "Trail Lagos do Sabor 2026",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Alfândega Da Fé, Bragança",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Trail",
+"Trail Curto",
+"Trail Kids",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-lagos-do-sabor/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:54919_0",
+"name": "Sky Race Montejunto Inverno 2026",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Cadaval, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Skyrunning",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/sky-race-montejunto-inverno/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:51869_0",
+"name": "Trail Vila de S. Torcato 2026",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Guimarães, Braga",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-vila-de-s-torcato/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:51636_0",
+"name": "Oeiras Trail 2026",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Oeiras, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/oeiras-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:52938_0",
+"name": "Europarque Bio Run 2026",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Santa Maria da Feira, Aveiro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/europarque-bio-run/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:51669_0",
+"name": "Trail e Caminhada Clube Trilheiros & Amigos 2026",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Paços de Ferreira, Porto",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Kids",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-e-caminhada-clube-trilheiros-amigos/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69618_0",
+"name": "11ª Corrida de São Martinho – Adriano Valente 2026",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Cabeceiras de Basto, Braga",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-de-sao-martinho-adriano-valente/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:51755_0",
+"name": "ALUT – Algarviana Ultra Trail 2026",
+"date": "2026-11-26",
+"end_date": "2026-11-29",
+"location": "Alcoutim, Faro",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Trail",
+"Trail Endurance"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/alut-algarviana-ultra-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:47715_0",
+"name": "Gerês Extreme Marathon 2026",
+"date": "2026-11-27",
+"end_date": "2026-11-29",
+"location": "Terras de Bouro, Braga",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida entre 10 km e 21 km",
+"Corrida inferior a 10 km",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"42 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/geres-extreme-marathon/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:55231_0",
+"name": "Ladeira on Fire 2026",
+"date": "2026-11-28",
+"end_date": null,
+"location": "Nazaré, Leiria",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida inferior a 10 km",
+"Outras"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/ladeira-on-fire/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70345_0",
+"name": "São Silvestre de Castelões 2026",
+"date": "2026-11-28",
+"end_date": null,
+"location": "Vila Nova de Famalicão, Braga",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-de-casteloes/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:52957_0",
+"name": "São Silvestre Cidade Palco de Natal 2026",
+"date": "2026-11-28",
+"end_date": null,
+"location": "Santa Maria da Feira, Aveiro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-cidade-palco-de-natal/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:68228_0",
+"name": "Urban Trail Night Eurocidade Valença-Tui 2026",
+"date": "2026-11-28",
+"end_date": null,
+"location": "Viana do Castelo",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/urban-trail-night-eurocidade-valenca-tui/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71308_0",
+"name": "Circuito das São Silvestres de Famalicão 2026",
+"date": "2026-11-28",
+"end_date": null,
+"location": "Vila Nova de Famalicão, Braga",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/circuito-das-sao-silvestres-de-famalicao/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:65232_0",
+"name": "São Silvestre Aveiro 2026",
+"date": "2026-11-28",
+"end_date": null,
+"location": "Aveiro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-aveiro/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67559_0",
+"name": "Corrida pela Diabetes 2026",
+"date": "2026-11-28",
+"end_date": null,
+"location": "Caldas da Rainha, Leiria",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-pela-diabetes/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71257_0",
+"name": "Bonito Christmas Trail 2026",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Entroncamento, Santarém",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/bonito-christmas-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:54387_0",
+"name": "Trail da Cárcoda 2026",
+"date": "2026-11-29",
+"end_date": null,
+"location": "São Pedro do Sul, Viseu",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-da-carcoda/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69004_0",
+"name": "Meia Maratona Pombal Full Protein 2026",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Pombal, Leiria",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida inferior a 10 km",
+"Meia Maratona"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-pombal/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:51860_0",
+"name": "Trail do Chícharo da Serra 2026",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Leiria",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-do-chicaro-da-serra/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69350_0",
+"name": "2ª Corrida dos Milagres 2026",
+"date": "2026-11-29",
+"end_date": null,
+"location": "São João da Madeira, Aveiro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-dos-milagres/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:47350_0",
+"name": "42ª Maratona de Florença 2026",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Florença, Itália",
+"country": "Itália",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Corrida inferior a 10 km",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"42 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-florenca/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:56075_0",
+"name": "XVI Trilhos de Casainhos 2026",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Loures, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trilhos-dos-casainhos/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72975_0",
+"name": "Trail Solidário São Gonçalo 2026",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Santo Tirso, Porto",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-sao-goncalo/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:54353_0",
+"name": "6 Cascatas Trail Running 2026",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Mafra, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/6-cascatas-trail-running/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70496_0",
+"name": "Trail Quinta das Arcas 2026",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Valongo, Porto",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-quinta-das-arcas/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67464_0",
+"name": "OCR Sobral Challenge 2026",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Sobral de Monte Agraço, Lisboa",
+"country": "Portugal",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"OCR Kids",
+"Obstáculos"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/ocr-sobral-challenge/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:51599_0",
+"name": "Trilhos do Endovélico 2026",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Alandroal, Évora",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trilhos-do-endovelico/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69016_0",
+"name": "IV Corrida de Macieira - Lousada 2026",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Macieira, Lousada, Porto",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-de-macieira-lousada/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71095_0",
+"name": "Caminhada Solidária Coronado Runners / Amor Perfeito 2026",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Trofa, Porto",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/caminhada-solidaria-coronado-runners-amor-perfeito/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69329_0",
+"name": "38º Grande Prémio da Mendiga 2026",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Porto de Mós, Leiria",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida entre 10 km e 21 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/grande-premio-da-mendiga/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70635_0",
+"name": "Circuito do Imaculado Coração de Maria 2026",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Funchal, Madeira",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida Kids",
+"Corrida inferior a 10 km"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/circuito-do-imaculado-coracao-de-maria/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:48113_0",
+"name": "Meia Maratona dos Descobrimentos 2026",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-descobrimentos/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70631_0",
+"name": "Corrida dos Restauradores 2026",
+"date": "2026-11-30",
+"end_date": null,
+"location": "Fundão, Castelo Branco",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-dos-restauradores/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72983_0",
+"name": "São Silvestre Castro Daire 2026",
+"date": "2026-12-01",
+"end_date": null,
+"location": "Castro Daire, Viseu",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-castro-daire/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67605_0",
+"name": "5º Treino Trail Convívio Trilho dos Cágados VCO 2026",
+"date": "2026-12-01",
+"end_date": null,
+"location": "Cartaxo, Santarém",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/treino-trail-convivio-trilho-dos-cagados/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70452_0",
+"name": "10km da Calheta – Alberto Paulo / Camp. Regionais 10km Estrada 2026",
+"date": "2026-12-01",
+"end_date": null,
+"location": "Calheta, Madeira",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/10km-da-calheta-alberto-paulo-camp-regionais-10km-estrada/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:51530_0",
+"name": "Cascais Corrida de Natal 2026",
+"date": "2026-12-01",
+"end_date": null,
+"location": "Cascais, Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida inferior a 10 km"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/cascais-corrida-de-natal/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70501_0",
+"name": "São Silvestre Cidade de Ermesinde 2026",
+"date": "2026-12-01",
+"end_date": null,
+"location": "Valongo, Porto",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-de-ermesinde/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:54916_0",
+"name": "6ª Barreiro São Silvestre 2026",
+"date": "2026-12-01",
+"end_date": null,
+"location": "Barreiro, Setúbal",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-barreiro/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:73609_0",
+"name": "Trilho do Vinho de Talha 2026",
+"date": "2026-12-01",
+"end_date": null,
+"location": "Vidigueira, Beja",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trilho-do-vinho-de-talha/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70602_0",
+"name": "2ª Edição Trail Running Carrossel Planalto das Cesaredas 2026",
+"date": "2026-12-01",
+"end_date": null,
+"location": "Lourinhã, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Kids",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/edicao-trail-running-carrossel-planalto-das-cesaredas/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:68347_0",
+"name": "Trail Este Romanico 2026",
+"date": "2026-12-01",
+"end_date": null,
+"location": "Vila do Conde, Porto",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-este-romanico/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:51752_0",
+"name": "EPIC Azores 2026",
+"date": "2026-12-03",
+"end_date": "2026-12-06",
+"location": "Vila Franca do Campo, Açores",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Endurance",
+"Trail Kids",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/epic-azores/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70330_0",
+"name": "12ª São Silvestre Vendas Novas 2026",
+"date": "2026-12-04",
+"end_date": null,
+"location": "Vendas Novas, Évora",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-vendas-novas/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:54339_0",
+"name": "São Silvestre de Vila Real de Santo António - Monte Gordo 2026",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Vila Real de Santo António, Faro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-vila-real-sto-antonio-monte-gordo/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69042_0",
+"name": "2ª Edição de São Silvestre d'Almourol 2026",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Vila Nova da Barquinha, Santarém",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida São Silvestre",
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/edicao-de-sao-silvestre-dalmourol/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69641_0",
+"name": "São Silvestre de Fornos de Algodres 2026",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Fornos de Algodres, Guarda",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-de-fornos-de-algodres/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:56107_0",
+"name": "São Silvestre Barcelos 2026",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Barcelos, Braga",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-barcelos/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:63536_0",
+"name": "São Silvestre de Cortegaça/Esmoriz 2026",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Ovar, Aveiro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre",
+"Corrida entre 10 km e 21 km",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-cortegaca-esmoriz/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:63551_0",
+"name": "SPT Urban Night Trail – Alenquer 2026",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Alenquer, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/spt-urban-night-trail-alenquer/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67435_0",
+"name": "São Silvestre de JAM 2026",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Santa Maria da Feira, Aveiro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-de-jam/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67472_0",
+"name": "São Silvestre de Fátima 2026",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Ourém, Santarém",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-de-fatima/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69011_0",
+"name": "14º X-mas Night Trail 2026",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Leiria",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/x-mas-night-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72108_0",
+"name": "São Silvestre Idanha-a-Nova 2026",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Idanha-a-Nova, Castelo Branco",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-idanha-a-nova/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70337_0",
+"name": "São Silvestre de Melides – Edição 2026",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Grândola, Setúbal",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-melides/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72155_0",
+"name": "29ª S. Silvestre de Santo Tirso 2026",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Santo Tirso, Porto",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-santo-tirso/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:68575_0",
+"name": "2ª Corrida/Caminhada Sal Silvestre 2026",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Alcacer do Sal, Setúbal",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corridacaminhada-sal-silvestre/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74466_0",
+"name": "9ª Corrida São Silvestre Alqueidão da Serra 2026",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Porto de Mós, Leiria",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-alqueidao-da-serra/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:57335_0",
+"name": "Proença Cross Trail 2026",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Proença a Nova, Castelo Branco",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Trail",
+"Trail Curto",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/proenca-cross-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67468_0",
+"name": "Trail da Amizade 2026",
+"date": "2026-12-05",
+"end_date": "2026-12-06",
+"location": "Ansião, Leiria",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Kids",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-da-amizade/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:51762_0",
+"name": "Maratona do Algarve 2026",
+"date": "2026-12-06",
+"end_date": null,
+"location": "Loulé, Faro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"42 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-do-algarve/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:47585_0",
+"name": "Maratona Internacional de Macau 2026",
+"date": "2026-12-06",
+"end_date": null,
+"location": "Macau",
+"country": "Ásia",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida inferior a 10 km",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"42 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-macau/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69413_0",
+"name": "Trail do Sarilho/cantanhede – 2026",
+"date": "2026-12-06",
+"end_date": null,
+"location": "Cantanhede, Coimbra",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-do-sarilhocantanhede/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67386_0",
+"name": "1º Trail Trilhos da Lagoa de Óbidos 2026",
+"date": "2026-12-06",
+"end_date": null,
+"location": "Óbidos, Leiria",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-lagoa-de-obidos/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:60518_0",
+"name": "Pinga Trail 2026",
+"date": "2026-12-06",
+"end_date": null,
+"location": "Arruda dos Vinhos, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/pinga-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:68234_0",
+"name": "VIII Trail Elvas 2026",
+"date": "2026-12-06",
+"end_date": null,
+"location": "Elvas, Portalegre",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-elvas/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:47341_0",
+"name": "Maratona de Valência 2026",
+"date": "2026-12-06",
+"end_date": null,
+"location": "Valência, Espanha",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Maratona"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-valencia/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:75289_0",
+"name": "Circuito do Porto Moniz 2026",
+"date": "2026-12-07",
+"end_date": null,
+"location": "Porto Moniz, Ilha da Madeira, Madeira",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida inferior a 10 km"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/circuito-do-porto-moniz/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74454_0",
+"name": "GP Atletismo Nossa Senhora da Conceição 2026",
+"date": "2026-12-08",
+"end_date": null,
+"location": "Covilhã, Castelo Branco",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/gp-atletismo-nossa-senhora-da-conceicao/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71193_0",
+"name": "35º Grande Prémio de Atletismo A-do-Barbas 2026",
+"date": "2026-12-08",
+"end_date": null,
+"location": "Leiria",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-a-do-barbas/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69443_0",
+"name": "69ª Volta a Paranhos 2026",
+"date": "2026-12-08",
+"end_date": null,
+"location": "Paranhos, Porto",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/volta-a-paranhos/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74590_0",
+"name": "Trail Albufeira - do Mar ao Castelo 2026",
+"date": "2026-12-08",
+"end_date": null,
+"location": "Albufeira, Faro",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-albufeira-do-mar-ao-castelo/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69522_0",
+"name": "São Silvestre do Oeste 2026",
+"date": "2026-12-08",
+"end_date": null,
+"location": "Torres Vedras, Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-do-oeste/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69819_0",
+"name": "8ª São Silvestre de Seide 2026",
+"date": "2026-12-08",
+"end_date": null,
+"location": "Vila Nova de Famalicão, Braga",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-seide/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70843_0",
+"name": "Trail Solidários do 25 2026",
+"date": "2026-12-08",
+"end_date": null,
+"location": "Pombal, Leiria",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Kids"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-solidarios-do-25/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74432_0",
+"name": "II Trilhos de Perre Paris & Londres 2026",
+"date": "2026-12-08",
+"end_date": null,
+"location": "Viana do Castelo",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trilhos-de-perre-paris-londres/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72657_0",
+"name": "São Silvestre Cidade da Trofa By Remax Cool 2026",
+"date": "2026-12-08",
+"end_date": null,
+"location": "Trofa, Porto",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-da-trofa/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71196_0",
+"name": "I Caminhada de São Silvestre 2026",
+"date": "2026-12-11",
+"end_date": null,
+"location": "Alcobaça, Leiria",
+"country": "Portugal",
+"types": [
+"Caminhada"
+],
+"tags": [
+"Caminhada"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/caminhada-de-sao-silvestre/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70750_0",
+"name": "São Silvestre de Vila Flor 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Vila Flor, Bragança",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-de-vila-flor/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67496_0",
+"name": "3ª São Silvestre de Vila Nova de Santo André 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Santiago do Cacém, Setúbal",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-de-vila-nova-de-santo-andre/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:68351_0",
+"name": "São Silvestre de Castelo de Paiva 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Castelo de Paiva, Aveiro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-de-castelo-de-paiva/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:75280_0",
+"name": "Noturna 'Natal na Montanha Run' 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Cortes do Meio, Covilhã, Castelo Branco",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida Kids",
+"Corrida inferior a 10 km"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/noturna-natal-na-montanha-run/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67369_0",
+"name": "13ª São Silvestre da Batalha 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Batalha, Leiria",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-batalha/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71227_0",
+"name": "Trail Noturno do Ludens – Trail pela Vida 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Machico, Ilha da Madeira, Madeira",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-noturno-do-ludens/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:59226_0",
+"name": "São Silvestre Vítor Baptista 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Lourinhã, Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-vitor-baptista/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71267_0",
+"name": "10ª São Silvestre Gondomar 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Gondomar, Porto",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-gondomar/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70521_0",
+"name": "Vortex December 2026 Vila Real de Santo António",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Vila Real de Santo António, Faro",
+"country": "Portugal",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/vortex-december-vila-real-de-santo-antonio/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:51836_0",
+"name": "São Silvestre de Almeirim 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Almeirim, Santarém",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-de-almeirim/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:53142_0",
+"name": "São Silvestre de Coimbra 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Coimbra",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-coimbra/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:44187_0",
+"name": "Trail Noturno de Valongo 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Valongo, Porto",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-noturno-valongo/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69033_0",
+"name": "VI Corrida São Silvestre de Alcochete 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Alcochete, Setúbal",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-alcochete/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71347_0",
+"name": "6ª São Silvestre – Reguengos de Monsaraz 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Reguengos de Monsaraz, Évora",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-reguengos-de-monsaraz/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69567_0",
+"name": "São Silvestre Casa Benfica Almodôvar 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Almodôvar, Beja",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-casa-benfica-almodovar/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72132_0",
+"name": "X São Silvestre Almada 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Almada, Setúbal",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-almada/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69831_0",
+"name": "Run For All – São Silvestre de Caminha 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Caminha, Viana do Castelo",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/run-for-all-sao-silvestre-de-caminha/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:68556_0",
+"name": "São Silvestre de Tarouca 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Tarouca, Viseu",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-de-tarouca/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74450_0",
+"name": "2ª São Silvestre de Campo Maior 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Campo Maior, Portalegre",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-de-campo-maior/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67548_0",
+"name": "IV São Silvestre de Fafe 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Fafe, Braga",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-de-fafe/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:68316_0",
+"name": "V São Silvestre de Oliveira de Frades 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Oliveira de Frades, Viseu",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-oliveira-de-frades/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71390_0",
+"name": "11ª Corrida São Silvestre Solidária Constância – Brigmec 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Constância, Santarém",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-constancia/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70376_0",
+"name": "4ª Crediversos São Silvestre de Vermoim 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Vila Nova de Famalicão, Braga",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-vermoim/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:68852_0",
+"name": "Trail da Rabanada 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Santa Maria da Feira, Aveiro",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-da-rabanada/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70509_0",
+"name": "Desafio Picos do Açor 2026",
+"date": "2026-12-12",
+"end_date": "2026-12-13",
+"location": "Arganil, Coimbra",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Kids",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/desafio-picos-do-acor/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74650_0",
+"name": "Hybrid Day Vigo 2026",
+"date": "2026-12-12",
+"end_date": "2026-12-13",
+"location": "Vigo, Espanha",
+"country": "Espanha",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/hybrid-day-vigo/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:54315_0",
+"name": "São Silvestre de Ponta Delgada 2026",
+"date": "2026-12-12",
+"end_date": "2026-12-13",
+"location": "Ponta Delgada, Açores",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida Kids",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-ponta-delgada/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:40024_0",
+"name": "São Silvestre de Arrifana 2026",
+"date": "2026-12-13",
+"end_date": null,
+"location": "Santa Maria da Feira, Aveiro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-de-arrifana/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:48247_0",
+"name": "São Silvestre da Guarda 2026",
+"date": "2026-12-13",
+"end_date": null,
+"location": "Guarda",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-da-guarda/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:39436_0",
+"name": "Trail Winter Challenge S.A. – Vila Galé 2026",
+"date": "2026-12-13",
+"end_date": null,
+"location": "Mafra, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-winter-challenge-s-a-vila-gale/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:50961_0",
+"name": "São Silvestre El Corte Inglés 2026",
+"date": "2026-12-13",
+"end_date": null,
+"location": "Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-el-corte-ingles/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:49938_0",
+"name": "Meia Maratona de Sevilha 2026",
+"date": "2026-12-13",
+"end_date": null,
+"location": "Sevilha, Espanha",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Meia Maratona"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-de-sevilha/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71188_0",
+"name": "Trail por Terras de Fontes e Lobos 2026",
+"date": "2026-12-13",
+"end_date": null,
+"location": "Vagos, Aveiro",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-por-terras-de-fontes-e-lobos/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67365_0",
+"name": "VII Trail do Falcão Real 2026",
+"date": "2026-12-13",
+"end_date": null,
+"location": "Alcoutim, Faro",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Kids",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-falcao-real/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70446_0",
+"name": "X - Trail das Andorinhas 2026",
+"date": "2026-12-13",
+"end_date": null,
+"location": "Póvoa de Lanhoso, Braga",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Kids",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-das-andorinhas/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72648_0",
+"name": "2ª Corrida e Caminhada Natal com Zins 2026",
+"date": "2026-12-13",
+"end_date": null,
+"location": "Guimarães, Braga",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-e-caminhada-natal-com-zins/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72137_0",
+"name": "12ª Corrida São Silvestre da Golegã 2026",
+"date": "2026-12-18",
+"end_date": null,
+"location": "Golegã, Santarém",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-golega/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69383_0",
+"name": "São Silvestre da Camarneira 2026",
+"date": "2026-12-19",
+"end_date": null,
+"location": "Camarneira, Cantanhede, Coimbra",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-da-camarneira/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67341_0",
+"name": "DECATHLON São Silvestre Montijo 2026",
+"date": "2026-12-19",
+"end_date": null,
+"location": "Montijo, Setúbal",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-montijo/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71293_0",
+"name": "III Corrida São Silvestre – B.V. Sernancelhe 2026",
+"date": "2026-12-19",
+"end_date": null,
+"location": "Sernancelhe, Viseu",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-sernancelhe/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72112_0",
+"name": "Cherry Winter Run 2026",
+"date": "2026-12-19",
+"end_date": null,
+"location": "Covilhã, Castelo Branco",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/cherry-winter-run-paul/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71118_0",
+"name": "São Silvestre Guimarães 2026",
+"date": "2026-12-19",
+"end_date": null,
+"location": "Guimarães, Braga",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-guimaraes/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72716_0",
+"name": "São Silvestre Torres Novas 2026",
+"date": "2026-12-19",
+"end_date": null,
+"location": "Torres Novas, Santarém",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-torres-novas/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69420_0",
+"name": "5ª São Silvestre Ufestremoz 2026",
+"date": "2026-12-19",
+"end_date": null,
+"location": "Estremoz, Évora",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-ufestremoz/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:54320_0",
+"name": "São Silvestre de Lourosa 2026",
+"date": "2026-12-19",
+"end_date": null,
+"location": "Lourosa, Santa Maria da Feira, Aveiro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-lourosa/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:66650_0",
+"name": "VIII São Silvestre Baía do Seixal 2026",
+"date": "2026-12-19",
+"end_date": null,
+"location": "Seixal, Setúbal",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-baia-do-seixal/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74598_0",
+"name": "Bica Gin Urban Trail 2026",
+"date": "2026-12-19",
+"end_date": null,
+"location": "Montemor-o-Novo, Évora",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/bica-gin-urban-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70259_0",
+"name": "São Silvestre de Vila Nova de Cerveira 2026",
+"date": "2026-12-19",
+"end_date": null,
+"location": "Vila Nova de Cerveira, Viana do Castelo",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-vila-nova-de-cerveira/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69516_0",
+"name": "São Silvestre do Algarve 2026",
+"date": "2026-12-19",
+"end_date": null,
+"location": "Albufeira, Faro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-algarve/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74636_0",
+"name": "VI Corrida São Silvestre Mogadouro 2026",
+"date": "2026-12-19",
+"end_date": null,
+"location": "Mogadouro, Bragança",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-mogadouro/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:66705_0",
+"name": "São Silvestre Vila do Conde 2026",
+"date": "2026-12-19",
+"end_date": null,
+"location": "Vila do Conde, Porto",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-vila-do-conde/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:68242_0",
+"name": "Corvus Trail Branco Gaspar 2026",
+"date": "2026-12-19",
+"end_date": null,
+"location": "Abrantes, Santarém",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Kids",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/corvus-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67507_0",
+"name": "São Silvestre Manuel dos Santos Almeida 2026",
+"date": "2026-12-19",
+"end_date": null,
+"location": "São Pedro do Sul, Viseu",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-s-s-manuel-dos-santos-almeida/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71359_0",
+"name": "Corrida de São Silvestre – Lamego 2026",
+"date": "2026-12-19",
+"end_date": null,
+"location": "Lamego, Viseu",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-de-sao-silvestre-lamego/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:58251_0",
+"name": "2ª Kiaius Sky Race 2026",
+"date": "2026-12-20",
+"end_date": null,
+"location": "Figueira da Foz, Coimbra",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Skyrunning",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/kiaius-sky-race/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:75443_0",
+"name": "Natal Run 2026",
+"date": "2026-12-20",
+"end_date": null,
+"location": "Rio Maior, Santarém",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida inferior a 10 km"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/natal-run/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67553_0",
+"name": "Carcavelos X-Mas Trail 2026",
+"date": "2026-12-20",
+"end_date": null,
+"location": "Loures, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/carcavelos-xmas-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67564_0",
+"name": "2ª São Silvestre de Leiria 2026",
+"date": "2026-12-20",
+"end_date": null,
+"location": "Leiria",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-leiria/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:75285_0",
+"name": "Viseu Xmas Run 2026",
+"date": "2026-12-20",
+"end_date": null,
+"location": "Viseu",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/viseu-xmas-run/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72987_0",
+"name": "São Silvestre Mortágua 2026",
+"date": "2026-12-20",
+"end_date": null,
+"location": "Mortágua, Viseu",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-mortagua/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:47647_0",
+"name": "São Silvestre do Porto 2026",
+"date": "2026-12-20",
+"end_date": null,
+"location": "Porto",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-porto/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70505_0",
+"name": "Amarante Christmas Trail 2026",
+"date": "2026-12-20",
+"end_date": null,
+"location": "Amarante, Porto",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/amarante-christmas-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:54945_0",
+"name": "Grande Prémio Natal 2026",
+"date": "2026-12-20",
+"end_date": null,
+"location": "Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/grande-premio-natal/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:73636_0",
+"name": "Corrida São Silvestre dos Madeiros 2026",
+"date": "2026-12-20",
+"end_date": null,
+"location": "Castelo Branco",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-sao-silvestre-dos-madeiros/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:75271_0",
+"name": "Aqua Portimão Christmas Run & Walk 5K 2026",
+"date": "2026-12-21",
+"end_date": null,
+"location": "Portimão, Faro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida inferior a 10 km"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/aqua-portimao-christmas-run-walk-5k/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:68416_0",
+"name": "São Silvestre de Famalicão 2026",
+"date": "2026-12-23",
+"end_date": null,
+"location": "Vila Nova de Famalicão, Braga",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-de-famalicao/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72151_0",
+"name": "São Silvestre Vila Madeiro 2026",
+"date": "2026-12-23",
+"end_date": null,
+"location": "Castelo Branco",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida Kids",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-vila-madeiro/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67439_0",
+"name": "São Silvestre Jobra/Vila da Branca 2026",
+"date": "2026-12-26",
+"end_date": null,
+"location": "Albergaria-a-Velha, Aveiro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-jobra-vila-da-branca/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:73626_0",
+"name": "São Silvestre da Covilhã 2026",
+"date": "2026-12-26",
+"end_date": null,
+"location": "Covilhã, Castelo Branco",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-da-covilha/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74669_0",
+"name": "São Silvestre Vieira do Minho 2026",
+"date": "2026-12-26",
+"end_date": null,
+"location": "Vieira do Minho, Braga",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida São Silvestre"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-vieira-do-minho/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70326_0",
+"name": "2ª São Silvestre de Vila Nova de Tazem 2026",
+"date": "2026-12-26",
+"end_date": null,
+"location": "Gouveia, Guarda",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-de-vila-nova-de-tazem/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:50957_0",
+"name": "Lidl São Silvestre de Lisboa 2026",
+"date": "2026-12-26",
+"end_date": null,
+"location": "Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/lidl-sao-silvestre-lisboa/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:62993_0",
+"name": "São Silvestre Praia da Tocha 2026",
+"date": "2026-12-26",
+"end_date": null,
+"location": "Cantanhede, Coimbra",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-praia-da-tocha/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69399_0",
+"name": "São Silvestre de Mirandela 2026",
+"date": "2026-12-26",
+"end_date": null,
+"location": "Mirandela, Bragança",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-mirandela/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72795_0",
+"name": "1ª Corrida São Silvestre de Vila de Rei 2026",
+"date": "2026-12-26",
+"end_date": null,
+"location": "Castelo Branco",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-sao-silvestre-de-vila-de-rei/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71313_0",
+"name": "4ª São Silvestre Cocheiros & Comp.ª 2026",
+"date": "2026-12-26",
+"end_date": null,
+"location": "Moura, Beja",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-cocheiros-comp-a/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:68250_0",
+"name": "São Silvestre Viana do Castelo 2026",
+"date": "2026-12-26",
+"end_date": null,
+"location": "Viana do Castelo",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-viana-do-castelo/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70558_0",
+"name": "São Silvestre Beja 2026",
+"date": "2026-12-26",
+"end_date": null,
+"location": "Beja",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-beja/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69549_0",
+"name": "São Silvestre de Amares 2026",
+"date": "2026-12-26",
+"end_date": null,
+"location": "Amares, Braga",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-amares/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72161_0",
+"name": "São Silvestre Chaves 2026",
+"date": "2026-12-26",
+"end_date": null,
+"location": "Chaves, Vila Real",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-chaves/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71394_0",
+"name": "Crediversos 10ª Corrida de S. Silvestre Kids de Viana do Castelo 2026",
+"date": "2026-12-26",
+"end_date": null,
+"location": "Viana do Castelo",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/crediversos-10-corrida-de-s-silvestre-kids-de-viana-do-castelo/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67372_0",
+"name": "7º Trail Cabeça Aldeia Natal 2026",
+"date": "2026-12-27",
+"end_date": null,
+"location": "Seia, Guarda",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-cabeca-aldeia-natal/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67566_0",
+"name": "1ª Corrida São Silvestre de Caxarias 2026",
+"date": "2026-12-27",
+"end_date": null,
+"location": "Ourém, Santarém",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-sao-silvestre-de-caxarias/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72183_0",
+"name": "São Silvestre Salamanca 2026",
+"date": "2026-12-27",
+"end_date": null,
+"location": "Salamanca, Espanha",
+"country": "Espanha",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-salamanca/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:47614_0",
+"name": "São Silvestre de Braga 2026",
+"date": "2026-12-27",
+"end_date": null,
+"location": "Braga",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-braga/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:51700_0",
+"name": "São Silvestre de Lagoa | Crédito Agrícola Açores 2026",
+"date": "2026-12-27",
+"end_date": "2026-12-28",
+"location": "Lagoa, Açores",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida São Silvestre"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-de-lagoa-credito-agricola-acores/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71289_0",
+"name": "Volta à Cidade do Funchal 2026",
+"date": "2026-12-28",
+"end_date": null,
+"location": "Funchal, Madeira",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida Kids",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/volta-a-cidade-do-funchal/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:75428_0",
+"name": "Última Corrida do Ano 2026",
+"date": "2026-12-29",
+"end_date": null,
+"location": "Loulé, Faro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/a-ultima-corrida-do-ano/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72194_0",
+"name": "Crediversos 4º São Silvestre de Ribeirão 2026",
+"date": "2026-12-30",
+"end_date": null,
+"location": "Vila Nova de Famalicão, Braga",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/crediversos-4-sao-silvestre-de-ribeirao/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67345_0",
+"name": "São Silvestre dos Olivais 2026",
+"date": "2026-12-30",
+"end_date": null,
+"location": "Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-olivais/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72650_0",
+"name": "São Silvestre de Sousel 2026",
+"date": "2026-12-30",
+"end_date": null,
+"location": "Portalegre",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-de-sousel/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:73310_0",
+"name": "Corrida São Silvestre Cidade Falcão - Pinhel 2026",
+"date": "2026-12-31",
+"end_date": null,
+"location": "Pinhel, Guarda",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-sao-silvestre-cidade-falcao-pinhel/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:45197_0",
+"name": "São Silvestre da Amadora 2026",
+"date": "2026-12-31",
+"end_date": null,
+"location": "Amadora, Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-amadora/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71316_0",
+"name": "Corrida de São Silvestre Pinhel 2026",
+"date": "2026-12-31",
+"end_date": null,
+"location": "Pinhel, Guarda",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-pinhel/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67476_0",
+"name": "3ª São Silvestre Tondela 2027",
+"date": "2027-01-02",
+"end_date": null,
+"location": "Tondela, Viseu",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-tondela/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71211_0",
+"name": "2ª Corrida dos Reis - Marinhais 2027",
+"date": "2027-01-03",
+"end_date": null,
+"location": "Salvaterra de Magos, Santarém",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-dos-reis-marinhais/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:54356_0",
+"name": "Vulcan Trail 2027",
+"date": "2027-01-03",
+"end_date": null,
+"location": "Mafra, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/vulcan-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:65241_0",
+"name": "São Silvestre de Espinho 2027",
+"date": "2027-01-03",
+"end_date": null,
+"location": "Espinho, Aveiro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-espinho/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:44190_0",
+"name": "Vouga Trail 2027",
+"date": "2027-01-08",
+"end_date": "2027-01-10",
+"location": "Sever do Vouga, Aveiro",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Kids",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/vouga-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:73048_0",
+"name": "Köyü Games 2027 - Winter (Hybrid / Simulação Hyrox)",
+"date": "2027-01-09",
+"end_date": null,
+"location": "Tábua, Coimbra",
+"country": "Portugal",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/koyu-games/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72760_0",
+"name": "XX S. Silvestre Cidade de Vila Real 2027",
+"date": "2027-01-09",
+"end_date": null,
+"location": "Vila Real",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/xvi-s-silvestre-cidade-de-vila-real/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74585_0",
+"name": "São Silvestre do Sado 2027",
+"date": "2027-01-09",
+"end_date": null,
+"location": "Setúbal",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida São Silvestre"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/sao-silvestre-sado/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69046_0",
+"name": "I Corrida dos Reis – Vila de Porto de Mós 2027",
+"date": "2027-01-09",
+"end_date": null,
+"location": "Porto de Mós, Leiria",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-de-reis/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72764_0",
+"name": "Trail Trilhos de São Martinho 2027",
+"date": "2027-01-10",
+"end_date": null,
+"location": "Vagos, Aveiro",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-trilhos-de-sao-martinho/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:59207_0",
+"name": "Corrida dos Reis – Benção do Atleta 2027",
+"date": "2027-01-10",
+"end_date": null,
+"location": "Ourém, Santarém",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-dos-reis-bencao-do-atleta/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:73606_0",
+"name": "Trilho de S. Tomé 2027",
+"date": "2027-01-10",
+"end_date": null,
+"location": "Figueira da Foz, Coimbra",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trilho-de-s-tome/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72116_0",
+"name": "Peniche a Correr 2027",
+"date": "2027-01-10",
+"end_date": null,
+"location": "Peniche, Leiria",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/grande-premio-peniche-a-correr/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:53178_0",
+"name": "Meia Maratona Torres Vedras 2027",
+"date": "2027-01-10",
+"end_date": null,
+"location": "Torres Vedras, Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-torres-vedras/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71362_0",
+"name": "1º Canicross Piranhas do Alqueva 2027",
+"date": "2027-01-10",
+"end_date": null,
+"location": "Reguengos de Monsaraz, Évora",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Canicross",
+"Outras",
+"Trail",
+"Trail Curto",
+"Trail Kids"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/canicross-piranhas-do-alqueva/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:73680_0",
+"name": "Trail dos Reis - Baltar, Paredes 2027",
+"date": "2027-01-10",
+"end_date": null,
+"location": "Paredes, Porto",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-dos-reis/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:51783_0",
+"name": "Terra de Gigantes 2027",
+"date": "2027-01-14",
+"end_date": "2027-01-17",
+"location": "Seia, Guarda",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Trail",
+"Trail Endurance"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/terra-de-gigantes/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72998_0",
+"name": "Hx365 Simulação Hyrox 2027",
+"date": "2027-01-16",
+"end_date": null,
+"location": "Vila Nova de Famalicão, Braga",
+"country": "Portugal",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/hx365-simulacao-hyrox/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71251_0",
+"name": "Corrida de Ano Novo Esposende 2027",
+"date": "2027-01-16",
+"end_date": null,
+"location": "Esposende, Braga",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-de-ano-novo-esposende/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:73630_0",
+"name": "Corrida do Madeiro – Alhandra 2027",
+"date": "2027-01-16",
+"end_date": null,
+"location": "Vila Franca de Xira, Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-do-madeiro-alhandra/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71204_0",
+"name": "Trilhos dos Reis 2027",
+"date": "2027-01-16",
+"end_date": "2027-01-17",
+"location": "Portalegre",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Kids",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trilhos-dos-reis/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72098_0",
+"name": "Maratona de Houston 2027",
+"date": "2027-01-16",
+"end_date": "2027-01-17",
+"location": "USA",
+"country": "América",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida inferior a 10 km",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"42 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-houston/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:73617_0",
+"name": "Pirâmide Radical Trail 2027",
+"date": "2027-01-17",
+"end_date": null,
+"location": "Ponte de Lima, Viana do Castelo",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/piramide-radical-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71326_0",
+"name": "3º Trail Rota da Telha 2027",
+"date": "2027-01-17",
+"end_date": null,
+"location": "Seia, Guarda",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-rota-da-telha/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70416_0",
+"name": "13º Trail Off-road da Barreira 2027",
+"date": "2027-01-17",
+"end_date": null,
+"location": "Leiria",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-off-road-da-barreira/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67349_0",
+"name": "Lousa Mountain Trail 2027",
+"date": "2027-01-17",
+"end_date": null,
+"location": "Loures, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/lousa-mountain-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:56089_0",
+"name": "Grande Corrida Ano Novo 2027",
+"date": "2027-01-17",
+"end_date": null,
+"location": "Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/grande-corrida-ano-novo/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74459_0",
+"name": "Last Man Standing 2027",
+"date": "2027-01-17",
+"end_date": null,
+"location": "Santa Maria da Feira, Aveiro",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/last-man-standing/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72780_0",
+"name": "Hybrid Day Aveiro 2027",
+"date": "2027-01-23",
+"end_date": null,
+"location": "Aveiro",
+"country": "Portugal",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/hybrid-day-aveiro/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70714_0",
+"name": "Hero Challenge 2027 (Hybrid / Simulação Hyrox)",
+"date": "2027-01-23",
+"end_date": null,
+"location": "Gondomar, Porto",
+"country": "Portugal",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/hero-challenge-hybrid-simulacao-hyrox/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69256_0",
+"name": "Duatlo de Barcelos 2027",
+"date": "2027-01-24",
+"end_date": null,
+"location": "Barcelos, Braga",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Triatlo"
+],
+"tags": [
+"Corrida",
+"Corrida inferior a 10 km",
+"Triatlo, Duatlo & Ironman"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/duatlo-de-barcelos/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:75520_0",
+"name": "9º Trail da Loba 2027",
+"date": "2027-01-24",
+"end_date": null,
+"location": "Viseu",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-da-loba/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70162_0",
+"name": "Trail Serra Daire 2027",
+"date": "2027-01-24",
+"end_date": null,
+"location": "Ourém, Santarém",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-serra-daire/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70525_0",
+"name": "Trail da Póvoa de Varzim 2027",
+"date": "2027-01-24",
+"end_date": null,
+"location": "Póvoa de Varzim, Porto",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-da-povoa-de-varzim/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69306_0",
+"name": "Meia Maratona Manuela Machado 2027",
+"date": "2027-01-24",
+"end_date": null,
+"location": "Viana do Castelo",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Meia Maratona"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-manuela-machado/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:43303_0",
+"name": "Linhas de Torres 100 2027",
+"date": "2027-01-29",
+"end_date": "2027-01-30",
+"location": "Torres Vedras, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Estafetas",
+"Trail",
+"Trail Curto",
+"Trail Endurance",
+"Trail Kids",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/linhas-de-torres-100/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70718_0",
+"name": "Trail do Capitão 2027",
+"date": "2027-01-30",
+"end_date": null,
+"location": "Paredes, Porto",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-do-capitao/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:73592_0",
+"name": "CDM Beer Mile 2027",
+"date": "2027-01-30",
+"end_date": null,
+"location": "Alcobaça, Leiria",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida inferior a 10 km"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/cdm-beer-mile/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:75276_0",
+"name": "5º Algarve Xtreme Trail 2027",
+"date": "2027-01-30",
+"end_date": "2027-01-31",
+"location": "Querença, Loulé, Faro",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Kids",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/algarve-xtreme-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72655_0",
+"name": "Cabanão Trail 2027",
+"date": "2027-01-31",
+"end_date": null,
+"location": "Mira, Coimbra",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/cabanao-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:46611_0",
+"name": "Corrida Fim da Europa 2027",
+"date": "2027-01-31",
+"end_date": null,
+"location": "Sintra, Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida entre 10 km e 21 km"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/corrida-fim-da-europa/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72767_0",
+"name": "Grande Prémio de Atletismo Acd os Ilhavos 2027",
+"date": "2027-01-31",
+"end_date": null,
+"location": "Ílhavo, Aveiro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida Kids",
+"Corrida inferior a 10 km"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-acd-os-ilhavos-2/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:75108_0",
+"name": "Corrida 4 Estações Inverno Avelar 2027",
+"date": "2027-01-31",
+"end_date": null,
+"location": "Avelar, Ansião, Leiria",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-4-estacoes-inverno-avelar/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:51569_0",
+"name": "Maratona do Funchal 2027",
+"date": "2027-01-31",
+"end_date": null,
+"location": "Funchal, Madeira",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida inferior a 10 km",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"42 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-do-funchal/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:75386_0",
+"name": "9º Trail dos Trilhos da Mata 2027",
+"date": "2027-01-31",
+"end_date": null,
+"location": "Leiria",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-dos-trilhos-da-mata/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74656_0",
+"name": "IRONMAN 70.3 Nelson Mandela Bay 2027",
+"date": "2027-01-31",
+"end_date": null,
+"location": "África do Sul",
+"country": "África",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Corrida",
+"Triatlo, Duatlo & Ironman"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/ironman-703-nelson-mandela-bay/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:44443_0",
+"name": "Santa Maria Trail – SMAT 2027",
+"date": "2027-01-31",
+"end_date": "2027-02-01",
+"location": "Açores",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Kids",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/santa-maria-trail-smat/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:68856_0",
+"name": "Maratona de Múrcia 2027",
+"date": "2027-02-07",
+"end_date": null,
+"location": "Múrcia, Espanha",
+"country": "Espanha",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida Kids",
+"Corrida inferior a 10 km",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"42 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-murcia/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:44089_0",
+"name": "Meia Maratona Cascais 2027",
+"date": "2027-02-07",
+"end_date": null,
+"location": "Cascais, Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida inferior a 10 km",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-cascais/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70510_0",
+"name": "Trail Vilarinho Cima 2027",
+"date": "2027-02-07",
+"end_date": null,
+"location": "Paredes, Porto",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-vilarinho-de-cima/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71297_0",
+"name": "Corrida de São Martinho da Gândara – Gold Residence 2027",
+"date": "2027-02-07",
+"end_date": null,
+"location": "Oliveira de Azeméis, Aveiro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-de-sao-martinho-da-gandara-gold-residence/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:47234_0",
+"name": "Trail Manuelino 2027",
+"date": "2027-02-07",
+"end_date": null,
+"location": "Pombal, Leiria",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Kids",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-manuelino/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74436_0",
+"name": "VIII Trilhos de Viana 2027",
+"date": "2027-02-07",
+"end_date": null,
+"location": "Viana do Castelo",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trilhos-de-viana/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:66685_0",
+"name": "10ª Corrida do Carnaval – Rio Tinto/Gondomar 2027",
+"date": "2027-02-09",
+"end_date": null,
+"location": "Rio Tinto, Gondomar, Porto",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-do-carnaval-rio-tinto/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69539_0",
+"name": "Stut Santo Thyrso Ultra Trilhos 2027",
+"date": "2027-02-13",
+"end_date": null,
+"location": "Santo Tirso, Porto",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/stut-santo-thyrso-ultra-trilhos/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71355_0",
+"name": "Trail Costa Norte by ADSP 2027",
+"date": "2027-02-13",
+"end_date": "2027-02-14",
+"location": "Açores",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-costa-norte-by-adsp/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:75299_0",
+"name": "Aldeias Douro Trail 2027",
+"date": "2027-02-14",
+"end_date": null,
+"location": "Aldeias, Armamar, Viseu",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/aldeias-douro-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71290_0",
+"name": "Corrida dos Namorados 2027",
+"date": "2027-02-14",
+"end_date": null,
+"location": "Vila Verde, Braga",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida inferior a 10 km"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/corrida-dos-namorados/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71130_0",
+"name": "Meia Maratona de Barcelona 2027",
+"date": "2027-02-14",
+"end_date": null,
+"location": "Barcelona, Espanha",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Meia Maratona"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-de-barcelona/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69608_0",
+"name": "Poiares Trail 2027",
+"date": "2027-02-14",
+"end_date": null,
+"location": "Vila Nova de Poiares, Coimbra",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/poiares-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:51747_0",
+"name": "TAUT – Terras do Ancião Ultra Trail 2027",
+"date": "2027-02-14",
+"end_date": "2027-02-21",
+"location": "Ansião, Leiria",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Endurance",
+"Trail Kids",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/taut-terras-do-anciao-ultra-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74603_0",
+"name": "31º Cross dos Cavaleiros de Vale Santiago / 17º Percurso dos Cavaleiros de Vale Santiago 2027",
+"date": "2027-02-21",
+"end_date": null,
+"location": "Odemira, Beja",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Trail",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida Kids",
+"Corrida inferior a 10 km",
+"Corta-Mato"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/cross-dos-cavaleiros-de-vale-santiago/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:73706_0",
+"name": "Meia Maratona de Óbidos 2027",
+"date": "2027-02-21",
+"end_date": null,
+"location": "Óbidos, Leiria",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-de-obidos/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:68859_0",
+"name": "Meia Maratona de Nápoles 2027",
+"date": "2027-02-21",
+"end_date": null,
+"location": "Nápoles, Itália",
+"country": "Itália",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Meia Maratona"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-de-napoles/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:44122_0",
+"name": "Trail Montes Saloios 2027",
+"date": "2027-02-21",
+"end_date": null,
+"location": "Sintra, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-montes-saloios/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69563_0",
+"name": "Meia Maratona de Sesimbra 2027",
+"date": "2027-02-21",
+"end_date": null,
+"location": "Sesimbra, Setúbal",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-de-sesimbra/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:41185_0",
+"name": "Maratona de Sevilha 2027",
+"date": "2027-02-21",
+"end_date": null,
+"location": "Sevilha, Espanha",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida inferior a 10 km",
+"Maratona"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-sevilha/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72141_0",
+"name": "XVIII Trail de Conimbriga Terras de Sicó 2027",
+"date": "2027-02-26",
+"end_date": "2027-02-28",
+"location": "Condeixa-a-Nova, Coimbra",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Endurance",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-de-conimbriga-terras-de-sico/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70081_0",
+"name": "TRACN4 Elands Marathon 2027",
+"date": "2027-02-27",
+"end_date": null,
+"location": "Mpumalanga, África do Sul",
+"country": "África",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"42 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/tracn4-elands-marathon/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71340_0",
+"name": "2º Canicross de Almoster 2027",
+"date": "2027-02-27",
+"end_date": "2027-02-28",
+"location": "Santarém",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Canicross",
+"Outras",
+"Trail",
+"Trail Curto",
+"Trail Kids"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/canicross-almoster/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74463_0",
+"name": "Europarque Meia Maratona 2027",
+"date": "2027-02-27",
+"end_date": "2027-02-28",
+"location": "Santa Maria da Feira, Aveiro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida Kids",
+"Meia Maratona"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-santa-maria-da-feira/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72770_0",
+"name": "5º Cross São Salvador 2027",
+"date": "2027-02-28",
+"end_date": null,
+"location": "Ílhavo, Aveiro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida Kids",
+"Corrida inferior a 10 km"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/cross-sao-salvador/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71279_0",
+"name": "Caminhada e Corrida da Universidade de Coimbra 2027",
+"date": "2027-02-28",
+"end_date": null,
+"location": "Coimbra",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida entre 10 km e 21 km",
+"Corrida inferior a 10 km"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/caminhada-e-corrida-da-universidade-de-coimbra/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:65829_0",
+"name": "Meia Maratona de Roma (Roma-Ostia) 2027",
+"date": "2027-02-28",
+"end_date": null,
+"location": "Roma, Itália",
+"country": "Itália",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Meia Maratona"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-de-roma-roma-ostia/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70044_0",
+"name": "15KM MetLife Madrid 2027",
+"date": "2027-02-28",
+"end_date": null,
+"location": "Madrid, Espanha",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida entre 10 km e 21 km"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/metlife-madrid/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69038_0",
+"name": "Corrida das Lezírias 2027",
+"date": "2027-02-28",
+"end_date": null,
+"location": "Vila Franca de Xira, Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida Kids",
+"Corrida entre 10 km e 21 km",
+"Corrida inferior a 10 km"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/corrida-das-lezirias/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:62920_0",
+"name": "Corrida Solidária Reigoso 2027",
+"date": "2027-02-28",
+"end_date": null,
+"location": "Reigoso, Oliveira de Frades, Viseu",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida entre 10 km e 21 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-solidaria-reigoso/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:50185_0",
+"name": "Montalegre Urban Fit 2027",
+"date": "2027-03-06",
+"end_date": null,
+"location": "Montalegre, Vila Real",
+"country": "Portugal",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Obstáculos"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/montalegre-urban-fit/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70722_0",
+"name": "Hyundai 7k 2027",
+"date": "2027-03-06",
+"end_date": null,
+"location": "Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida inferior a 10 km"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/hyundai-7k/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67480_0",
+"name": "Sharish Monsaraz Natur Trail 2027",
+"date": "2027-03-06",
+"end_date": null,
+"location": "Reguengos de Monsaraz, Évora",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/sharish-monsaraz-natur-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71302_0",
+"name": "Trail das Amendoeiras Durius Pesqueira 2027",
+"date": "2027-03-06",
+"end_date": "2027-03-07",
+"location": "São João da Pesqueira, Viseu",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Kids",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-das-amendoeiras/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69527_0",
+"name": "Louzantrail 2027",
+"date": "2027-03-06",
+"end_date": "2027-03-07",
+"location": "Lousã, Coimbra",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Kids",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/louzantrail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67511_0",
+"name": "Meia Maratona de Salamanca 2027",
+"date": "2027-03-07",
+"end_date": null,
+"location": "Salamanca, Espanha",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Meia Maratona"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-de-salamanca/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:50950_0",
+"name": "Vodafone 10k 2027",
+"date": "2027-03-07",
+"end_date": null,
+"location": "Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/vodafone-10k/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:50246_0",
+"name": "Maratona de Tóquio 2027",
+"date": "2027-03-07",
+"end_date": null,
+"location": "Tóquio, Japão",
+"country": "Ásia",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida entre 10 km e 21 km",
+"Maratona"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-toquio/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74580_0",
+"name": "Trail os Bravos dos Trilhos 2027",
+"date": "2027-03-07",
+"end_date": null,
+"location": "Santo Tirso, Porto",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-os-bravos-dos-trilhos/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71772_0",
+"name": "Mação Trail 2027",
+"date": "2027-03-07",
+"end_date": null,
+"location": "Mação, Santarém",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/macao-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72799_0",
+"name": "Mahfra Nature Trail 2027",
+"date": "2027-03-07",
+"end_date": null,
+"location": "Mafra, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/mahfra-nature-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:50804_0",
+"name": "EDP Meia Maratona de Lisboa 2027",
+"date": "2027-03-07",
+"end_date": null,
+"location": "Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/edp-meia-maratona-lisboa/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71077_0",
+"name": "VIII Trail do Rio Paiva 2027",
+"date": "2027-03-07",
+"end_date": null,
+"location": "Cinfães, Viseu",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-do-rio-paiva/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:66740_0",
+"name": "Corrida da Marginal - Póvoa de Varzim / Vila do Conde 2027",
+"date": "2027-03-07",
+"end_date": null,
+"location": "Vila do Conde, Porto",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-da-marginal/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:44248_0",
+"name": "Meia Maratona de Paris 2027",
+"date": "2027-03-07",
+"end_date": null,
+"location": "Paris, França",
+"country": "França",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Meia Maratona"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-de-paris/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71332_0",
+"name": "8º Night Running Santiago do Cacém 2027",
+"date": "2027-03-13",
+"end_date": null,
+"location": "Santiago do Cacém, Setúbal",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida Kids",
+"Corrida entre 10 km e 21 km"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/night-running-santiago-do-cacem/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:50845_0",
+"name": "Maratona de Roma 2027",
+"date": "2027-03-13",
+"end_date": "2027-03-14",
+"location": "Roma, Itália",
+"country": "Itália",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida inferior a 10 km",
+"Estafetas",
+"Maratona"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-roma/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:68865_0",
+"name": "Meia Maratona Enzo Ferrari 2027",
+"date": "2027-03-14",
+"end_date": null,
+"location": "Maranello, Itália",
+"country": "Itália",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-enzo-ferrari/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67610_0",
+"name": "Meia Maratona de Gaia 2027",
+"date": "2027-03-14",
+"end_date": null,
+"location": "Vila Nova de Gaia, Porto",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-gaia/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71223_0",
+"name": "Trail do Vale Encantado – ARCVC 2027",
+"date": "2027-03-14",
+"end_date": null,
+"location": "Vila Nova de Famalicão, Braga",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Kids",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-vale-encantado/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71133_0",
+"name": "Meia Maratona de Haia 2027",
+"date": "2027-03-14",
+"end_date": null,
+"location": "Haia, Países Baixos",
+"country": "Países Baixos",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida inferior a 10 km",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-de-haia/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:60502_0",
+"name": "Trilhos dos Calceteiros 2027",
+"date": "2027-03-14",
+"end_date": null,
+"location": "Fanhões, Loures, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trilhos-dos-calceteiros/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:73596_0",
+"name": "Trilhos do Paleozóico 2027",
+"date": "2027-03-14",
+"end_date": null,
+"location": "Valongo, Porto",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trilhos-do-paleozoico/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:75396_0",
+"name": "V Trail Rota do Sal 2027",
+"date": "2027-03-14",
+"end_date": null,
+"location": "Santa Comba Dão, Viseu",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-da-rota-do-sal/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:50339_0",
+"name": "Maratona de Barcelona 2027",
+"date": "2027-03-14",
+"end_date": null,
+"location": "Barcelona, Espanha",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Maratona"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-barcelona/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69631_0",
+"name": "Trail do Serrote 2027",
+"date": "2027-03-14",
+"end_date": null,
+"location": "Vila Nova De Monsarros, Anadia, Aveiro",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-do-serrote/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67485_0",
+"name": "Povoação Trail 2027",
+"date": "2027-03-14",
+"end_date": "2027-03-15",
+"location": "Povoação, Açores",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/povoacao-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71261_0",
+"name": "Backyard Ultra Ansião 2027",
+"date": "2027-03-20",
+"end_date": null,
+"location": "Ansião, Leiria",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Backyard",
+"Trail"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/backyard-ultra-ansiao/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70546_0",
+"name": "Caramulo Magic 2027",
+"date": "2027-03-20",
+"end_date": "2027-03-21",
+"location": "Tondela, Viseu",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/caramulo-magic/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74687_0",
+"name": "Meia Maratona de Nova Iorque 2027",
+"date": "2027-03-21",
+"end_date": null,
+"location": "Nova Iorque, Estados Unidos da América, USA",
+"country": "América",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Meia Maratona"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-de-nova-iorque/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:68875_0",
+"name": "Meia Maratona de Milão 2027",
+"date": "2027-03-21",
+"end_date": null,
+"location": "Milão, Itália",
+"country": "Itália",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida inferior a 10 km",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-de-milao/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:47231_0",
+"name": "Meia Maratona Baía do Seixal 2027",
+"date": "2027-03-21",
+"end_date": null,
+"location": "Seixal, Setúbal",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-baia-do-seixal/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:68293_0",
+"name": "8º Trail da Primavera 2027",
+"date": "2027-03-21",
+"end_date": null,
+"location": "Santiago do Cacém, Setúbal",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-primavera/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69353_0",
+"name": "Meia Maratona Douro Verde 2027",
+"date": "2027-03-21",
+"end_date": null,
+"location": "Baião, Porto",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Meia Maratona"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-douro-verde/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:73355_0",
+"name": "Hybrid Day S. M. Feira 2027 Europarque",
+"date": "2027-03-26",
+"end_date": "2027-03-27",
+"location": "Santa Maria da Feira, Aveiro",
+"country": "Portugal",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/hybrid-day-s-m-feira-europarque/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:47846_0",
+"name": "Meia Maratona Braga 2027",
+"date": "2027-03-28",
+"end_date": null,
+"location": "Braga",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida inferior a 10 km",
+"Meia Maratona"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-braga/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69543_0",
+"name": "Ultra Trail do Marão 2027",
+"date": "2027-03-31",
+"end_date": "2027-04-01",
+"location": "Amarante, Porto",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Endurance",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/ultra-trail-do-marao/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71320_0",
+"name": "Pinheiro Grande Backyard Ultra – GDPG 2027",
+"date": "2027-04-02",
+"end_date": "2027-04-03",
+"location": "Chamusca, Santarém",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Backyard",
+"Trail"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/pinheiro-grande-backyard-ultra-gdpg/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:54969_0",
+"name": "Meia Maratona de Praga 2027",
+"date": "2027-04-02",
+"end_date": "2027-04-03",
+"location": "Praga, República Checa",
+"country": "República Checa",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Meia Maratona"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-de-praga/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71776_0",
+"name": "Renascença Meia Maratona de Fátima 2027",
+"date": "2027-04-02",
+"end_date": "2027-04-04",
+"location": "Ourém, Santarém",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-de-fatima/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71084_0",
+"name": "Trilhos das Azenhas 2027",
+"date": "2027-04-02",
+"end_date": "2027-04-04",
+"location": "Coimbra",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Kids"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trilhos-das-azenhas/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:41628_0",
+"name": "Maratona de Paris 2027",
+"date": "2027-04-03",
+"end_date": "2027-04-04",
+"location": "Paris, França",
+"country": "França",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Maratona"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-paris/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:68870_0",
+"name": "Meia Maratona de Londres 2027",
+"date": "2027-04-03",
+"end_date": "2027-04-04",
+"location": "Londres, Inglaterra",
+"country": "Inglaterra",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Meia Maratona"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-de-londres/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:57646_0",
+"name": "Maratona de Milão 2027",
+"date": "2027-04-03",
+"end_date": "2027-04-04",
+"location": "Milão, Itália",
+"country": "Itália",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Maratona"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-milao/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:50354_0",
+"name": "Meia Maratona de Berlim 2027",
+"date": "2027-04-03",
+"end_date": "2027-04-04",
+"location": "Berlim, Alemanha",
+"country": "Alemanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Meia Maratona"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-de-berlim/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72120_0",
+"name": "Stc Ocr 2027",
+"date": "2027-04-03",
+"end_date": "2027-04-04",
+"location": "Santiago do Cacém, Setúbal",
+"country": "Portugal",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Obstáculos"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/stc-ocr/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:68549_0",
+"name": "X Meia Maratona de Faro 2027",
+"date": "2027-04-09",
+"end_date": "2027-04-10",
+"location": "Faro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-de-faro/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74441_0",
+"name": "Corrida Francisco Lázaro Bairro de Benfica 2027",
+"date": "2027-04-09",
+"end_date": "2027-04-10",
+"location": "Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida inferior a 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-francisco-lazaro/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74446_0",
+"name": "Trail Linhas de Torres 2027",
+"date": "2027-04-09",
+"end_date": "2027-04-10",
+"location": "Mafra, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Kids",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-linhas-de-torres/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72145_0",
+"name": "XV Piódão Trail Running 2027",
+"date": "2027-04-09",
+"end_date": "2027-04-10",
+"location": "Arganil, Coimbra",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/piodao-trail-running/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70271_0",
+"name": "Ameal Trail Meivcore 2027",
+"date": "2027-04-09",
+"end_date": "2027-04-11",
+"location": "Coimbra",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Kids"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/ameal-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:75381_0",
+"name": "Trail Capital do Arinto 2027",
+"date": "2027-04-10",
+"end_date": "2027-04-11",
+"location": "Loures, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-capital-do-arinto/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69730_0",
+"name": "Meia Maratona Vigo-Bayona 2027",
+"date": "2027-04-10",
+"end_date": "2027-04-11",
+"location": "Vigo, Espanha",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-vigo-bayona/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70550_0",
+"name": "Lisbon Eco Marathon 2027",
+"date": "2027-04-10",
+"end_date": "2027-04-11",
+"location": "Lisboa",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/lisbon-eco-marathon/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:75448_0",
+"name": "Trail do Alto do Calvário 2027",
+"date": "2027-04-10",
+"end_date": "2027-04-11",
+"location": "Vila Nova de Paiva, Viseu",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-do-alto-do-calvario/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:57917_0",
+"name": "Maratona de Zurique 2027",
+"date": "2027-04-11",
+"end_date": null,
+"location": "Zurique, Suíça",
+"country": "Suíça",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"42 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-zurique/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:54976_0",
+"name": "Maratona de Roterdão 2027",
+"date": "2027-04-11",
+"end_date": null,
+"location": "Roterdão, Países Baixos",
+"country": "Países Baixos",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Maratona"
+],
+"distances": [
+"10 km",
+"42 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-roterdao/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70076_0",
+"name": "Farol Adventure Trail - Flores Azores 2027",
+"date": "2027-04-17",
+"end_date": null,
+"location": "Lajes das Flores, Açores",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/farol-adventure-trail-flores-azores/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72859_0",
+"name": "Trail da Tapada Real de Mafra 2027",
+"date": "2027-04-17",
+"end_date": "2027-04-18",
+"location": "Mafra, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-real-da-tapada-da-mafra/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:57644_0",
+"name": "Maratona de Viena 2027",
+"date": "2027-04-17",
+"end_date": "2027-04-18",
+"location": "Viena, Áustria",
+"country": "Áustria",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Corrida inferior a 10 km",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"42 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-viena/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:45510_0",
+"name": "Maratona de Boston 2027",
+"date": "2027-04-18",
+"end_date": "2027-04-19",
+"location": "Boston, Estados Unidos da América, USA",
+"country": "América",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida inferior a 10 km",
+"Maratona"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-boston/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70606_0",
+"name": "Ultra Trail da Serra de São Mamede 2027",
+"date": "2027-04-22",
+"end_date": "2027-04-25",
+"location": "Portalegre",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Endurance",
+"Trail Kids",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/ultra-trail-sao-mamede/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:50177_0",
+"name": "Madeira Island Ultra-Trail – MIUT 2027",
+"date": "2027-04-23",
+"end_date": "2027-04-25",
+"location": "Machico, Ilha da Madeira, Madeira",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Trail",
+"Trail Curto",
+"Trail Endurance",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/madeira-ultra-trail-miut/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:43522_0",
+"name": "Maratona da Europa (Aveiro) 2027",
+"date": "2027-04-23",
+"end_date": "2027-04-25",
+"location": "Aveiro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"42 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-da-europa/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:45666_0",
+"name": "Trail Run Real Priolo 2027",
+"date": "2027-04-24",
+"end_date": null,
+"location": "Ilha de São Miguel, Açores",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-run-real-priolo/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:66737_0",
+"name": "Corrida da Liberdade - Maia 2027",
+"date": "2027-04-24",
+"end_date": "2027-04-25",
+"location": "Maia, Porto",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-da-liberdade-maia/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:75391_0",
+"name": "Trail do Tinóni 2027",
+"date": "2027-04-24",
+"end_date": "2027-04-25",
+"location": "Penafiel, Porto",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-do-tinoni/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:50897_0",
+"name": "Maratona de Madrid 2027",
+"date": "2027-04-24",
+"end_date": "2027-04-25",
+"location": "Madrid, Espanha",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"42 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-madrid/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:45551_0",
+"name": "Maratona de Londres 2027",
+"date": "2027-04-24",
+"end_date": "2027-04-25",
+"location": "Londres, Inglaterra",
+"country": "Reino Unido",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Maratona"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-londres/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:57641_0",
+"name": "Maratona de Hamburgo 2027",
+"date": "2027-04-25",
+"end_date": null,
+"location": "Hamburgo, Alemanha",
+"country": "Alemanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Maratona"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-hamburgo/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67286_0",
+"name": "Oh Meu Deus - Ultra Trail Centro de Portugal 2027",
+"date": "2027-04-29",
+"end_date": "2027-05-02",
+"location": "Seia, Guarda",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Trail",
+"Trail Curto",
+"Trail Endurance",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/oh-meu-deus/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:57329_0",
+"name": "Lobo Ibérico Trail 2027",
+"date": "2027-05-01",
+"end_date": "2027-05-02",
+"location": "Mafra, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/lobo-iberico-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:57892_0",
+"name": "Maratona de Praga 2027",
+"date": "2027-05-01",
+"end_date": "2027-05-02",
+"location": "Praga, República Checa",
+"country": "República Checa",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"42 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-praga/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72886_0",
+"name": "Trail Run Aqui HÁ-OS 2027",
+"date": "2027-05-01",
+"end_date": "2027-05-02",
+"location": "Figueira da Foz, Coimbra",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-run-aqui-ha-os/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74981_0",
+"name": "Lidl Setúbal Triathlon 2027",
+"date": "2027-05-01",
+"end_date": "2027-05-02",
+"location": "Setúbal",
+"country": "Portugal",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Corrida",
+"Estafetas",
+"Triatlo, Duatlo & Ironman"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/lidl-setubal-triathlon/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70146_0",
+"name": "Estrela Grande Trail 2027",
+"date": "2027-05-06",
+"end_date": "2027-05-09",
+"location": "Manteigas, Guarda",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Kids",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/estrela-grande-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:58191_0",
+"name": "ING Night Marathon Luxembourg 2027",
+"date": "2027-05-08",
+"end_date": null,
+"location": "Cidade do Luxemburgo, Luxemburgo",
+"country": "Luxemburgo",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"42 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/ing-night-marathon-half-marathon-luxembourg/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:57920_0",
+"name": "Maratona de Genebra 2027",
+"date": "2027-05-08",
+"end_date": "2027-05-09",
+"location": "Genebra, Suíça",
+"country": "Suíça",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids",
+"Corrida inferior a 10 km",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"42 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-genebra/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:57895_0",
+"name": "Maratona de Copenhaga 2027",
+"date": "2027-05-08",
+"end_date": "2027-05-09",
+"location": "Copenhaga, Dinamarca",
+"country": "Dinamarca",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Maratona"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-copenhaga/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74488_0",
+"name": "9º Trilhos Luso Bussaco 2027",
+"date": "2027-05-08",
+"end_date": "2027-05-09",
+"location": "Luso, Aveiro",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trilhos-luso-bussaco/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:63594_0",
+"name": "Deka Lisboa 2027",
+"date": "2027-05-14",
+"end_date": "2027-05-15",
+"location": "Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Obstáculos"
+],
+"tags": [
+"Hyrox",
+"Milha"
+],
+"distances": [
+"1 milha"
+],
+"url": "https://www.portugalrunning.com/eventos/deka-lisboa/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:43134_0",
+"name": "Trail do Vale 2027",
+"date": "2027-05-15",
+"end_date": "2027-05-16",
+"location": "Tomar, Santarém",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-do-vale/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:58281_0",
+"name": "Corrida Mimosa 2027",
+"date": "2027-05-16",
+"end_date": null,
+"location": "Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida inferior a 10 km"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/corrida-mimosa/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71339_0",
+"name": "Backyard Trilho dos Cágados 2027",
+"date": "2027-05-21",
+"end_date": "2027-05-22",
+"location": "Cartaxo, Santarém",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Backyard",
+"Trail"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/backyard-trilho-dos-cagados/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74698_0",
+"name": "Meia Maratona de Gotemburgo 2027",
+"date": "2027-05-21",
+"end_date": "2027-05-22",
+"location": "Gotemburgo, Suécia",
+"country": "Suécia",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida inferior a 10 km",
+"Meia Maratona"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-de-gotemburgo/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:66715_0",
+"name": "Corrida de Miramar 2027",
+"date": "2027-05-21",
+"end_date": "2027-05-22",
+"location": "Miramar, Vila Nova de Gaia, Porto",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-de-miramar/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69634_0",
+"name": "7 Cidades Ultimate Trail 2027",
+"date": "2027-05-22",
+"end_date": null,
+"location": "Ponta Delgada, Açores",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Kids",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/7-cidades-ultimate-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72179_0",
+"name": "Maratona de Cidade do Cabo 2027",
+"date": "2027-05-22",
+"end_date": "2027-05-23",
+"location": "África do Sul",
+"country": "África",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Corrida inferior a 10 km",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"42 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-cidade-do-cabo/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70554_0",
+"name": "TransPeneda-Gerês 2027",
+"date": "2027-05-27",
+"end_date": "2027-05-30",
+"location": "Montalegre, Vila Real",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Trail",
+"Trail Curto",
+"Trail Endurance",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/transpeneda-geres/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:60837_0",
+"name": "Meia Maratona Douro Vinhateiro (Régua) 2027",
+"date": "2027-05-29",
+"end_date": "2027-05-30",
+"location": "Peso da Régua, Vila Real",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Meia Maratona"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-douro-vinhateiro/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70864_0",
+"name": "Eco Trail Praia Mag8 2027",
+"date": "2027-05-29",
+"end_date": "2027-05-30",
+"location": "Sintra, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-praia-mag8/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74694_0",
+"name": "Zegama-Aizkorri Trail 2027",
+"date": "2027-06-03",
+"end_date": "2027-06-06",
+"location": "",
+"country": "Espanha",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Skyrunning",
+"Trail",
+"Trail Curto",
+"Trail Kids",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/zegama-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71324_0",
+"name": "16ª Corrida do Vinho e da Pera Rocha 2027",
+"date": "2027-06-04",
+"end_date": "2027-06-05",
+"location": "Bombarral, Leiria",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-e-caminhada-do-vinho-e-da-pera-rocha/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69325_0",
+"name": "Bracarvs Backyard Ultra Vila Verde 2027",
+"date": "2027-06-04",
+"end_date": "2027-06-05",
+"location": "Vila Verde, Braga",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Backyard",
+"Trail"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/sinctime-evento-558/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69407_0",
+"name": "Trail de São João da Vila 2027",
+"date": "2027-06-05",
+"end_date": null,
+"location": "Vila Franca do Campo, Açores",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trail-de-sao-joao-da-vila/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:49774_0",
+"name": "Corrida Santo António 2027 – Lisboa",
+"date": "2027-06-05",
+"end_date": "2027-06-06",
+"location": "Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-santo-antonio-lisboa/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:68880_0",
+"name": "Meia Maratona do Sol da Meia Noite 2027",
+"date": "2027-06-18",
+"end_date": "2027-06-19",
+"location": "Tromsø, Noruega",
+"country": "Noruega",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida inferior a 10 km",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"42 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-do-sol-da-meia-noite/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74703_0",
+"name": "Maratona do Mont-Blanc (Chamonix) 2027",
+"date": "2027-06-23",
+"end_date": "2027-06-27",
+"location": "Chamonix, França",
+"country": "França",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Skyrunning",
+"Trail",
+"Trail Curto",
+"Trail Kids",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/maratona-do-mont-blanc-chamonix/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:48597_0",
+"name": "Corrida das Fogueiras 2027",
+"date": "2027-06-25",
+"end_date": "2027-06-26",
+"location": "Peniche, Leiria",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida Kids"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-das-fogueiras/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:42974_0",
+"name": "Ultra Trail Serra da Freita 2027",
+"date": "2027-06-25",
+"end_date": "2027-06-27",
+"location": "Arouca, Aveiro",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Endurance",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/ultra-trail-serra-da-freita/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:66709_0",
+"name": "Corrida do Areinho 2027",
+"date": "2027-06-26",
+"end_date": "2027-06-27",
+"location": "Oliveira do Douro, Vila Nova de Gaia, Porto",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.portugalrunning.com/eventos/corrida-praia-do-areinho/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67290_0",
+"name": "PT281 Ultramarathon 2027",
+"date": "2027-07-14",
+"end_date": "2027-07-18",
+"location": "Castelo Branco",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Trail",
+"Trail Endurance"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/pt281-ultramarathon/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:72991_0",
+"name": "Limestone Ultra Trail 2027",
+"date": "2027-07-28",
+"end_date": "2027-07-31",
+"location": "Porto de Mós, Leiria",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Endurance",
+"Trail Kids",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/limestone-ultra-trail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74707_0",
+"name": "Sierre-Zinal 2027",
+"date": "2027-08-05",
+"end_date": "2027-08-07",
+"location": "Cantão de Valais, Suíça",
+"country": "Suíça",
+"types": [
+"Trail"
+],
+"tags": [
+"Skyrunning",
+"Trail",
+"Trail Curto",
+"Trail Kids",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/sierre-zinal/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:68885_0",
+"name": "UTMB Mont-Blanc 2027",
+"date": "2027-08-22",
+"end_date": "2027-08-29",
+"location": "Chamonix, França",
+"country": "França",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Trail",
+"Trail Curto",
+"Trail Endurance",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/utmb-mont-blanc/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:68890_0",
+"name": "Maratona de Sidney 2027",
+"date": "2027-08-28",
+"end_date": "2027-08-29",
+"location": "Sidney, Austrália",
+"country": "Oceania",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Maratona"
+],
+"distances": [
+"10 km",
+"42 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-sidney/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:67586_0",
+"name": "Ultra Caminho do Peregrino 2027",
+"date": "2027-09-02",
+"end_date": "2027-09-05",
+"location": "Barcelos, Braga",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Trail",
+"Trail Endurance"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/ultra-caminho-do-peregrino/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:75514_0",
+"name": "Estrela Xtreme Triathlon 2027",
+"date": "2027-09-10",
+"end_date": "2027-09-12",
+"location": "Manteigas, Guarda",
+"country": "Portugal",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Corrida",
+"Estafetas",
+"Triatlo, Duatlo & Ironman"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/estrela-xtreme-triathlon/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74674_0",
+"name": "Tor des Géants (TOR330) 2027 – Vale de Aosta",
+"date": "2027-09-11",
+"end_date": "2027-09-18",
+"location": "Courmayeur, Itália",
+"country": "Itália",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Trail",
+"Trail Endurance",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/tor-des-geants-tor/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71846_0",
+"name": "Trail e 3ª Caminhada Colorida dos Trilhos CDP 2027",
+"date": "2027-09-18",
+"end_date": "2027-09-19",
+"location": "Coimbra",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/trilhos-cdp/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70692_0",
+"name": "Hyundai Meia Maratona do Porto 2027",
+"date": "2027-09-18",
+"end_date": "2027-09-19",
+"location": "Porto",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Meia Maratona"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-porto/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:45497_0",
+"name": "Meia Maratona de Copenhaga 2027",
+"date": "2027-09-18",
+"end_date": "2027-09-19",
+"location": "Copenhaga, Dinamarca",
+"country": "Dinamarca",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Meia Maratona"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-de-copenhaga/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74711_0",
+"name": "Maratona de Varsóvia 2027",
+"date": "2027-09-25",
+"end_date": "2027-09-26",
+"location": "Varsóvia, Polónia",
+"country": "Polónia",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Maratona"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-varsovia/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69754_0",
+"name": "Maratona de Berlim 2027",
+"date": "2027-09-25",
+"end_date": "2027-09-26",
+"location": "Berlim, Alemanha",
+"country": "Alemanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida inferior a 10 km",
+"Maratona"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-berlim/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69734_0",
+"name": "Meia Maratona de Cardiff 2027",
+"date": "2027-10-01",
+"end_date": "2027-10-03",
+"location": "Cardiff, Reino Unido",
+"country": "Reino Unido",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida Kids",
+"Meia Maratona"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-de-cardiff/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:69780_0",
+"name": "Maratona de Chicago 2027",
+"date": "2027-10-09",
+"end_date": "2027-10-10",
+"location": "Chicago, Estados Unidos da América, USA",
+"country": "América",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida inferior a 10 km",
+"Maratona"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-chicago/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70387_0",
+"name": "Maratona de Bruges 2027",
+"date": "2027-10-09",
+"end_date": "2027-10-10",
+"location": "",
+"country": "Bélgica",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"42 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-bruges/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:73613_0",
+"name": "AXTrail 2027",
+"date": "2027-10-14",
+"end_date": "2027-10-17",
+"location": "Castanheira de Pera, Leiria",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Endurance",
+"Trail Longo",
+"Trail Ultra"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/axtrail/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:70380_0",
+"name": "Meia Maratona de Bilbau 2027",
+"date": "2027-10-15",
+"end_date": "2027-10-16",
+"location": "Bilbau, Espanha",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-de-bilbau/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:71287_0",
+"name": "Wizz Air Meia Maratona de Roma 2027",
+"date": "2027-10-16",
+"end_date": "2027-10-17",
+"location": "Roma, Itália",
+"country": "Itália",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Meia Maratona"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-de-roma/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:75456_0",
+"name": "Maratona dos Campeões 2027",
+"date": "2027-10-16",
+"end_date": "2027-10-17",
+"location": "Caminha, Viana do Castelo",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Maratona"
+],
+"distances": [
+"10 km",
+"42 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-dos-campeoes/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74724_0",
+"name": "Meia Maratona de Valência 2027",
+"date": "2027-10-23",
+"end_date": "2027-10-24",
+"location": "Valência, Espanha",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Meia Maratona"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-de-valencia/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74715_0",
+"name": "TCS Maratona de Amesterdão 2027",
+"date": "2027-10-29",
+"end_date": "2027-10-31",
+"location": "Amesterdão, Países Baixos",
+"country": "Países Baixos",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida Kids",
+"Corrida inferior a 10 km",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"42 km",
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-amesterdao/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74729_0",
+"name": "Mainova Maratona de Frankfurt 2027",
+"date": "2027-10-30",
+"end_date": "2027-10-31",
+"location": "Frankfurt, Alemanha",
+"country": "Alemanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Estafetas",
+"Maratona"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-frankfurt/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74717_0",
+"name": "Mizuno Meia Maratona de Amesterdão 2027",
+"date": "2027-10-30",
+"end_date": "2027-10-31",
+"location": "Amesterdão, Países Baixos",
+"country": "Países Baixos",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Meia Maratona"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.portugalrunning.com/eventos/meia-maratona-de-amesterdao/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:74733_0",
+"name": "Maratona de Nova Iorque 2027",
+"date": "2027-11-07",
+"end_date": null,
+"location": "Nova Iorque, Estados Unidos da América, USA",
+"country": "América",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Maratona"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.portugalrunning.com/eventos/maratona-de-nova-iorque/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:75303_0",
+"name": "VB Trail Run 2027",
+"date": "2027-11-14",
+"end_date": "2027-11-15",
+"location": "Ilha do Pico, Açores",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/vb-trail-run/",
+"official_url": ""
+},
+{
+"source": "portugalrunning",
+"source_id": "portugalrunning:75294_0",
+"name": "Hybrid Day Porto 2027 Exponor",
+"date": "2027-12-11",
+"end_date": "2027-12-12",
+"location": "Matosinhos, Porto",
+"country": "Portugal",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.portugalrunning.com/eventos/hybrid-day-porto-exponor/",
+"official_url": ""
+}
+]

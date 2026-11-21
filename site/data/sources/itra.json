@@ -1,0 +1,1406 @@
+[
+{
+"source": "itra",
+"source_id": "itra:124993",
+"name": "BTR II - BOCAL TRAIL RUN",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Bocal de Baixo",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"17 km",
+"26 km"
+],
+"url": "https://itra.run/Races/RaceDetails/BTR.II...BOCAL.TRAIL.RUN.TRAIL.LONGO/2026/124993",
+"official_url": "",
+"itra": [
+{
+"km": "17 km",
+"dplus": 800,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/BTR.II...BOCAL.TRAIL.RUN.TRAIL.CURTO/2026/124992"
+},
+{
+"km": "26 km",
+"dplus": 1224,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/BTR.II...BOCAL.TRAIL.RUN.TRAIL.LONGO/2026/124993"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:125782",
+"name": "Sousões Trail",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Felgueiras",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"18 km",
+"30 km"
+],
+"url": "https://itra.run/Races/RaceDetails/Sousões.Trail.ST.31K/2026/125782",
+"official_url": "",
+"itra": [
+{
+"km": "18 km",
+"dplus": 669,
+"points": 0,
+"url": "https://itra.run/Races/RaceDetails/Sousões.Trail.ST.17K/2026/125783"
+},
+{
+"km": "30 km",
+"dplus": 1293,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/Sousões.Trail.ST.31K/2026/125782"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:124341",
+"name": "Trail do Trabulo",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Sátão",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"15 km",
+"25 km"
+],
+"url": "https://itra.run/Races/RaceDetails/Trail.do.Trabulo.Trail.23km/2026/124341",
+"official_url": "",
+"itra": [
+{
+"km": "15 km",
+"dplus": 317,
+"points": 0,
+"url": "https://itra.run/Races/RaceDetails/Trail.do.Trabulo.Trabulo.15/2026/124342"
+},
+{
+"km": "25 km",
+"dplus": 512,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/Trail.do.Trabulo.Trail.23km/2026/124341"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:126272",
+"name": "Trail Veredas de Nexe",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Santa Bárbara de Nexe",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"13 km",
+"19 km",
+"36 km"
+],
+"url": "https://itra.run/Races/RaceDetails/Trail.Veredas.de.Nexe.Trail.Longo/2026/126272",
+"official_url": "",
+"itra": [
+{
+"km": "13 km",
+"dplus": 422,
+"points": 0,
+"url": "https://itra.run/Races/RaceDetails/Trail.Veredas.de.Nexe.Mini.Trail/2026/126934"
+},
+{
+"km": "19 km",
+"dplus": 675,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/Trail.Veredas.de.Nexe.Trail.Sprint/2026/126273"
+},
+{
+"km": "36 km",
+"dplus": 1316,
+"points": 2,
+"url": "https://itra.run/Races/RaceDetails/Trail.Veredas.de.Nexe.Trail.Longo/2026/126272"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:116065",
+"name": "ALUT-Algarviana Ultra Trail",
+"date": "2026-11-26",
+"end_date": null,
+"location": "Sagres",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"306 km"
+],
+"url": "https://itra.run/Races/RaceDetails/ALUT.Algarviana.Ultra.Trail.ALUT.2026/2026/116065",
+"official_url": "",
+"itra": [
+{
+"km": "306 km",
+"dplus": 8711,
+"points": 6,
+"url": "https://itra.run/Races/RaceDetails/ALUT.Algarviana.Ultra.Trail.ALUT.2026/2026/116065"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:124095",
+"name": "6 Cascatas Trail Running",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Cheleiros",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"22 km"
+],
+"url": "https://itra.run/Races/RaceDetails/6.Cascatas.Trail.Running.6.Cascatas.Trail.Running/2026/124095",
+"official_url": "https://www.trilhoperdido.com/evento/6-cascatas-trail-running-2026",
+"itra": [
+{
+"km": "22 km",
+"dplus": 1148,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/6.Cascatas.Trail.Running.6.Cascatas.Trail.Running/2026/124095"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:124060",
+"name": "Trilhos do Endevélico",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Terena",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"20 km",
+"30 km"
+],
+"url": "https://itra.run/Races/RaceDetails/Trilhos.do.Endevélico.Trail.Longo.30k/2026/124060",
+"official_url": "",
+"itra": [
+{
+"km": "20 km",
+"dplus": 637,
+"points": 0,
+"url": "https://itra.run/Races/RaceDetails/Trilhos.do.Endevélico.Trail.Sprint.20k/2026/124072"
+},
+{
+"km": "30 km",
+"dplus": 915,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/Trilhos.do.Endevélico.Trail.Longo.30k/2026/124060"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:122309",
+"name": "XVI Trilhos de Casainhos",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Casainhos",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"10 km",
+"10 km",
+"18 km"
+],
+"url": "https://itra.run/Races/RaceDetails/XVI.Trilhos.de.Casainhos.Trail.Curto/2026/122309",
+"official_url": "https://casainhos.fazteaostrilhos.pt",
+"itra": [
+{
+"km": "10 km",
+"dplus": 422,
+"points": 0,
+"url": "https://itra.run/Races/RaceDetails/XVI.Trilhos.de.Casainhos.Trail.Experience/2026/122310"
+},
+{
+"km": "10 km",
+"dplus": 200,
+"points": null,
+"url": "https://itra.run/Races/RaceDetails/XVI.Trilhos.de.Casainhos.Caminhada.10K/2026/122311"
+},
+{
+"km": "18 km",
+"dplus": 785,
+"points": 0,
+"url": "https://itra.run/Races/RaceDetails/XVI.Trilhos.de.Casainhos.Trail.Curto/2026/122309"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:122381",
+"name": "PROENÇA TRAIL",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Montes da Senhora",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [],
+"url": "https://itra.run/Races/RaceDetails/PROENÇA.TRAIL.Trail.Ultra/2026/122381",
+"official_url": "",
+"itra": []
+},
+{
+"source": "itra",
+"source_id": "itra:126076",
+"name": "Trail Falcão Real",
+"date": "2026-12-13",
+"end_date": null,
+"location": "Alcoutim",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"16 km",
+"29 km"
+],
+"url": "https://itra.run/Races/RaceDetails/Trail.Falcão.Real.LONGO.TFR/2026/126076",
+"official_url": "https://www.crono.aaalgarve.org/eventos/v-trail-do-falcao-real",
+"itra": [
+{
+"km": "16 km",
+"dplus": 456,
+"points": 0,
+"url": "https://itra.run/Races/RaceDetails/Trail.Falcão.Real.TFR.SPRINT/2026/126075"
+},
+{
+"km": "29 km",
+"dplus": 900,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/Trail.Falcão.Real.LONGO.TFR/2026/126076"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:122085",
+"name": "Terra de Gigantes",
+"date": "2027-01-14",
+"end_date": null,
+"location": "Torre",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"301 km"
+],
+"url": "https://itra.run/Races/RaceDetails/Terra.de.Gigantes.Terra.de.Gigantes/2027/122085",
+"official_url": "https://horizontes.pt/events/terra-de-gigantes/",
+"itra": [
+{
+"km": "301 km",
+"dplus": 10800,
+"points": null,
+"url": "https://itra.run/Races/RaceDetails/Terra.de.Gigantes.Terra.de.Gigantes/2027/122085"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:124096",
+"name": "Lousa Mountain Trail",
+"date": "2027-01-17",
+"end_date": null,
+"location": "Lousa",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"22 km"
+],
+"url": "https://itra.run/Races/RaceDetails/Lousa.Mountain.Trail.Lousa.Mountain.Trail/2027/124096",
+"official_url": "https://www.trilhoperdido.com/evento/lousa-mountain-trail-2027",
+"itra": [
+{
+"km": "22 km",
+"dplus": 1148,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/Lousa.Mountain.Trail.Lousa.Mountain.Trail/2027/124096"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:122327",
+"name": "XIII TRILHOS DOS REIS - Delta Cafés",
+"date": "2027-01-17",
+"end_date": null,
+"location": "Portalegre",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"16 km",
+"18 km",
+"30 km",
+"46 km"
+],
+"url": "https://itra.run/Races/RaceDetails/XIII.TRILHOS.DOS.REIS...Delta.Cafés.Ultra.Trilhos.dos.Reis/2027/122327",
+"official_url": "https://stopandgo.net/events/trilhos-dos-reis-2027",
+"itra": [
+{
+"km": "16 km",
+"dplus": 600,
+"points": null,
+"url": "https://itra.run/Races/RaceDetails/XIII.TRILHOS.DOS.REIS...Delta.Cafés.Mini.Trilho.Dos.Reis/2027/124686"
+},
+{
+"km": "18 km",
+"dplus": 708,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/XIII.TRILHOS.DOS.REIS...Delta.Cafés.TRS..Trilhos.dos.Reis...Sprint/2027/122328"
+},
+{
+"km": "30 km",
+"dplus": 1301,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/XIII.TRILHOS.DOS.REIS...Delta.Cafés.TR..Trilhos.dos.Reis/2027/122329"
+},
+{
+"km": "46 km",
+"dplus": 2105,
+"points": 2,
+"url": "https://itra.run/Races/RaceDetails/XIII.TRILHOS.DOS.REIS...Delta.Cafés.Ultra.Trilhos.dos.Reis/2027/122327"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:126692",
+"name": "Algarve Xtreme Trail",
+"date": "2027-01-31",
+"end_date": null,
+"location": "Loulé",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"19 km",
+"30 km",
+"47 km"
+],
+"url": "https://itra.run/Races/RaceDetails/Algarve.Xtreme.Trail.AXT...Ultra/2027/126692",
+"official_url": "https://www.crono.aaalgarve.org/eventos/algarve-xtreme-trail-2025",
+"itra": [
+{
+"km": "19 km",
+"dplus": 864,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/Algarve.Xtreme.Trail.AXT...Sprint/2027/126690"
+},
+{
+"km": "30 km",
+"dplus": 1732,
+"points": 2,
+"url": "https://itra.run/Races/RaceDetails/Algarve.Xtreme.Trail.AXT...Trail/2027/126691"
+},
+{
+"km": "47 km",
+"dplus": 2946,
+"points": 3,
+"url": "https://itra.run/Races/RaceDetails/Algarve.Xtreme.Trail.AXT...Ultra/2027/126692"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:126223",
+"name": "Poiares Trail",
+"date": "2027-02-14",
+"end_date": null,
+"location": "Vila Nova de Poiares",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"13 km",
+"24 km",
+"35 km"
+],
+"url": "https://itra.run/Races/RaceDetails/Poiares.Trail.PT35K/2027/126223",
+"official_url": "https://stopandgo.net/es/events/poiares-trail-2027",
+"itra": [
+{
+"km": "13 km",
+"dplus": 417,
+"points": 0,
+"url": "https://itra.run/Races/RaceDetails/Poiares.Trail.PT13K/2027/126225"
+},
+{
+"km": "24 km",
+"dplus": 924,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/Poiares.Trail.PT23K/2027/126224"
+},
+{
+"km": "35 km",
+"dplus": 1546,
+"points": 2,
+"url": "https://itra.run/Races/RaceDetails/Poiares.Trail.PT35K/2027/126223"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:127174",
+"name": "Santo Thyrso Ultra Trilhos",
+"date": "2027-02-14",
+"end_date": null,
+"location": "Santo Tirso",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"18 km",
+"32 km",
+"48 km"
+],
+"url": "https://itra.run/Races/RaceDetails/Santo.Thyrso.Ultra.Trilhos.STUT.Ultra/2027/127174",
+"official_url": "https://stopandgo.net/events/stut-santo-thyrso-ultra-trilhos-2027",
+"itra": [
+{
+"km": "18 km",
+"dplus": 800,
+"points": null,
+"url": "https://itra.run/Races/RaceDetails/Santo.Thyrso.Ultra.Trilhos.STUT.Curto/2027/127172"
+},
+{
+"km": "32 km",
+"dplus": 1600,
+"points": null,
+"url": "https://itra.run/Races/RaceDetails/Santo.Thyrso.Ultra.Trilhos.STUT.Longo/2027/127173"
+},
+{
+"km": "48 km",
+"dplus": 2200,
+"points": null,
+"url": "https://itra.run/Races/RaceDetails/Santo.Thyrso.Ultra.Trilhos.STUT.Ultra/2027/127174"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:122312",
+"name": "XII Trail Montes Saloios",
+"date": "2027-02-21",
+"end_date": null,
+"location": "Covas de Ferro",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"10 km",
+"10 km",
+"15 km",
+"31 km",
+"50 km"
+],
+"url": "https://itra.run/Races/RaceDetails/XII.Trail.Montes.Saloios.Trail.Ultra/2027/122312",
+"official_url": "https://montessaloios.fazteaostrilhos.pt",
+"itra": [
+{
+"km": "10 km",
+"dplus": 500,
+"points": null,
+"url": "https://itra.run/Races/RaceDetails/XII.Trail.Montes.Saloios.Trail.Experience/2027/122315"
+},
+{
+"km": "10 km",
+"dplus": 500,
+"points": null,
+"url": "https://itra.run/Races/RaceDetails/XII.Trail.Montes.Saloios.Caminhada/2027/122316"
+},
+{
+"km": "15 km",
+"dplus": 800,
+"points": null,
+"url": "https://itra.run/Races/RaceDetails/XII.Trail.Montes.Saloios.Trail.Curto/2027/122313"
+},
+{
+"km": "31 km",
+"dplus": 1300,
+"points": null,
+"url": "https://itra.run/Races/RaceDetails/XII.Trail.Montes.Saloios.Trail.Longo/2027/122314"
+},
+{
+"km": "50 km",
+"dplus": 1950,
+"points": null,
+"url": "https://itra.run/Races/RaceDetails/XII.Trail.Montes.Saloios.Trail.Ultra/2027/122312"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:122844",
+"name": "Sharish Monsaraz Natur Trail",
+"date": "2027-03-06",
+"end_date": null,
+"location": "Monsaraz",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"23 km",
+"29 km",
+"51 km"
+],
+"url": "https://itra.run/Races/RaceDetails/Sharish.Monsaraz.Natur.Trail.SMNT.50K/2027/122844",
+"official_url": "https://stopandgo.net/circuits/best-trail-series",
+"itra": [
+{
+"km": "23 km",
+"dplus": 1024,
+"points": 0,
+"url": "https://itra.run/Races/RaceDetails/Sharish.Monsaraz.Natur.Trail.SMNT.23K/2027/122842"
+},
+{
+"km": "29 km",
+"dplus": 1245,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/Sharish.Monsaraz.Natur.Trail.SMNT.30K/2027/122843"
+},
+{
+"km": "51 km",
+"dplus": 1631,
+"points": 2,
+"url": "https://itra.run/Races/RaceDetails/Sharish.Monsaraz.Natur.Trail.SMNT.50K/2027/122844"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:122864",
+"name": "Povoação Trail",
+"date": "2027-03-14",
+"end_date": null,
+"location": "Povoacao",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"19 km",
+"31 km",
+"52 km"
+],
+"url": "https://itra.run/Races/RaceDetails/Povoação.Trail.50.KMS/2027/122864",
+"official_url": "https://www.povoacaotrail.pt",
+"itra": [
+{
+"km": "19 km",
+"dplus": 955,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/Povoação.Trail.15.Kms/2027/122866"
+},
+{
+"km": "31 km",
+"dplus": 2206,
+"points": 2,
+"url": "https://itra.run/Races/RaceDetails/Povoação.Trail.30.KMS/2027/122865"
+},
+{
+"km": "52 km",
+"dplus": 3456,
+"points": 3,
+"url": "https://itra.run/Races/RaceDetails/Povoação.Trail.50.KMS/2027/122864"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:122432",
+"name": "Trilhos dos Calceteiros 2027",
+"date": "2027-03-14",
+"end_date": null,
+"location": "Fanhoes",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"10 km",
+"10 km",
+"17 km",
+"31 km"
+],
+"url": "https://itra.run/Races/RaceDetails/Trilhos.dos.Calceteiros.2027.Trail.Longo/2027/122432",
+"official_url": "https://calceteiros.fazteaostrilhos.pt",
+"itra": [
+{
+"km": "10 km",
+"dplus": 400,
+"points": null,
+"url": "https://itra.run/Races/RaceDetails/Trilhos.dos.Calceteiros.2027.Trail.Experience/2027/122436"
+},
+{
+"km": "10 km",
+"dplus": 400,
+"points": null,
+"url": "https://itra.run/Races/RaceDetails/Trilhos.dos.Calceteiros.2027.Caminhada/2027/122437"
+},
+{
+"km": "17 km",
+"dplus": 700,
+"points": null,
+"url": "https://itra.run/Races/RaceDetails/Trilhos.dos.Calceteiros.2027.Trail.Curto/2027/122433"
+},
+{
+"km": "31 km",
+"dplus": 1300,
+"points": null,
+"url": "https://itra.run/Races/RaceDetails/Trilhos.dos.Calceteiros.2027.Trail.Longo/2027/122432"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:126395",
+"name": "8º Trail Rota das Fontes",
+"date": "2027-03-21",
+"end_date": null,
+"location": "Castanheira do Vouga",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"10 km",
+"17 km",
+"31 km"
+],
+"url": "https://itra.run/Races/RaceDetails/8º.Trail.Rota.das.Fontes.Trail.Longo/2027/126395",
+"official_url": "https://lap2go.com/pt/event/rota-das-fontes-2027",
+"itra": [
+{
+"km": "10 km",
+"dplus": 450,
+"points": null,
+"url": "https://itra.run/Races/RaceDetails/8º.Trail.Rota.das.Fontes.Mini.Trail/2027/126397"
+},
+{
+"km": "17 km",
+"dplus": 1000,
+"points": null,
+"url": "https://itra.run/Races/RaceDetails/8º.Trail.Rota.das.Fontes.Trail.Curto/2027/126396"
+},
+{
+"km": "31 km",
+"dplus": 1500,
+"points": null,
+"url": "https://itra.run/Races/RaceDetails/8º.Trail.Rota.das.Fontes.Trail.Longo/2027/126395"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:118200",
+"name": "9º Trail do Texugo",
+"date": "2027-04-04",
+"end_date": null,
+"location": "Aldeia da Serra DOssa",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"17 km",
+"30 km",
+"45 km"
+],
+"url": "https://itra.run/Races/RaceDetails/9º.Trail.do.Texugo.Ultra.Trail...45k/2027/118200",
+"official_url": "https://stopandgo.net/events/trail-do-texugo-2024-sport-hg",
+"itra": [
+{
+"km": "17 km",
+"dplus": 1136,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/9º.Trail.do.Texugo.Trail.Sprint...15K/2027/118198"
+},
+{
+"km": "30 km",
+"dplus": 1819,
+"points": 2,
+"url": "https://itra.run/Races/RaceDetails/9º.Trail.do.Texugo.Trail.Longo...30K/2027/118199"
+},
+{
+"km": "45 km",
+"dplus": 2612,
+"points": 2,
+"url": "https://itra.run/Races/RaceDetails/9º.Trail.do.Texugo.Ultra.Trail...45k/2027/118200"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:119159",
+"name": "Farol Adventure Trail - Flores Azores",
+"date": "2027-04-17",
+"end_date": null,
+"location": "Farol do Albarnaz, Ponta Delgada Flores",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"17 km",
+"36 km"
+],
+"url": "https://itra.run/Races/RaceDetails/Farol.Adventure.Trail...Flores.Azores.Farol.Adventure.Trail.36Km/2027/119159",
+"official_url": "https://acorrer.pt/eventos/3936/info",
+"itra": [
+{
+"km": "17 km",
+"dplus": 1007,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/Farol.Adventure.Trail...Flores.Azores.Farol.Adventure.Trail.18K/2027/119160"
+},
+{
+"km": "36 km",
+"dplus": 2301,
+"points": 2,
+"url": "https://itra.run/Races/RaceDetails/Farol.Adventure.Trail...Flores.Azores.Farol.Adventure.Trail.36Km/2027/119159"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:125513",
+"name": "TRAIL REAL PRIOLO",
+"date": "2027-04-24",
+"end_date": null,
+"location": "Nordeste",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"12 km",
+"17 km",
+"30 km",
+"49 km"
+],
+"url": "https://itra.run/Races/RaceDetails/TRAIL.REAL.PRIOLO.ULTRA.49KM/2027/125513",
+"official_url": "https://sites.google.com/view/realpriolo2027/home",
+"itra": [
+{
+"km": "12 km",
+"dplus": 499,
+"points": 0,
+"url": "https://itra.run/Races/RaceDetails/TRAIL.REAL.PRIOLO.MINI.TRAIL.12KM/2027/125511"
+},
+{
+"km": "17 km",
+"dplus": 922,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/TRAIL.REAL.PRIOLO.TRAIL.SPRINT.18KM/2027/125510"
+},
+{
+"km": "30 km",
+"dplus": 1604,
+"points": 2,
+"url": "https://itra.run/Races/RaceDetails/TRAIL.REAL.PRIOLO.TRAIL.30KM/2027/125512"
+},
+{
+"km": "49 km",
+"dplus": 2759,
+"points": 3,
+"url": "https://itra.run/Races/RaceDetails/TRAIL.REAL.PRIOLO.ULTRA.49KM/2027/125513"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:125865",
+"name": "6º TRAIL RUN AQUI HÁ-OS",
+"date": "2027-05-02",
+"end_date": null,
+"location": "Praia de Quiaios- Figueira da Foz",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"17 km",
+"31 km"
+],
+"url": "https://itra.run/Races/RaceDetails/6º.TRAIL.RUN.AQUI.HÁ.OS..Trail.31K/2027/125865",
+"official_url": "https://talentos-objetivos.pt/trailrunning/pt/info-prova/inscricoes/",
+"itra": [
+{
+"km": "17 km",
+"dplus": 850,
+"points": null,
+"url": "https://itra.run/Races/RaceDetails/6º.TRAIL.RUN.AQUI.HÁ.OS..Trail..17K/2027/125866"
+},
+{
+"km": "31 km",
+"dplus": 1580,
+"points": null,
+"url": "https://itra.run/Races/RaceDetails/6º.TRAIL.RUN.AQUI.HÁ.OS..Trail.31K/2027/125865"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:126865",
+"name": "Trilhos Luso Bussaco",
+"date": "2027-05-09",
+"end_date": null,
+"location": "Luso",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"10 km",
+"19 km",
+"30 km"
+],
+"url": "https://itra.run/Races/RaceDetails/Trilhos.Luso.Bussaco.TLB.31k/2027/126865",
+"official_url": "https://www.trilhoslusobussaco.com",
+"itra": [
+{
+"km": "10 km",
+"dplus": 446,
+"points": 0,
+"url": "https://itra.run/Races/RaceDetails/Trilhos.Luso.Bussaco.TLB.12K/2027/126867"
+},
+{
+"km": "19 km",
+"dplus": 884,
+"points": 0,
+"url": "https://itra.run/Races/RaceDetails/Trilhos.Luso.Bussaco.TLB.18K/2027/126866"
+},
+{
+"km": "30 km",
+"dplus": 1242,
+"points": 0,
+"url": "https://itra.run/Races/RaceDetails/Trilhos.Luso.Bussaco.TLB.31k/2027/126865"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:125519",
+"name": "7 Cidades Ultimate Trail",
+"date": "2027-05-22",
+"end_date": null,
+"location": "Feteiras",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"9 km",
+"25 km",
+"41 km"
+],
+"url": "https://itra.run/Races/RaceDetails/7.Cidades.Ultimate.Trail.7CUT40/2027/125519",
+"official_url": "https://7cut.cattt.pt/",
+"itra": [
+{
+"km": "9 km",
+"dplus": 444,
+"points": 0,
+"url": "https://itra.run/Races/RaceDetails/7.Cidades.Ultimate.Trail.7CUT10/2027/125521"
+},
+{
+"km": "25 km",
+"dplus": 1103,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/7.Cidades.Ultimate.Trail.7CUT20/2027/125520"
+},
+{
+"km": "41 km",
+"dplus": 1907,
+"points": 2,
+"url": "https://itra.run/Races/RaceDetails/7.Cidades.Ultimate.Trail.7CUT40/2027/125519"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:124600",
+"name": "Trail São João da Vila",
+"date": "2027-06-05",
+"end_date": null,
+"location": "Vila Franca do Campo",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"20 km",
+"35 km"
+],
+"url": "https://itra.run/Races/RaceDetails/Trail.São.João.da.Vila.TSJV.TRAIL.35km./2027/124600",
+"official_url": "https://lap2go.com/pt/event/trail-sao-joao-da-vila-2027",
+"itra": [
+{
+"km": "20 km",
+"dplus": 625,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/Trail.São.João.da.Vila.TSJV.SPRINT.20km/2027/124665"
+},
+{
+"km": "35 km",
+"dplus": 2181,
+"points": 2,
+"url": "https://itra.run/Races/RaceDetails/Trail.São.João.da.Vila.TSJV.TRAIL.35km./2027/124600"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:125901",
+"name": "HELL160 - Shadows and Dust 2.0",
+"date": "2027-07-10",
+"end_date": null,
+"location": "A do Pinto",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"21 km",
+"22 km",
+"31 km",
+"32 km",
+"43 km",
+"53 km",
+"104 km",
+"104 km",
+"163 km",
+"163 km"
+],
+"url": "https://itra.run/Races/RaceDetails/HELL160...Shadows.and.Dust.2.0.HELL.160...Silver/2027/125901",
+"official_url": "https://www.hell160.com",
+"itra": [
+{
+"km": "21 km",
+"dplus": 142,
+"points": 0,
+"url": "https://itra.run/Races/RaceDetails/HELL160...Shadows.and.Dust.2.0.HELL160.Relay.of.4...Relay.4/2027/125909"
+},
+{
+"km": "22 km",
+"dplus": 326,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/HELL160...Shadows.and.Dust.2.0.HELL.160.Relay.of.4...Relay.2/2027/125907"
+},
+{
+"km": "31 km",
+"dplus": 310,
+"points": null,
+"url": "https://itra.run/Races/RaceDetails/HELL160...Shadows.and.Dust.2.0.HELL.160.Relay.of.4...Relay.1/2027/125903"
+},
+{
+"km": "32 km",
+"dplus": 428,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/HELL160...Shadows.and.Dust.2.0.HELL160.Relay.of.4..Relay.3/2027/125908"
+},
+{
+"km": "43 km",
+"dplus": 518,
+"points": 0,
+"url": "https://itra.run/Races/RaceDetails/HELL160...Shadows.and.Dust.2.0.HELL160.Relay.of.2...Relay.1/2027/125902"
+},
+{
+"km": "53 km",
+"dplus": 571,
+"points": 2,
+"url": "https://itra.run/Races/RaceDetails/HELL160...Shadows.and.Dust.2.0.HELL160.Relay.of.2....Relay.2/2027/125906"
+},
+{
+"km": "104 km",
+"dplus": 1340,
+"points": null,
+"url": "https://itra.run/Races/RaceDetails/HELL160...Shadows.and.Dust.2.0.HELL160.Teams.of.2/2027/125904"
+},
+{
+"km": "104 km",
+"dplus": 1340,
+"points": null,
+"url": "https://itra.run/Races/RaceDetails/HELL160...Shadows.and.Dust.2.0.HELL160.Teams.of.5/2027/125905"
+},
+{
+"km": "163 km",
+"dplus": 1847,
+"points": 5,
+"url": "https://itra.run/Races/RaceDetails/HELL160...Shadows.and.Dust.2.0.HELL160...Gold/2027/125900"
+},
+{
+"km": "163 km",
+"dplus": 1847,
+"points": 5,
+"url": "https://itra.run/Races/RaceDetails/HELL160...Shadows.and.Dust.2.0.HELL.160...Silver/2027/125901"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:127099",
+"name": "Portugal 281 Ultramarathon",
+"date": "2027-07-15",
+"end_date": null,
+"location": "Belmonte",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"280 km"
+],
+"url": "https://itra.run/Races/RaceDetails/Portugal.281.Ultramarathon.PT.281./2027/127099",
+"official_url": "http://portugalultramarathon.com",
+"itra": [
+{
+"km": "280 km",
+"dplus": 4794,
+"points": 6,
+"url": "https://itra.run/Races/RaceDetails/Portugal.281.Ultramarathon.PT.281./2027/127099"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:123035",
+"name": "The VII Amazing Espite Trail",
+"date": "2027-07-25",
+"end_date": null,
+"location": "Espite",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"18 km",
+"32 km"
+],
+"url": "https://itra.run/Races/RaceDetails/The.VII.Amazing.Espite.Trail.Longo.K31/2027/123035",
+"official_url": "https://registerandgo.net/?evento=1415",
+"itra": [
+{
+"km": "18 km",
+"dplus": 683,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/The.VII.Amazing.Espite.Trail.Sprint.K19/2027/123036"
+},
+{
+"km": "32 km",
+"dplus": 1113,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/The.VII.Amazing.Espite.Trail.Longo.K31/2027/123035"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:124337",
+"name": "TRAIL INTERNACIONAL DA RAIA",
+"date": "2027-08-07",
+"end_date": null,
+"location": "Aldeia do Bispo - Sabugal",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"11 km",
+"16 km",
+"31 km",
+"45 km"
+],
+"url": "https://itra.run/Races/RaceDetails/TRAIL.INTERNACIONAL.DA.RAIA.Trail.Ultra...Serra.das.Mesas/2027/124337",
+"official_url": "https://traildaraia.pt",
+"itra": [
+{
+"km": "11 km",
+"dplus": 231,
+"points": 0,
+"url": "https://itra.run/Races/RaceDetails/TRAIL.INTERNACIONAL.DA.RAIA.Mini..Trail/2027/124339"
+},
+{
+"km": "16 km",
+"dplus": 363,
+"points": 0,
+"url": "https://itra.run/Races/RaceDetails/TRAIL.INTERNACIONAL.DA.RAIA.Trail.Curto...Cabeço.Vermelho/2027/124336"
+},
+{
+"km": "31 km",
+"dplus": 721,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/TRAIL.INTERNACIONAL.DA.RAIA.Trail.Longo...Contrabandista/2027/124338"
+},
+{
+"km": "45 km",
+"dplus": 1287,
+"points": 2,
+"url": "https://itra.run/Races/RaceDetails/TRAIL.INTERNACIONAL.DA.RAIA.Trail.Ultra...Serra.das.Mesas/2027/124337"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:124788",
+"name": "Desafio Cumes do Marão",
+"date": "2027-09-25",
+"end_date": null,
+"location": "Ansiães",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"13 km",
+"19 km",
+"29 km",
+"48 km"
+],
+"url": "https://itra.run/Races/RaceDetails/Desafio.Cumes.do.Marão.50.K/2027/124788",
+"official_url": "https://stopandgo.net/events/desafio-cumes-do-marao-2026",
+"itra": [
+{
+"km": "13 km",
+"dplus": 576,
+"points": 0,
+"url": "https://itra.run/Races/RaceDetails/Desafio.Cumes.do.Marão.13.K/2027/124789"
+},
+{
+"km": "19 km",
+"dplus": 1146,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/Desafio.Cumes.do.Marão.20K/2027/124787"
+},
+{
+"km": "29 km",
+"dplus": 2147,
+"points": 2,
+"url": "https://itra.run/Races/RaceDetails/Desafio.Cumes.do.Marão.30K/2027/124786"
+},
+{
+"km": "48 km",
+"dplus": 3365,
+"points": 3,
+"url": "https://itra.run/Races/RaceDetails/Desafio.Cumes.do.Marão.50.K/2027/124788"
+}
+]
+},
+{
+"source": "itra",
+"source_id": "itra:127277",
+"name": "Vila Baleeira Trail Run",
+"date": "2027-11-14",
+"end_date": null,
+"location": "Vila Baleira",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"ITRA",
+"Trail"
+],
+"distances": [
+"10 km",
+"18 km",
+"35 km"
+],
+"url": "https://itra.run/Races/RaceDetails/Vila.Baleeira.Trail.Run.VBT.Trail...30Km/2027/127277",
+"official_url": "https://stopandgo.net/en/events/vb-trail-run-2027",
+"itra": [
+{
+"km": "10 km",
+"dplus": 400,
+"points": 0,
+"url": "https://itra.run/Races/RaceDetails/Vila.Baleeira.Trail.Run.VBT.Trail.Curto...10Km/2027/127275"
+},
+{
+"km": "18 km",
+"dplus": 1023,
+"points": 1,
+"url": "https://itra.run/Races/RaceDetails/Vila.Baleeira.Trail.Run.VBT.Trail.Sprint...18Km/2027/127276"
+},
+{
+"km": "35 km",
+"dplus": 1650,
+"points": null,
+"url": "https://itra.run/Races/RaceDetails/Vila.Baleeira.Trail.Run.VBT.Trail...30Km/2027/127277"
+}
+]
+}
+]

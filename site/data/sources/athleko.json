@@ -1,0 +1,8704 @@
+[
+{
+"source": "athleko",
+"source_id": "athleko:1646",
+"name": "HYROX Poznań",
+"date": "2026-11-20",
+"end_date": null,
+"location": "Poznań",
+"country": "Polônia",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1646&lang=pt",
+"official_url": "https://hyrox.com/event/hyrox-poznan/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1899",
+"name": "Extremo Sul Ultramarathon",
+"date": "2026-11-20",
+"end_date": null,
+"location": "Rio Grande da Serra, SP",
+"country": "Brasil",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Ultra-Trail"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1899&lang=pt",
+"official_url": "https://horizontes.pt/extremo-sul/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2268",
+"name": "Circuito Running Music Etapa Rio de Janeiro",
+"date": "2026-11-20",
+"end_date": null,
+"location": "Rio de Janeiro",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"5 km",
+"Caminhada"
+],
+"distances": [
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2268&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/circuito-running-music-etapa-rio-de-janeiro-88365?"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2282",
+"name": "Xterra Ilhabela",
+"date": "2026-11-20",
+"end_date": null,
+"location": "Ilhabela",
+"country": "Brasil",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Ultra-Triatlo",
+"XTerra"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2282&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/xterra-ilhabela-2026-86316"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1644",
+"name": "HYROX Rio de Janeiro",
+"date": "2026-11-21",
+"end_date": null,
+"location": "Rio de Janeiro",
+"country": "Brasil",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1644&lang=pt",
+"official_url": "https://hyrox.com/event/hyrox-rio-de-janeiro/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1645",
+"name": "HYROX Guangzhou",
+"date": "2026-11-21",
+"end_date": null,
+"location": "Guangzhou",
+"country": "China",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1645&lang=pt",
+"official_url": "https://hyrox.com/event/hyrox-guangzhou/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1986",
+"name": "Tunnel Marathon",
+"date": "2026-11-21",
+"end_date": null,
+"location": "Portsmouth",
+"country": "Reino Unido",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1986&lang=pt",
+"official_url": "https://sussextrailevents.com/tunnel-marathon-2024/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2192",
+"name": "Gravel Montijo",
+"date": "2026-11-21",
+"end_date": null,
+"location": "Montijo, Setúbal",
+"country": "Portugal",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"Gravel"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2192&lang=pt",
+"official_url": "https://cabreirasolutions.com/evento/gravel-montijo/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2263",
+"name": "9ª Maratona Sorocaba Novembro Azul",
+"date": "2026-11-21",
+"end_date": null,
+"location": "Belo Horizonte",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2263&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/9-maratona-sorocaba-novembro-azul-85780"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2269",
+"name": "Maratona Internacional de Maringa",
+"date": "2026-11-21",
+"end_date": null,
+"location": "Maringá",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2269&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/maratona-internacional-de-maringa-87138"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2271",
+"name": "Tricolor Run Noturna 2026 2 Etapa",
+"date": "2026-11-21",
+"end_date": null,
+"location": "São Paulo",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"10 km",
+"5 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2271&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/tricolor-run-noturna-2026-2-etapa-87210"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2279",
+"name": "9 Maratona Sorocaba Novembro Azul",
+"date": "2026-11-21",
+"end_date": null,
+"location": "Fortaleza",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2279&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/9-maratona-sorocaba-novembro-azul-85780"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1327",
+"name": "Enseada SFS",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Praia Grande, S. Francisco do Sul",
+"country": "Brasil",
+"types": [
+"Natação"
+],
+"tags": [
+"Natação"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1327&lang=pt",
+"official_url": "https://www.correrenadar.com.br/evento/natacao-enseada-sfs/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1529",
+"name": "World Triathlon Cup Tauranga",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Tauranga",
+"country": "Nova Zelândia",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Sprint"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1529&lang=pt",
+"official_url": "https://events.triathlon.org/2026-world-triathlon-cup-tauranga"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2050",
+"name": "Trail Vila de S. Torcato",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Guimarães, Vila de São Torcato, Braga",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Caminhada Trail",
+"Trail Curto",
+"Trail Longo",
+"Trail Médio"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2050&lang=pt",
+"official_url": "https://www.sinctime.com/evento/523"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2051",
+"name": "Sky Race Montejunto 2026 - Inverno",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Serra de Montejunto, Cadaval, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Trail Curto",
+"Trail Longo",
+"Trail Médio"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2051&lang=pt",
+"official_url": "https://www.turresevents.com/eventos/sky-race-montejunt-inverno-2026"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2052",
+"name": "BTR II – Bocal Train Run",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Bocal, Mafra, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Caminhada Trail",
+"Trail Curto",
+"Trail Longo",
+"Trail Médio"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2052&lang=pt",
+"official_url": "https://www.trilhoperdido.com/evento/2-Bocal-Trail-Run"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2079",
+"name": "Meia Maratona de Évora",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Évora, Évora",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"21 km",
+"5 km",
+"Caminhada"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2079&lang=pt",
+"official_url": "https://meiadeevora.pt/site/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2080",
+"name": "Europarque Bio Run",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Santa Maria da Feira, Porto",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"Caminhada"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2080&lang=pt",
+"official_url": "https://www.europarquebiorun.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2082",
+"name": "Zurich Maratón Donostia San Sebastián",
+"date": "2026-11-22",
+"end_date": null,
+"location": "San Sebástian",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"42 km"
+],
+"distances": [
+"10 km",
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2082&lang=pt",
+"official_url": "https://zurichmaratonsansebastian.com/soy-corredor-a/inscripcion/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2132",
+"name": "Great Ethiopian Run",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Addis Ababa",
+"country": "Etiópia",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2132&lang=pt",
+"official_url": "https://whatracetorun.com/event/great-ethiopian-run-international-10km/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2157",
+"name": "Trail Uewersauer 2026",
+"date": "2026-11-22",
+"end_date": null,
+"location": "Esch-sur-Sûre, Wiltz",
+"country": "Luxemburgo",
+"types": [
+"Trail"
+],
+"tags": [
+"Caminhada Trail",
+"Endurance",
+"Trail Curto",
+"Trail Longo",
+"Trail Médio"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2157&lang=pt",
+"official_url": "https://trail-uewersauer.lu/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2276",
+"name": "Disney Magic Run 2026 Sao Paulo",
+"date": "2026-11-22",
+"end_date": null,
+"location": "São Paulo",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"8 km",
+"Caminhada"
+],
+"distances": [
+"8 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2276&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/disney-magic-run-2026-sao-paulo-88237"
+},
+{
+"source": "athleko",
+"source_id": "athleko:620",
+"name": "HYROX Utrecht",
+"date": "2026-11-26",
+"end_date": null,
+"location": "Utrecht",
+"country": "Países Baixos",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=620&lang=pt",
+"official_url": "https://hyrox.com/event/hyrox-utrecht/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2053",
+"name": "ALUT - Algarviana Ultra Trail 2026",
+"date": "2026-11-26",
+"end_date": null,
+"location": "Alcoutim, Faro",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Endurance",
+"Trail Longo",
+"Ultra-Trail"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2053&lang=pt",
+"official_url": "https://stopandgo.net/events/alut-algarviana-ultra-trail-2026"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1362",
+"name": "Gerês Extreme Marathon 2026",
+"date": "2026-11-27",
+"end_date": null,
+"location": "Terras de Bouro, Braga",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"15 km",
+"21 km",
+"42 km"
+],
+"distances": [
+"10 km",
+"15 km",
+"21 km",
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1362&lang=pt",
+"official_url": "https://www.carlossanatureevents.com/pt/gema"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1530",
+"name": "World Triathlon Cup Jeddah",
+"date": "2026-11-27",
+"end_date": null,
+"location": "Jeddah",
+"country": "Arábia Saudita",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Sprint"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1530&lang=pt",
+"official_url": "https://events.triathlon.org/2026-world-triathlon-cup-jeddah"
+},
+{
+"source": "athleko",
+"source_id": "athleko:886",
+"name": "HOKA Chiang Mai Thailand by UTMB",
+"date": "2026-11-28",
+"end_date": null,
+"location": "Chiang Mai",
+"country": "Tailândia",
+"types": [],
+"tags": [
+"UTMB"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=886&lang=pt",
+"official_url": "https://chiangmai.utmb.world/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1642",
+"name": "HYROX Youngstars Utrecht",
+"date": "2026-11-28",
+"end_date": null,
+"location": "Utrecht",
+"country": "Países Baixos",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1642&lang=pt",
+"official_url": "https://hyrox.com/event/hyrox-youngstars-utrecht/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1643",
+"name": "Virgin Active HYROX Johannesburg",
+"date": "2026-11-28",
+"end_date": null,
+"location": "Johannesburg",
+"country": "África do Sul",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1643&lang=pt",
+"official_url": "https://hyrox.com/event/virgin-active-hyrox-johannesburg-26-27/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1653",
+"name": "AIA HYROX Singapore",
+"date": "2026-11-28",
+"end_date": null,
+"location": "Singapore",
+"country": "Singapura",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1653&lang=pt",
+"official_url": "https://hyrox.com/event/aia-hyrox-singapore/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2083",
+"name": "São Silvestre Cidade Palco de Natal",
+"date": "2026-11-28",
+"end_date": null,
+"location": "Gondomar, Porto",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2083&lang=pt",
+"official_url": "https://lap2go.com/pt/event/ss-cidade-palco-natal-2026"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2163",
+"name": "São Silvestre de Aveiro",
+"date": "2026-11-28",
+"end_date": null,
+"location": "Aveiro, Aveiro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"5 km",
+"Caminhada"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2163&lang=pt",
+"official_url": "https://lap2go.com/pt/event/ssaveiro-2026"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2277",
+"name": "Circuito Mares 2026 Etapa Ubatuba",
+"date": "2026-11-28",
+"end_date": null,
+"location": "Belo Horizonte",
+"country": "Brasil",
+"types": [
+"Triatlo",
+"Natação"
+],
+"tags": [
+"Aquatlo",
+"Natação"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2277&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/circuito-mares-2026-etapa-ubatuba-86526"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2286",
+"name": "La Vuelta Desafio Brasil",
+"date": "2026-11-28",
+"end_date": null,
+"location": "Caraguatatuba",
+"country": "Brasil",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"Ciclo Passeio"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2286&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/la-vuelta-desafio-brasil-by-btg-pactual-2026-prova-contra-relogio-por-equipes-c-r-e--87639"
+},
+{
+"source": "athleko",
+"source_id": "athleko:431",
+"name": "IRONMAN Valdivia",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Valdivia",
+"country": "Chile",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Ironman"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=431&lang=pt",
+"official_url": "https://www.ironman.com/races/im-valdivia"
+},
+{
+"source": "athleko",
+"source_id": "athleko:777",
+"name": "MDS Peru",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Lima",
+"country": "Peru",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Endurance",
+"Trail Longo",
+"Ultra-Trail"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=777&lang=pt",
+"official_url": "https://www.marathondessables.com/peru"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1326",
+"name": "Volta de Alagados",
+"date": "2026-11-29",
+"end_date": null,
+"location": "",
+"country": "Brasil",
+"types": [
+"Natação"
+],
+"tags": [
+"Natação"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1326&lang=pt",
+"official_url": "https://www.correrenadar.com.br/evento/volta-de-alagados/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1364",
+"name": "42º Firenze Marathon",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Firenze",
+"country": "Itália",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1364&lang=pt",
+"official_url": "https://www.firenzemarathon.it/en/home-en/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1443",
+"name": "1/2 Maratón Sevilla",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Sevilla",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1443&lang=pt",
+"official_url": "https://www.mediomaratondesevilla.es/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1501",
+"name": "Maratón Internacional Elche-Alicante",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Alicante",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1501&lang=pt",
+"official_url": "https://maratonelchealicante.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1597",
+"name": "Beirut International Marathon",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Beirut",
+"country": "Líbano",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1597&lang=pt",
+"official_url": "https://www.beirutmarathon.org/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1791",
+"name": "STFRS Farol Santander",
+"date": "2026-11-29",
+"end_date": null,
+"location": "São Paulo, SP",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1791&lang=pt",
+"official_url": "https://www.tfsports.com.br"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1792",
+"name": "Venus Women's Half Marathon",
+"date": "2026-11-29",
+"end_date": null,
+"location": "São Paulo",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"15 km",
+"21 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"15 km",
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1792&lang=pt",
+"official_url": "https://iguanasports.com.br"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1870",
+"name": "Challenge Florianópolis Long Distance",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Florianópolis. SC",
+"country": "Brasil",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Olímpico",
+"T100",
+"Ultra-Triatlo"
+],
+"distances": [
+"T100"
+],
+"url": "https://www.athleko.pt/event.php?id=1870&lang=pt",
+"official_url": "https://challengefamily.com/races/challenge-florianopolis-november/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1939",
+"name": "Tranquilidade Meia Maratona dos Descobrimentos",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Lisboa, Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"10 km",
+"21 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1939&lang=pt",
+"official_url": "https://meiamaratonadosdescobrimentos.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2054",
+"name": "6 Cascatas Trail Running",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Cheleiros, Mafra, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Caminhada Trail",
+"Trail Curto",
+"Trail Médio"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2054&lang=pt",
+"official_url": "https://www.trilhoperdido.com/evento/6-cascatas-trail-running-2026"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2055",
+"name": "XVI Trilhos de Casainhos",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Casainhos, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Caminhada Trail",
+"Trail Curto",
+"Trail Médio"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2055&lang=pt",
+"official_url": "https://acorrer.pt/eventos/16-trilhos-de-casainhos"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2056",
+"name": "Trail da Cárcoda",
+"date": "2026-11-29",
+"end_date": null,
+"location": "Carvalhais, São Pedro do Sul, Viseu",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Caminhada Trail",
+"Trail Curto",
+"Trail Médio"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2056&lang=pt",
+"official_url": "https://waitastart.com/trail-da-carcoda-2026/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2000",
+"name": "Cascais Corrida de Natal 2026",
+"date": "2026-12-01",
+"end_date": null,
+"location": "Cascais, Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"5 km",
+"Caminhada"
+],
+"distances": [
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2000&lang=pt",
+"official_url": "https://cascaiscorridadenatal.pt/site/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2036",
+"name": "Corrida São Silvestre Barreiro",
+"date": "2026-12-01",
+"end_date": null,
+"location": "Barreiro, Setúbal",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"Caminhada"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2036&lang=pt",
+"official_url": "https://werun.pt/eventos/6-edicao-barreiro-sao-silvestre-2026/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2342",
+"name": "TRAIL ESTE ROMÀNICO 2026",
+"date": "2026-12-01",
+"end_date": null,
+"location": "Vila do Conde",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Caminhada Trail",
+"Trail Curto"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2342&lang=pt",
+"official_url": "https://stopandgo.net/events/trail-este-romanico-2026"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1641",
+"name": "HYROX London Excel",
+"date": "2026-12-02",
+"end_date": null,
+"location": "London",
+"country": "Reino Unido",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1641&lang=pt",
+"official_url": "https://hyrox.com/event/hyrox-london-excel/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1270",
+"name": "Zürich Marathon & Half + 10k",
+"date": "2026-12-04",
+"end_date": null,
+"location": "Zurique",
+"country": "Suíça",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1270&lang=pt",
+"official_url": "https://www.zuerichmarathon.ch/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1587",
+"name": "The Maldives Long Run",
+"date": "2026-12-04",
+"end_date": null,
+"location": "Malé",
+"country": "Maldivas",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1587&lang=pt",
+"official_url": "https://races.3000tfg.com/product/the-maldives-longrun-2025-where-passion-meets-endurance/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1640",
+"name": "HYROX Anaheim",
+"date": "2026-12-04",
+"end_date": null,
+"location": "Anaheim",
+"country": "Estados Unidos",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1640&lang=pt",
+"official_url": "https://hyrox.com/event/hyrox-anaheim-26-27/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2124",
+"name": "Run Barbados Half & Marathon Weekend",
+"date": "2026-12-04",
+"end_date": null,
+"location": "Bridgetown",
+"country": "Barbados",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2124&lang=pt",
+"official_url": "https://www.visitbarbados.org/runbarbados-marathon-weekend#"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1588",
+"name": "Pokhara Ultra",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Pokhara",
+"country": "Nepal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Trail Longo",
+"Trail Médio",
+"Ultra-Trail"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1588&lang=pt",
+"official_url": "https://pokharaultra.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1636",
+"name": "HYORX Sanya",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Sanya",
+"country": "China",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1636&lang=pt",
+"official_url": "https://hyrox.com/event/30454/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1637",
+"name": "HYROX Youngstars Anaheim",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Anaheim",
+"country": "Estados Unidos",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1637&lang=pt",
+"official_url": "https://hyrox.com/event/hyrox-youngstars-anaheim/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1638",
+"name": "HYROX Youngstars London Excel",
+"date": "2026-12-05",
+"end_date": null,
+"location": "London",
+"country": "Reino Unido",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1638&lang=pt",
+"official_url": "https://hyrox.com/event/hyrox-youngstars-london-excel/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1639",
+"name": "HYROX Milan",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Milan",
+"country": "Itália",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1639&lang=pt",
+"official_url": "https://hyrox.com/event/hyrox-milan/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1969",
+"name": "S. Silvestre Vila Real de Santo António - Monte Gordo",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Vila Real de Santo António, Faro",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1969&lang=pt",
+"official_url": "https://www.instagram.com/saosilvestrevrsamontegordo/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2037",
+"name": "São Silvestre de Barcelos 2026",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Barcelos, Braga",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"10 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2037&lang=pt",
+"official_url": "https://stopandgo.net/events/sao-silvestre-de-barcelos-2026"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2227",
+"name": "Lanzarote Marathon",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Lanzarote",
+"country": "Espanha",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2227&lang=pt",
+"official_url": "https://www.lanzaroteinternationalmarathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2280",
+"name": "Corrida de Natal Livora Pernas Solidarias",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Santo Amaro da Imperatriz",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"10 km",
+"5 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2280&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/corrida-de-natal-livora-pernas-solidarias-86874"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2343",
+"name": "EPIC TRAIL RUN AZORES 2026",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Vila Franca do Campo",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Caminhada Trail",
+"Trail Curto",
+"Trail Longo",
+"Trail Médio",
+"Ultra-Trail"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2343&lang=pt",
+"official_url": "https://stopandgo.net/events/epic-azores-2026"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2344",
+"name": "PROENÇA CROSS TRAIL 2026",
+"date": "2026-12-05",
+"end_date": null,
+"location": "Proença-a-Nova",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Trail Curto",
+"Trail Longo",
+"Trail Médio"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2344&lang=pt",
+"official_url": "https://stopandgo.net/events/proenca-cross-trail-2026"
+},
+{
+"source": "athleko",
+"source_id": "athleko:988",
+"name": "DEKA Lisboa 2025",
+"date": "2026-12-06",
+"end_date": null,
+"location": "Lisboa, Lisboa",
+"country": "Portugal",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"OCR"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=988&lang=pt",
+"official_url": "https://www.azorestrailrun.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1018",
+"name": "California International Marathon (CIM)",
+"date": "2026-12-06",
+"end_date": null,
+"location": "Sacramento, CA",
+"country": "Estados Unidos",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1018&lang=pt",
+"official_url": "https://runsra.org/california-international-marathon/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1349",
+"name": "45 - Macao International Marathon",
+"date": "2026-12-06",
+"end_date": null,
+"location": "Macau",
+"country": "China",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1349&lang=pt",
+"official_url": "https://www.macaomarathon.com/en/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1350",
+"name": "Valencia Marathon Trinidad Alfonso Zurich",
+"date": "2026-12-06",
+"end_date": null,
+"location": "Valência",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1350&lang=pt",
+"official_url": "https://www.valenciaciudaddelrunning.com/en/marathon/info-registration-2026/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1531",
+"name": "World Triathlon Women's Cup Dubai",
+"date": "2026-12-06",
+"end_date": null,
+"location": "Dubai",
+"country": "Emirados Árabes Unidos",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Sprint"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1531&lang=pt",
+"official_url": "https://events.triathlon.org/2026-world-triathlon-womens-cup-dubai"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1584",
+"name": "Santiago Ultra Trail 2026",
+"date": "2026-12-06",
+"end_date": null,
+"location": "São Jorge dos Órgãos",
+"country": "Cabo Verde",
+"types": [
+"Estrada"
+],
+"tags": [
+"15 km",
+"21 km",
+"8 km"
+],
+"distances": [
+"15 km",
+"21 km",
+"8 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1584&lang=pt",
+"official_url": ""
+},
+{
+"source": "athleko",
+"source_id": "athleko:1586",
+"name": "Macau Galaxy Entertainment International Marathon",
+"date": "2026-12-06",
+"end_date": null,
+"location": "Macau",
+"country": "Macau",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1586&lang=pt",
+"official_url": "https://www.macaomarathon.com/en/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1793",
+"name": "STFRS Vila Olímpia II",
+"date": "2026-12-06",
+"end_date": null,
+"location": "São Paulo, SP",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1793&lang=pt",
+"official_url": "https://www.tfsports.com.br"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1794",
+"name": "Tricolor Run Dezembro",
+"date": "2026-12-06",
+"end_date": null,
+"location": "São Paulo, SP",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1794&lang=pt",
+"official_url": "https://www.vegasports.com.br"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1821",
+"name": "Circuito das Estações Verão",
+"date": "2026-12-06",
+"end_date": null,
+"location": "Rio de Janeiro, Aterro do Flamengo",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1821&lang=pt",
+"official_url": "https://www.circuitodasestacoes.com.br"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1873",
+"name": "CBTri Copa Regional",
+"date": "2026-12-06",
+"end_date": null,
+"location": "Juiz de Fora, MG",
+"country": "Brasil",
+"types": [],
+"tags": [
+"Olímpico",
+"Sprint"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1873&lang=pt",
+"official_url": "https://cbtri.org.br"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1968",
+"name": "Maratona do Algarve",
+"date": "2026-12-06",
+"end_date": null,
+"location": "Vilamoura, Faro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km",
+"Caminhada"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1968&lang=pt",
+"official_url": "https://algarvemarathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2125",
+"name": "Reggae Marathon",
+"date": "2026-12-06",
+"end_date": null,
+"location": "Kingston",
+"country": "Jamaica",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2125&lang=pt",
+"official_url": "https://www.reggaemarathon.com/?v=79cba1185463"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2138",
+"name": "End of the World Marathon & Half",
+"date": "2026-12-06",
+"end_date": null,
+"location": "Placencia",
+"country": "Belize",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km",
+"42 km"
+],
+"distances": [
+"21 km",
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2138&lang=pt",
+"official_url": "https://totaltimebz.com/event/eow/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2222",
+"name": "Marathon COMAR Tunis-Carthage",
+"date": "2026-12-06",
+"end_date": null,
+"location": "Túnis",
+"country": "Tunísia",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"21 km",
+"42 km",
+"5 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2222&lang=pt",
+"official_url": "https://marathon.comar.tn/en"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2341",
+"name": "TRAIL DA AMIZADE 2026",
+"date": "2026-12-06",
+"end_date": null,
+"location": "Ansião",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Caminhada Trail",
+"Trail Curto",
+"Trail Longo",
+"Trail Médio",
+"Ultra-Trail"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2341&lang=pt",
+"official_url": "https://stopandgo.net/events/trail-da-amizade-2026"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2337",
+"name": "São Silvestre do Oeste 2026 - Santa Cruz",
+"date": "2026-12-08",
+"end_date": null,
+"location": "Torres Vedras",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"10 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2337&lang=pt",
+"official_url": "https://stopandgo.net/events/sao-silvestre-do-oeste-2026"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1622",
+"name": "15th Grand Prix Cycliste de Montréal",
+"date": "2026-12-09",
+"end_date": null,
+"location": "Montréal",
+"country": "Canadá",
+"types": [],
+"tags": [
+"UCI"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1622&lang=pt",
+"official_url": "https://www.gpcqm.ca/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1654",
+"name": "HYROX Melbourne",
+"date": "2026-12-09",
+"end_date": null,
+"location": "Melbourne",
+"country": "Austrália",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1654&lang=pt",
+"official_url": "https://hyrox.com/event/hyrox-melbourne/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:993",
+"name": "Southern Cross Diving Series",
+"date": "2026-12-10",
+"end_date": null,
+"location": "Christchurch",
+"country": "Nova Zelândia",
+"types": [
+"Natação"
+],
+"tags": [
+"Natação"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=993&lang=pt",
+"official_url": "https://edreamsmitjabarcelona.com/en/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1634",
+"name": "HYROX Nashville",
+"date": "2026-12-10",
+"end_date": null,
+"location": "Nashville",
+"country": "Estados Unidos",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1634&lang=pt",
+"official_url": "https://hyrox.com/event/hyrox-nashville/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1635",
+"name": "Fitness First HYROX Frankfurt",
+"date": "2026-12-10",
+"end_date": null,
+"location": "Frankfurt",
+"country": "Alemanha",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1635&lang=pt",
+"official_url": "https://hyrox.com/event/fitness-first-hyrox-frankfurt/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2135",
+"name": "Nedbank Desert Dash",
+"date": "2026-12-11",
+"end_date": null,
+"location": "Windhoek",
+"country": "Namíbia",
+"types": [
+"Trail"
+],
+"tags": [
+"Ciclocrosse",
+"MTB"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2135&lang=pt",
+"official_url": "https://desertdashnamibia.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1325",
+"name": "Maratona Aquática da Semana da Marinha",
+"date": "2026-12-12",
+"end_date": null,
+"location": "São Francisco do Sul",
+"country": "Brasil",
+"types": [
+"Natação"
+],
+"tags": [
+"Natação"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1325&lang=pt",
+"official_url": "https://www.correrenadar.com.br/evento/maratona-aquatica-da-semana-da-marinha/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1606",
+"name": "Marakez Pyramids Half Marathon",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Giza",
+"country": "Egito",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1606&lang=pt",
+"official_url": "https://www.thetrifactory.com/MarakezPyramidsHalfMarathon2026"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1611",
+"name": "NGPS Rota Natalícia",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Murtosa, Aveiro",
+"country": "Portugal",
+"types": [
+"Natação"
+],
+"tags": [
+"MTB"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1611&lang=pt",
+"official_url": "https://cabreirasolutions.com/evento/rota-natalicia/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1633",
+"name": "FITNESS PARK HYROX Paris",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Paris",
+"country": "França",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1633&lang=pt",
+"official_url": "https://hyrox.com/event/hyrox-paris-s26-27/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1872",
+"name": "Fodaxman Extreme Triathlon",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Urubici / Siderópolis",
+"country": "Brasil",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Ultra-Triatlo"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1872&lang=pt",
+"official_url": "https://www.fodaxman.com.br/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2049",
+"name": "Trail Noturno de Valongo 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Valongo, Porto",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Caminhada Trail",
+"Trail Curto",
+"Trail Longo",
+"Trail Médio"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2049&lang=pt",
+"official_url": "https://stopandgo.net/events/trail-noturno-de-valongo-2026"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2084",
+"name": "6ª São Silvestre Vítor Baptista",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Lourinhã, Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"5 km",
+"Caminhada"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2084&lang=pt",
+"official_url": "https://competicoes.aalisboa.com.pt/Competicoes/891"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2085",
+"name": "São Silvestre Coimbra",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Coimbra, Coimbra",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"10 km",
+"5 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2085&lang=pt",
+"official_url": "https://www.saosilvestredecoimbra.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2086",
+"name": "São Silvestre de Almeirim",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Almeirim, Santarém",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"5 km",
+"Caminhada"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2086&lang=pt",
+"official_url": "https://lap2go.com/pt/event/ssalmeirim-2026"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2087",
+"name": "62ª São Silvestre da Cidade de Ponta Delgada",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Ponta Delgada, Açores",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"5 km",
+"Caminhada"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2087&lang=pt",
+"official_url": "https://saosilvestrepontadelgada.pt/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2236",
+"name": "Abu Dhabi Marathon",
+"date": "2026-12-12",
+"end_date": null,
+"location": "Abu Dhabi",
+"country": "Emirados Árabes Unidos",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2236&lang=pt",
+"official_url": "https://www.adnocabudhabimarathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1593",
+"name": "Antarctic Ice Marathon & Half Marathon",
+"date": "2026-12-13",
+"end_date": null,
+"location": "Patriot hills",
+"country": "Antártida",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km",
+"42 km"
+],
+"distances": [
+"21 km",
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1593&lang=pt",
+"official_url": "https://www.icemarathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1795",
+"name": "44ª Monte Libano Run",
+"date": "2026-12-13",
+"end_date": null,
+"location": "São Paulo, SP",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"15 km",
+"5 km"
+],
+"distances": [
+"15 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1795&lang=pt",
+"official_url": "https://esportividade.com.br/evento/corrida-monte-libano-2026-sao-paulo/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2047",
+"name": "3º Trail Winter Challenge S.A. - Vila Galé",
+"date": "2026-12-13",
+"end_date": null,
+"location": "Ericeira, Mafra, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Caminhada Trail",
+"Trail Curto",
+"Trail Médio"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2047&lang=pt",
+"official_url": "https://www.trilhoperdido.com/evento/3-Trail-Winter-Challenge"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2088",
+"name": "São Silvestre da Guarda 2026",
+"date": "2026-12-13",
+"end_date": null,
+"location": "Guarda, Guarda",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"5 km",
+"Caminhada"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2088&lang=pt",
+"official_url": "https://meutempo.pt/prova/2saosilvestre-47premioatletismo-guarda"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2089",
+"name": "São Silvestre de Arrifana",
+"date": "2026-12-13",
+"end_date": null,
+"location": "Arrifana, Aveiro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"5 km",
+"Caminhada"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2089&lang=pt",
+"official_url": "https://lap2go.com/pt/event/ss-arrifana-2026"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2159",
+"name": "São Silvestre El Corte Inglês 2026",
+"date": "2026-12-13",
+"end_date": null,
+"location": "Lisboa, Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"Caminhada"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2159&lang=pt",
+"official_url": "https://saosilvestreelcorteingles.record.pt/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2237",
+"name": "Catania Marathon",
+"date": "2026-12-13",
+"end_date": null,
+"location": "Catania",
+"country": "ITÁLIA",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2237&lang=pt",
+"official_url": "https://www.maratonadicatania.it/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2238",
+"name": "Reggio Emilia Half Marathon",
+"date": "2026-12-13",
+"end_date": null,
+"location": "Reggio Emilia",
+"country": "ITÁLIA",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2238&lang=pt",
+"official_url": "https://www.maratonadireggioemilia.it/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2339",
+"name": "DESAFIO PICOS DO AÇOR 2026",
+"date": "2026-12-13",
+"end_date": null,
+"location": "Arganil",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Caminhada Trail",
+"Trail Curto",
+"Trail Médio"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2339&lang=pt",
+"official_url": "https://stopandgo.net/events/desafio-picos-do-acor-2026"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1632",
+"name": "HYROX Gent",
+"date": "2026-12-17",
+"end_date": null,
+"location": "Gent",
+"country": "Bélgica",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1632&lang=pt",
+"official_url": ""
+},
+{
+"source": "athleko",
+"source_id": "athleko:1630",
+"name": "HYROX Vancouver",
+"date": "2026-12-18",
+"end_date": null,
+"location": "Vancouver",
+"country": "Canadá",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1630&lang=pt",
+"official_url": "https://hyrox.com/event/hyrox-vancouver/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1631",
+"name": "HYROX Helsinki",
+"date": "2026-12-18",
+"end_date": null,
+"location": "Helsinki",
+"country": "Finlândia",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1631&lang=pt",
+"official_url": "https://hyrox.com/event/hyrox-helsinki-2/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1629",
+"name": "HYROX Youngstars - PARIS",
+"date": "2026-12-19",
+"end_date": null,
+"location": "Paris",
+"country": "França",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Hyrox"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1629&lang=pt",
+"official_url": "https://hyrox.com/event/hyrox-youngstars-paris/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1938",
+"name": "Decathlon São Silvestre Montijo",
+"date": "2026-12-19",
+"end_date": null,
+"location": "Montijo, Setúbal",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"10 km",
+"5 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1938&lang=pt",
+"official_url": "https://xistarca.pt/eventos/decathlon-sao-silvestre-montijo"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2090",
+"name": "São Silvestre de Lourosa",
+"date": "2026-12-19",
+"end_date": null,
+"location": "Lourosa, Aveiro",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"Caminhada"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2090&lang=pt",
+"official_url": "https://lap2go.com/pt/event/ss-lourosa-2026"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2161",
+"name": "São Silvestre Baía do Seixal",
+"date": "2026-12-19",
+"end_date": null,
+"location": "Seixal, Setúbal",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"10 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2161&lang=pt",
+"official_url": "https://werun.pt/eventos/viii-sao-silvestre-baia-do-seixal-2026/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2215",
+"name": "Corrida de Natal",
+"date": "2026-12-19",
+"end_date": null,
+"location": "Colina",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"5 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2215&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/corrida-de-natal-88632"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2322",
+"name": "São Silvestre de Vila do Conde 2026",
+"date": "2026-12-19",
+"end_date": null,
+"location": "Vila do Conde, Porto",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"5 km",
+"Caminhada"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2322&lang=pt",
+"official_url": "https://ssilvestreviladoconde2026.statusmarathon.run/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1399",
+"name": "Grande Prémio de Natal",
+"date": "2026-12-20",
+"end_date": null,
+"location": "Lisboa, Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"10 km",
+"5 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1399&lang=pt",
+"official_url": "https://gpnatal.pt/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1580",
+"name": "Half & Maratona di Pisa",
+"date": "2026-12-20",
+"end_date": null,
+"location": "Pisa",
+"country": "Itália",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1580&lang=pt",
+"official_url": "https://maratonadipisa.com/en/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1796",
+"name": "Circuito das Estações Verão",
+"date": "2026-12-20",
+"end_date": null,
+"location": "São Paulo, SP",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1796&lang=pt",
+"official_url": "https://www.circuitodasestacoes.com.br"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1797",
+"name": "STFRS Vila Lobos III",
+"date": "2026-12-20",
+"end_date": null,
+"location": "São Paulo, SP",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1797&lang=pt",
+"official_url": "https://www.tfsports.com.br"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1937",
+"name": "São Silvestre dos Olivais 2026",
+"date": "2026-12-20",
+"end_date": null,
+"location": "Lisboa, Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"10 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1937&lang=pt",
+"official_url": "https://www.facebook.com/JFOlivais"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2048",
+"name": "2º Kiaius Sky Race 2026",
+"date": "2026-12-20",
+"end_date": null,
+"location": "Quiaios, Figueira da Foz, Coimbra",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Trail Curto",
+"Trail Médio"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2048&lang=pt",
+"official_url": "https://bttmanager.com/Eventos/2-kiaius-sky-race/1044"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2162",
+"name": "Lidl S. Silvestre Cidade do Porto",
+"date": "2026-12-20",
+"end_date": null,
+"location": "Porto, Porto",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"5 km",
+"Caminhada"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2162&lang=pt",
+"official_url": "https://www.rockthesport.com/pt/evento/sao-silvestre-do-porto-2026/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:894",
+"name": "São Silvestre de Mirandela",
+"date": "2026-12-26",
+"end_date": null,
+"location": "Mirandela, Bragança",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"Caminhada"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.athleko.pt/event.php?id=894&lang=pt",
+"official_url": "https://stopandgo.net/events/sao-silvestre-mirandela-2026"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1998",
+"name": "LIDL São Silvestre de Lisboa",
+"date": "2026-12-26",
+"end_date": null,
+"location": "Lisboa, Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"Caminhada"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1998&lang=pt",
+"official_url": "https://saosilvestredelisboa.com/site/?local=registration"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1574",
+"name": "São Silvestre de Braga",
+"date": "2026-12-27",
+"end_date": null,
+"location": "Braga, Braga",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"Caminhada"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1574&lang=pt",
+"official_url": "https://www.runporto.com/pt/eventos/s-silvestre-braga/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1798",
+"name": "São Sivestrinha",
+"date": "2026-12-27",
+"end_date": null,
+"location": "São Paulo, SP",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"5 km",
+"Kids"
+],
+"distances": [
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1798&lang=pt",
+"official_url": "https://www.vegasports.com.br"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2164",
+"name": "São Silvestre do Funchal",
+"date": "2026-12-28",
+"end_date": null,
+"location": "Funchal, Madeira",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"10 km",
+"5 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2164&lang=pt",
+"official_url": "https://natal.funchal.pt/volta-a-cidade-do-funchal/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2185",
+"name": "São Silvestre dos Olivais 2026",
+"date": "2026-12-30",
+"end_date": null,
+"location": "Lisboa, Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Ciclismo",
+"Kids"
+],
+"tags": [
+"10 km",
+"5 km",
+"Caminhada",
+"Ciclo Passeio",
+"Kids"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2185&lang=pt",
+"official_url": "https://xistarca.pt/eventos/sao-silvestre-dos-olivais-2026"
+},
+{
+"source": "athleko",
+"source_id": "athleko:907",
+"name": "São Silvestre da Amadora",
+"date": "2026-12-31",
+"end_date": null,
+"location": "Amadora, Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"10 km",
+"5 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=907&lang=pt",
+"official_url": "https://www.corridasaosilvestreamadora.pt/site/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1799",
+"name": "101ª Corrida Internacional de São Silvestre",
+"date": "2026-12-31",
+"end_date": null,
+"location": "São Paulo",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"15 km"
+],
+"distances": [
+"15 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1799&lang=pt",
+"official_url": "https://www.saosilvestre.com.br"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1805",
+"name": "Corrida da Virada Joseense",
+"date": "2026-12-31",
+"end_date": null,
+"location": "São José dos Campos, SP",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"15 km",
+"5 km"
+],
+"distances": [
+"15 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1805&lang=pt",
+"official_url": "https://www.hleventos.com"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2323",
+"name": "Desafio La Mafia Food Run Hamburguer",
+"date": "2026-12-31",
+"end_date": null,
+"location": "",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"15 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"15 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2323&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/desafio-la-mafia-food-run-hamburguer-85584"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2307",
+"name": "20 Night Run Novo Rio Pinheiros",
+"date": "2027-01-02",
+"end_date": null,
+"location": "São Paulo",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"5 km"
+],
+"distances": [
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2307&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/20-night-run-novo-rio-pinheiros-88958"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2338",
+"name": "São Silvestre de Tondela 2027",
+"date": "2027-01-02",
+"end_date": null,
+"location": "Tondela",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"5 km",
+"Caminhada"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2338&lang=pt",
+"official_url": "https://stopandgo.net/events/sao-silvestre-de-tondela-2027"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2038",
+"name": "5ª Grande Corrida de Ano Novo",
+"date": "2027-01-03",
+"end_date": null,
+"location": "Lisboa, Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"5 km",
+"Caminhada"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2038&lang=pt",
+"official_url": "https://xistarca.pt/eventos/grande-corrida-de-ano-novo-2027"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2057",
+"name": "Vulcan Trail 2027",
+"date": "2027-01-03",
+"end_date": null,
+"location": "Igreja Nova, Mafra, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Caminhada Trail",
+"Trail Curto",
+"Trail Médio"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2057&lang=pt",
+"official_url": "https://www.trilhoperdido.com/evento/vulcan-trail-2027"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2333",
+"name": "1ª Corrida do Verde",
+"date": "2027-01-03",
+"end_date": null,
+"location": "São Paulo",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"5 km"
+],
+"distances": [
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2333&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/1-corrida-do-verde-88959"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1585",
+"name": "Egyptian Marathon-Luxor",
+"date": "2027-01-08",
+"end_date": null,
+"location": "Luxor",
+"country": "Egito",
+"types": [
+"Estrada"
+],
+"tags": [
+"15 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"15 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1585&lang=pt",
+"official_url": "https://www.egyptianmarathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1900",
+"name": "Ultra Trail Amazônica",
+"date": "2027-01-08",
+"end_date": null,
+"location": "Manaus, AM",
+"country": "Brasil",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Caminhada Trail",
+"Trail Curto",
+"Trail Longo",
+"Trail Médio",
+"Ultra-Trail"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1900&lang=pt",
+"official_url": "https://www.finishers.com/en/event/ultra-trail-amazonica"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2058",
+"name": "8º Vouga Trail",
+"date": "2027-01-08",
+"end_date": null,
+"location": "Sever do Vouga, Aveiro",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Caminhada Trail",
+"Endurance",
+"Trail Curto",
+"Trail Longo",
+"Trail Médio",
+"Ultra-Trail"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2058&lang=pt",
+"official_url": "https://stopandgo.net/events/vouga-trail-2027/prices"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2340",
+"name": "Corrida de Reis 2027",
+"date": "2027-01-09",
+"end_date": null,
+"location": "Póvoa de Varzim",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"8 km"
+],
+"distances": [
+"8 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2340&lang=pt",
+"official_url": "https://stopandgo.net/events/corrida-de-reis-2027"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1952",
+"name": "Walt Disney World Marathon Weekend",
+"date": "2027-01-10",
+"end_date": null,
+"location": "Orlando",
+"country": "Estados Unidos",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1952&lang=pt",
+"official_url": "https://www.rundisney.com/events/disneyworld/disneyworld-marathon-weekend"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1975",
+"name": "Bangkok Marathon",
+"date": "2027-01-10",
+"end_date": null,
+"location": "Bangkok",
+"country": "Tailândia",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1975&lang=pt",
+"official_url": "https://www.bkkmarathon.com/Home/69e9e02e4f00642af0da2d02"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2062",
+"name": "6ª Meia Maratona Torres Vedras",
+"date": "2027-01-10",
+"end_date": null,
+"location": "Torres Vedras, Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"21 km",
+"Caminhada"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2062&lang=pt",
+"official_url": "https://xistarca.pt/eventos/arena-shopping-meia-maratona-torres-vedras-2027"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2063",
+"name": "8ª Corrida dos Reis - Bênção do Atleta",
+"date": "2027-01-10",
+"end_date": null,
+"location": "Fátima, Santarém",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"Caminhada"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2063&lang=pt",
+"official_url": "https://www.recordepessoal.pt/evento/8corridadosreis-bencaodoatleta"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2091",
+"name": "Bangkok Half Marathon",
+"date": "2027-01-10",
+"end_date": null,
+"location": "Bangkok",
+"country": "Tailândia",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2091&lang=pt",
+"official_url": "https://registers.bkkmarathon.com/event/half-marathon"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2321",
+"name": "Verao Clinica Bem Estar",
+"date": "2027-01-10",
+"end_date": null,
+"location": "São Francisco do Sul",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"5 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2321&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/verao-clinica-bem-estar-88418"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2328",
+"name": "Sun Race Niteroi Edição 10 Anos",
+"date": "2027-01-10",
+"end_date": null,
+"location": "Niterói",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"5 km",
+"Caminhada"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2328&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/sun-race-niteroi-edicao-10-anos-87669"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2345",
+"name": "VOUGA TRAIL 2027",
+"date": "2027-01-10",
+"end_date": null,
+"location": "Sever do Vouga",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Caminhada Trail",
+"Trail Curto",
+"Trail Longo",
+"Trail Médio",
+"Ultra-Trail"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2345&lang=pt",
+"official_url": "https://stopandgo.net/events/vouga-trail-2027"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2059",
+"name": "Terra de Gigantes 2027",
+"date": "2027-01-14",
+"end_date": null,
+"location": "Serra da Estrela, Guarda",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Endurance",
+"Trail Longo",
+"Ultra-Trail"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2059&lang=pt",
+"official_url": "https://stopandgo.net/events/terra-de-gigantes-2027/prices"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1706",
+"name": "Doha Half Marathon",
+"date": "2027-01-15",
+"end_date": null,
+"location": "Doha",
+"country": "Catar",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1706&lang=pt",
+"official_url": "https://dohamarathonooredoo.com/en/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2318",
+"name": "Maratona de Doha By Oredoo",
+"date": "2027-01-15",
+"end_date": null,
+"location": "Doha",
+"country": "Catar",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2318&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/maratona-de-doha-by-oredoo-88839"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1707",
+"name": "Houston Half Marathon",
+"date": "2027-01-16",
+"end_date": null,
+"location": "Houston",
+"country": "Estados Unidos",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1707&lang=pt",
+"official_url": "https://www.chevronhoustonmarathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2044",
+"name": "Travessia Torres-Tramandaí",
+"date": "2027-01-16",
+"end_date": null,
+"location": "Torres, Rio Grande do Sul",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Ultra"
+],
+"tags": [
+"21 km",
+"42 km",
+"8 km",
+"Ultra-Maratona"
+],
+"distances": [
+"21 km",
+"42 km",
+"8 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2044&lang=pt",
+"official_url": "https://www.esportif.com.br/evento/TTT"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2316",
+"name": "Trilheiros Trail Run",
+"date": "2027-01-16",
+"end_date": null,
+"location": "Jaboatão dos Guararapes",
+"country": "Brasil",
+"types": [
+"Trail"
+],
+"tags": [
+"Trail Curto",
+"Trail Médio"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2316&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/trilheiros-trail-run-88331"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1708",
+"name": "Hong Kong Half Marathon",
+"date": "2027-01-17",
+"end_date": null,
+"location": "Hong Kong",
+"country": "China",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1708&lang=pt",
+"official_url": "https://www.hkmarathon.com/race-information"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1954",
+"name": "TATA Mumbai Marathon",
+"date": "2027-01-17",
+"end_date": null,
+"location": "Mumbai",
+"country": "Índia",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1954&lang=pt",
+"official_url": "https://tatamumbaimarathon.procam.in/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1955",
+"name": "Carlsbad Marathon, Half Marathon & 5K",
+"date": "2027-01-17",
+"end_date": null,
+"location": "Carlsbad",
+"country": "Estados Unidos",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1955&lang=pt",
+"official_url": "https://inmotionevents.com/event/carlsbad-marathon/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2092",
+"name": "Carlsbad Half Marathon",
+"date": "2027-01-17",
+"end_date": null,
+"location": "Califórnia, Carlsbad",
+"country": "Estados Unidos",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2092&lang=pt",
+"official_url": "https://inmotionevents.com/event/carlsbad-marathon/half-marathon/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2093",
+"name": "Montferland Halve Marathon",
+"date": "2027-01-17",
+"end_date": null,
+"location": "s-Heerenberg",
+"country": "Países Baixos",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2093&lang=pt",
+"official_url": "https://montferlandhalvemarathon.nl/montferland-halve-marathon"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2194",
+"name": "Grande Corrida de Ano Novo 2027",
+"date": "2027-01-17",
+"end_date": null,
+"location": "Lisboa, Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"10 km",
+"5 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2194&lang=pt",
+"official_url": "https://xistarca.pt/eventos/grande-corrida-de-ano-novo-2027"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2317",
+"name": "Live Be Run",
+"date": "2027-01-17",
+"end_date": null,
+"location": "Macaé",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"5 km",
+"Caminhada"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2317&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/live-be-run-1-etapa-86901"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2319",
+"name": "1 Corrida do Fritz",
+"date": "2027-01-17",
+"end_date": null,
+"location": "Joinville",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"5 km",
+"8 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"5 km",
+"8 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2319&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/1-corrida-do-fritz-87974"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2334",
+"name": "Cresol Run",
+"date": "2027-01-17",
+"end_date": null,
+"location": "Londrina",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2334&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/cresol-run-2027-88869"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2346",
+"name": "TRILHOS DOS REIS 2027",
+"date": "2027-01-17",
+"end_date": null,
+"location": "Portalegre",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Trail Curto",
+"Trail Longo",
+"Trail Médio",
+"Ultra-Trail"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2346&lang=pt",
+"official_url": "https://stopandgo.net/events/trilhos-dos-reis-2027"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2347",
+"name": "Terra de Gigantes 2027",
+"date": "2027-01-17",
+"end_date": null,
+"location": "Torre, Serra da Estrela, Guarda",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Endurance",
+"Ultra-Trail"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2347&lang=pt",
+"official_url": "https://stopandgo.net/events/terra-de-gigantes-2027"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2094",
+"name": "Dubai Burj2Burj Half Marathon",
+"date": "2027-01-24",
+"end_date": null,
+"location": "Dubai",
+"country": "Emirados Árabes Unidos",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2094&lang=pt",
+"official_url": "https://www.burj2burj.com/half-marathon"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2095",
+"name": "Santa Pola Media Maratón",
+"date": "2027-01-24",
+"end_date": null,
+"location": "Alicante",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2095&lang=pt",
+"official_url": "https://mitjasantapola.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2152",
+"name": "Meia Maratona Internacional de São Paulo 2027",
+"date": "2027-01-24",
+"end_date": null,
+"location": "São Paulo, SP",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"15 km",
+"21 km"
+],
+"distances": [
+"10 km",
+"15 km",
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2152&lang=pt",
+"official_url": "https://www.yescom.com.br/meiasp/2027/index.asp"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2228",
+"name": "3ª Grande Premio LxTriathlon",
+"date": "2027-01-24",
+"end_date": null,
+"location": "Lisboa, Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"10 km",
+"21 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2228&lang=pt",
+"official_url": "https://lxtriathlon.com/meia-maratona"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2315",
+"name": "Femme Fest Run",
+"date": "2027-01-24",
+"end_date": null,
+"location": "Niterói",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"5 km",
+"Caminhada"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2315&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/femme-fest-run-86619"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2348",
+"name": "Trail Serra D’Aire 2027",
+"date": "2027-01-24",
+"end_date": null,
+"location": "Ourém",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Caminhada Trail",
+"Trail Curto",
+"Trail Longo"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2348&lang=pt",
+"official_url": "https://stopandgo.net/events/trail-serra-daire-2027"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2352",
+"name": "Half& Marathon du Sénégal",
+"date": "2027-01-24",
+"end_date": null,
+"location": "Saly",
+"country": "Senegal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2352&lang=pt",
+"official_url": "https://marathondusenegal.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2060",
+"name": "Linhas de Torres 100",
+"date": "2027-01-29",
+"end_date": null,
+"location": "Alhandra, Torres Vedras, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Caminhada Trail",
+"Endurance",
+"Trail Curto",
+"Trail Longo",
+"Trail Médio",
+"Ultra-Trail"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2060&lang=pt",
+"official_url": ""
+},
+{
+"source": "athleko",
+"source_id": "athleko:2096",
+"name": "Riyadh Half Marathon",
+"date": "2027-01-30",
+"end_date": null,
+"location": "Riyadh",
+"country": "Arábia Saudita",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2096&lang=pt",
+"official_url": "https://www.riyadhmarathon.org/en/index.html"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2239",
+"name": "Ras Al Khaimah Half Marathon",
+"date": "2027-01-30",
+"end_date": null,
+"location": "Ras Al Khaimah",
+"country": "Emirados Árabes Unidos",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"10 km",
+"21 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2239&lang=pt",
+"official_url": "https://rakhalfmarathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2349",
+"name": "CDM BEER MILE 2027 (1,6 km)",
+"date": "2027-01-30",
+"end_date": null,
+"location": "Alcobaça, Leiria",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"5 km"
+],
+"distances": [
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2349&lang=pt",
+"official_url": "https://stopandgo.net/events/cdm-beer-mile-2027"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1604",
+"name": "Media Maratón de Castelló",
+"date": "2027-01-31",
+"end_date": null,
+"location": "Castelló de la Plana",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1604&lang=pt",
+"official_url": "https://www.mediamaratoncastello.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1709",
+"name": "Miami Half Marathon",
+"date": "2027-01-31",
+"end_date": null,
+"location": "Miami",
+"country": "Estados Unidos",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1709&lang=pt",
+"official_url": "https://www.themiamimarathon.com/half-marathon/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1948",
+"name": "Maratona do Funchal",
+"date": "2027-01-31",
+"end_date": null,
+"location": "Funchal, Madeira",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km",
+"42 km",
+"8 km"
+],
+"distances": [
+"21 km",
+"42 km",
+"8 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1948&lang=pt",
+"official_url": "https://www.madeiramarathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2061",
+"name": "Santa Maria Trail - SMAT 2027",
+"date": "2027-01-31",
+"end_date": null,
+"location": "Vila do Porto, Ilha de Santa Maria, Madeira",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Caminhada Trail",
+"Trail Curto",
+"Trail Longo",
+"Trail Médio"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2061&lang=pt",
+"official_url": "https://stopandgo.net/events/santa-maria-trail-smat-2027"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2064",
+"name": "XII Maratona do Funchal",
+"date": "2027-01-31",
+"end_date": null,
+"location": "Funchal, Madeira",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km",
+"42 km",
+"8 km"
+],
+"distances": [
+"21 km",
+"42 km",
+"8 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2064&lang=pt",
+"official_url": "https://www.madeiramarathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2097",
+"name": "Osaka Half Marathon",
+"date": "2027-01-31",
+"end_date": null,
+"location": "Osaka",
+"country": "Japão",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2097&lang=pt",
+"official_url": "https://half.osaka-marathon.jp/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2098",
+"name": "Semi Marathon Marrakech",
+"date": "2027-01-31",
+"end_date": null,
+"location": "Marrakech",
+"country": "Marrocos",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2098&lang=pt",
+"official_url": "https://www.marathon-marrakech.com/fr"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2128",
+"name": "Run Bahamas Half & Marathon",
+"date": "2027-01-31",
+"end_date": null,
+"location": "Nassau",
+"country": "Bahamas",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2128&lang=pt",
+"official_url": "https://runsignup.com/Race/BS/Nassau/RunBahamas"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2295",
+"name": "Cats Run Ms",
+"date": "2027-01-31",
+"end_date": null,
+"location": "Campo Grande",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"5 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2295&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/cats-run-ms-2027-88113"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2335",
+"name": "1º Circuito Run Visão Nordeste Etapa Maragogi",
+"date": "2027-01-31",
+"end_date": null,
+"location": "Maragogi",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"8 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"8 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2335&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/1-circuito-run-visao-nordeste-etapa-maragogi-88776"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2350",
+"name": "RACENATURE ALBUFEIRA 2027",
+"date": "2027-01-31",
+"end_date": null,
+"location": "Albufeira",
+"country": "Portugal",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"Gravel",
+"Mini Fondo"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2350&lang=pt",
+"official_url": "https://stopandgo.net/events/racenature-albufeira-2027"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1901",
+"name": "Ultra Desafio Passa Quatro",
+"date": "2027-02-01",
+"end_date": null,
+"location": "Passa Quatro, MG",
+"country": "Brasil",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Trail Curto",
+"Trail Longo",
+"Trail Médio",
+"Ultra-Trail"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1901&lang=pt",
+"official_url": "https://minhasinscricoes.com.br/Evento/UDUltraDesafio-PassaQuatro-MG"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2100",
+"name": "San Francisco Half Marathon & 5K",
+"date": "2027-02-01",
+"end_date": null,
+"location": "San Francisco",
+"country": "Estados Unidos",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km",
+"5 km"
+],
+"distances": [
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2100&lang=pt",
+"official_url": "https://sanfranciscohalfmarathon.org/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2065",
+"name": "Montepio Meia Maratona Cascais",
+"date": "2027-02-07",
+"end_date": null,
+"location": "Cascais, Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"10 km",
+"21 km",
+"5 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2065&lang=pt",
+"official_url": ""
+},
+{
+"source": "athleko",
+"source_id": "athleko:2099",
+"name": "Donna Half Marathon",
+"date": "2027-02-07",
+"end_date": null,
+"location": "Jacksonville Beach, FL",
+"country": "Estados Unidos",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2099&lang=pt",
+"official_url": "https://breastcancermarathon.com/races-challenges/half-marathon/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2101",
+"name": "Surf City Half Marathon",
+"date": "2027-02-07",
+"end_date": null,
+"location": "Huntington Beach",
+"country": "Estados Unidos",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km",
+"5 km"
+],
+"distances": [
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2101&lang=pt",
+"official_url": "https://www.runsurfcity.com/halfmarathon"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2102",
+"name": "Surf City Marathon",
+"date": "2027-02-07",
+"end_date": null,
+"location": "Huntington Beach",
+"country": "Estados Unidos",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2102&lang=pt",
+"official_url": "https://www.runsurfcity.com/marathon"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2103",
+"name": "Marugame Half Marathon",
+"date": "2027-02-07",
+"end_date": null,
+"location": "Marugame",
+"country": "Japão",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2103&lang=pt",
+"official_url": "https://www.km-half.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2104",
+"name": "Kilimanjaro Half Marathon",
+"date": "2027-02-07",
+"end_date": null,
+"location": "Moshi",
+"country": "Tanzânia",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km",
+"5 km"
+],
+"distances": [
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2104&lang=pt",
+"official_url": "https://www.kilimanjaromarathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2105",
+"name": "Kilimanjaro Marathon",
+"date": "2027-02-07",
+"end_date": null,
+"location": "Moshi",
+"country": "Tanzânia",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2105&lang=pt",
+"official_url": "https://www.kilimanjaromarathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2303",
+"name": "Meia de Curita",
+"date": "2027-02-07",
+"end_date": null,
+"location": "Curitiba, PR",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2303&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/meia-de-curita-2027-88904"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1993",
+"name": "Kristallmarathon",
+"date": "2027-02-08",
+"end_date": null,
+"location": "Turíngia",
+"country": "Alemanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1993&lang=pt",
+"official_url": "https://www.triathlonverein-werratal.de/kristallmarathon/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2331",
+"name": "Circuito de Corridas Pague Menos 2027 Combo Todas As Etapas",
+"date": "2027-02-09",
+"end_date": null,
+"location": "",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"10 km",
+"21 km",
+"5 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2331&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/circuito-de-corridas-pague-menos-2027-combo-todas-as-etapas-88986"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2220",
+"name": "Lagos City Marathon",
+"date": "2027-02-13",
+"end_date": null,
+"location": "Lagos",
+"country": "Nigéria",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"42 km"
+],
+"distances": [
+"10 km",
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2220&lang=pt",
+"official_url": "https://lagoscitymarathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2308",
+"name": "16 Night Run Costão",
+"date": "2027-02-13",
+"end_date": null,
+"location": "Florianópolis",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"10 km",
+"15 km",
+"8 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"15 km",
+"8 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2308&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/16-night-run-costao-2027-88415"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2108",
+"name": "Fort Lauderdale A1A Half Marathon",
+"date": "2027-02-14",
+"end_date": null,
+"location": "Fort Lauderdale, FL",
+"country": "Estados Unidos",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2108&lang=pt",
+"official_url": "https://a1amarathon.com/a1a-half-marathon/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2109",
+"name": "Publix Fort Lauderdale A1A Marathon",
+"date": "2027-02-14",
+"end_date": null,
+"location": "Fort Lauderdale, FL",
+"country": "Estados Unidos",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2109&lang=pt",
+"official_url": "https://a1amarathon.com/a1a-marathon/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2110",
+"name": "Hyundai Mitja Marató Barcelona by Brooks",
+"date": "2027-02-14",
+"end_date": null,
+"location": "Barcelona",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2110&lang=pt",
+"official_url": "https://www.mitjamarato.barcelona/es/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2114",
+"name": "Austin Marathon",
+"date": "2027-02-14",
+"end_date": null,
+"location": "Austin",
+"country": "Estados Unidos",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2114&lang=pt",
+"official_url": "https://youraustinmarathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2115",
+"name": "Austin Half Marathon",
+"date": "2027-02-14",
+"end_date": null,
+"location": "Austin",
+"country": "Estados Unidos",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2115&lang=pt",
+"official_url": "https://youraustinmarathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2320",
+"name": "1 Night Run Uniao e Trabalho",
+"date": "2027-02-20",
+"end_date": null,
+"location": "Viradouro",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"10 km",
+"5 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2320&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/1-night-run-uniao-e-trabalho-88750"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1710",
+"name": "Media Maratón Internacional Alicante",
+"date": "2027-02-21",
+"end_date": null,
+"location": "Alicante",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1710&lang=pt",
+"official_url": "https://mediamaratondealicante.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1949",
+"name": "Zurich Maratón de Sevilla",
+"date": "2027-02-21",
+"end_date": null,
+"location": "Sevilla",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1949&lang=pt",
+"official_url": "https://www.zurichmaratonsevilla.es/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2111",
+"name": "Meridiano Media Maratón Internacional Aguas de Alicante",
+"date": "2027-02-21",
+"end_date": null,
+"location": "Alicante",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2111&lang=pt",
+"official_url": ""
+},
+{
+"source": "athleko",
+"source_id": "athleko:2212",
+"name": "Desafio de Natal 2026 Neon Stride",
+"date": "2027-02-21",
+"end_date": null,
+"location": "Brasil (Virtual)",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Ultra"
+],
+"tags": [
+"10 km",
+"21 km",
+"5 km",
+"Ultra-Maratona"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2212&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/desafio-de-natal-2026-neon-stride-88805"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2229",
+"name": "Coelmo Napoli City Half Marthon - SuperHalfs Europe",
+"date": "2027-02-21",
+"end_date": null,
+"location": "Napoli",
+"country": "Itália",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2229&lang=pt",
+"official_url": "https://www.superhalfs.com/en/events/napoli/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2240",
+"name": "Alicante Half Marathon",
+"date": "2027-02-21",
+"end_date": null,
+"location": "Alicante",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2240&lang=pt",
+"official_url": "https://mediamaratondealicante.com/en/half-marathon/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2241",
+"name": "Kyoto Marathon",
+"date": "2027-02-21",
+"end_date": null,
+"location": "Kyoto",
+"country": "JAPÃO",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2241&lang=pt",
+"official_url": "https://www.kyoto-marathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2314",
+"name": "1 Corrida do Tigre",
+"date": "2027-02-21",
+"end_date": null,
+"location": "Limoeiro de Anadia",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2314&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/1-corrida-do-tigre-88692"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2116",
+"name": "Tel Aviv Bamk Luemi Half Marathon",
+"date": "2027-02-26",
+"end_date": null,
+"location": "Tel Aviv",
+"country": "Israel",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2116&lang=pt",
+"official_url": "https://www.tlvmarathon.co.il/MenuDefault_en.aspx?id=9272"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2117",
+"name": "Tel Aviv Bank Leumi Marathon",
+"date": "2027-02-26",
+"end_date": null,
+"location": "Tel Aviv",
+"country": "Israel",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2117&lang=pt",
+"official_url": "https://www.tlvmarathon.co.il/MenuDefault_en.aspx?id=9272"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1619",
+"name": "Totale Energies Maratón Murcia",
+"date": "2027-02-27",
+"end_date": null,
+"location": "Múrcia",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1619&lang=pt",
+"official_url": "https://www.maratonmurcia.com/en/homepage"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2121",
+"name": "Kazungula Bridge Half & Marathon",
+"date": "2027-02-27",
+"end_date": null,
+"location": "Kazungula",
+"country": "Botsuana",
+"types": [
+"Estrada"
+],
+"tags": [
+"15 km",
+"21 km",
+"42 km",
+"8 km"
+],
+"distances": [
+"15 km",
+"21 km",
+"42 km",
+"8 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2121&lang=pt",
+"official_url": "https://secure.onreg.com/onreg2/front/step1.php?id=7866&occurrence=2027-02-27"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2153",
+"name": "SOCAL River Marathon",
+"date": "2027-02-27",
+"end_date": null,
+"location": "Huntington Beach, CA",
+"country": "Estados Unidos",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2153&lang=pt",
+"official_url": "https://www.socalmarathon.com/Race/CA/HuntingtonBeach/SOCALRiverMarathon26213110K5K"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2154",
+"name": "SOCAL River Half Marathon",
+"date": "2027-02-27",
+"end_date": null,
+"location": "Huntington Beach, CA",
+"country": "Estados Unidos",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2154&lang=pt",
+"official_url": "https://www.socalmarathon.com/Race/CA/HuntingtonBeach/SOCALRiverMarathon26213110K5K"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2156",
+"name": "LifeStar Malta Half & Marathon",
+"date": "2027-02-28",
+"end_date": null,
+"location": "Sliema",
+"country": "Malta",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"21 km",
+"42 km",
+"5 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2156&lang=pt",
+"official_url": "https://maltamarathon.com/malta-marathon/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2195",
+"name": "Corrida das Lezírias 2027",
+"date": "2027-02-28",
+"end_date": null,
+"location": "Vila Franca de Xira, Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"15 km",
+"5 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"15 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2195&lang=pt",
+"official_url": "https://xistarca.pt/eventos/corrida-das-lezirias-2027"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2242",
+"name": "Daegu Marathon",
+"date": "2027-02-28",
+"end_date": null,
+"location": "Daegu",
+"country": "COREIA DO SUL",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2242&lang=pt",
+"official_url": "https://daegumarathon.daegu.go.kr/englishpage.php"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2311",
+"name": "1 Corrida Catolica de Rio Preto",
+"date": "2027-02-28",
+"end_date": null,
+"location": "São José do Rio Preto",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"5 km",
+"Kids"
+],
+"distances": [
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2311&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/1-corrida-catolica-de-rio-preto-2027-88788"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1953",
+"name": "Disney Princess Half Marathon Weekend",
+"date": "2027-03-01",
+"end_date": null,
+"location": "Orlando",
+"country": "Estados Unidos",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1953&lang=pt",
+"official_url": "https://www.rundisney.com/events/disneyworld/disney-princess-half-marathon-weekend"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2118",
+"name": "Guatemala Impact Marathon",
+"date": "2027-03-01",
+"end_date": null,
+"location": "Guatemala City, Antigua",
+"country": "Guatemala",
+"types": [
+"Trail"
+],
+"tags": [
+"Trail Curto",
+"Trail Longo",
+"Trail Médio"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2118&lang=pt",
+"official_url": "https://www.impactmarathon.com/products/guatemala-impact-marathon-2027"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1712",
+"name": "Generali Berlin Half Marathon",
+"date": "2027-03-04",
+"end_date": null,
+"location": "Berlim",
+"country": "Alemanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1712&lang=pt",
+"official_url": "https://www.generali-berliner-halbmarathon.de/en/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1713",
+"name": "Myrtle Beach Marathon & Half Marathon",
+"date": "2027-03-06",
+"end_date": null,
+"location": "Myrtle Beach",
+"country": "Estados Unidos",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km",
+"42 km"
+],
+"distances": [
+"21 km",
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1713&lang=pt",
+"official_url": "https://mbmarathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2066",
+"name": "Montalegre Urban Fit 2027",
+"date": "2027-03-06",
+"end_date": null,
+"location": "Montalegre, Vila Real",
+"country": "Portugal",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"OCR"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2066&lang=pt",
+"official_url": "https://lap2go.com/pt/event/montalegre-urban-fit-2027"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2219",
+"name": "Saipan Marathon",
+"date": "2027-03-06",
+"end_date": null,
+"location": "Capitol Hill, Saipan",
+"country": "Ilhas Marianas do Norte",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2219&lang=pt",
+"official_url": "https://www.mymarianas.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1603",
+"name": "EDP Lisbon Half Marathon",
+"date": "2027-03-07",
+"end_date": null,
+"location": "Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1603&lang=pt",
+"official_url": "https://www.superhalfs.com/en/events/lisbon/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1617",
+"name": "Tokyo Marathon",
+"date": "2027-03-07",
+"end_date": null,
+"location": "Tokyo",
+"country": "Japão",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1617&lang=pt",
+"official_url": "https://www.marathon.tokyo/en/20th/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1711",
+"name": "Media Maratón Málaga",
+"date": "2027-03-07",
+"end_date": null,
+"location": "Málaga",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1711&lang=pt",
+"official_url": "https://www.mediamaratonmalaga.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1717",
+"name": "Termal Bologna Marathon 2027",
+"date": "2027-03-07",
+"end_date": null,
+"location": "Bolonha",
+"country": "Itália",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1717&lang=pt",
+"official_url": "https://www.bolognamarathon.run/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1950",
+"name": "Vodafone 10K",
+"date": "2027-03-07",
+"end_date": null,
+"location": "Almada, Setúbal",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1950&lang=pt",
+"official_url": "https://maratonaclubedeportugal.com/corrida-marco/vodafone-10k/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2067",
+"name": "HOKA Semi de Paris",
+"date": "2027-03-07",
+"end_date": null,
+"location": "Paris",
+"country": "França",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2067&lang=pt",
+"official_url": "https://www.hokasemideparis.fr/en/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2123",
+"name": "Independence Day National Run",
+"date": "2027-03-07",
+"end_date": null,
+"location": "Legon Campus",
+"country": "Gana",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"5 km",
+"Caminhada"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2123&lang=pt",
+"official_url": "https://millenniummarathon.com/independence-day-run/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2218",
+"name": "Vientiane International Half Marathon",
+"date": "2027-03-07",
+"end_date": null,
+"location": "Vientiane",
+"country": "Laos",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2218&lang=pt",
+"official_url": "https://race.thai.run/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1919",
+"name": "UCI Gravel World Series Brazil 3ª ed.",
+"date": "2027-03-08",
+"end_date": null,
+"location": "Balneário Camboriú, SC",
+"country": "Brasil",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"Gravel"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1919&lang=pt",
+"official_url": "https://www.ucigravelbrasil.com.br"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1715",
+"name": "Enschede Marathon",
+"date": "2027-03-11",
+"end_date": null,
+"location": "Enschede",
+"country": "Países Baixos",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1715&lang=pt",
+"official_url": "https://www.enschedemarathon.nl/en/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2329",
+"name": "Jurere Night Run",
+"date": "2027-03-13",
+"end_date": null,
+"location": "Florianópolis",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"5 km",
+"8 km",
+"Kids"
+],
+"distances": [
+"5 km",
+"8 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2329&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/jurere-night-run-2027-88090"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1616",
+"name": "Zurich Marató Barcelona",
+"date": "2027-03-14",
+"end_date": null,
+"location": "Barcelona",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1616&lang=pt",
+"official_url": "https://zurichmaratobarcelona.es/en/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1718",
+"name": "Maratona di Roma",
+"date": "2027-03-14",
+"end_date": null,
+"location": "Roma",
+"country": "Itália",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1718&lang=pt",
+"official_url": "https://www.runromethemarathon.com/en/home-2025-en-2/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1983",
+"name": "Multi Storey Car Park Marathon",
+"date": "2027-03-14",
+"end_date": null,
+"location": "Southend-on-Sea",
+"country": "Reino Unido",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1983&lang=pt",
+"official_url": "https://sussextrailevents.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2068",
+"name": "Zurich Marató Barcelona",
+"date": "2027-03-14",
+"end_date": null,
+"location": "Barcelona",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2068&lang=pt",
+"official_url": "https://zurichmaratobarcelona.es/en/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2119",
+"name": "Maratón de La Paz",
+"date": "2027-03-14",
+"end_date": null,
+"location": "La Paz",
+"country": "Bolívia",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km",
+"Caminhada"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2119&lang=pt",
+"official_url": "https://www.maratondelapaz.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2211",
+"name": "Copa Brasilia de Triathlon 2027 Etapa 1",
+"date": "2027-03-14",
+"end_date": null,
+"location": "Brasília",
+"country": "Brasil",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Aquatlo",
+"Olímpico",
+"Sprint",
+"Super-Sprint"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2211&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/copa-brasilia-de-triathlon-2027-etapa-1-88527"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2230",
+"name": "Warsaw Half Marathon - Superhalfs Europe",
+"date": "2027-03-14",
+"end_date": null,
+"location": "Warsaw",
+"country": "Polônia",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2230&lang=pt",
+"official_url": "https://www.superhalfs.com/en/events/warsaw/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2243",
+"name": "Bath Half Marathon",
+"date": "2027-03-14",
+"end_date": null,
+"location": "Bath",
+"country": "REINO UNIDO",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2243&lang=pt",
+"official_url": "https://www.londonmarathonevents.co.uk/bath-half"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2213",
+"name": "Indomit Columbia Pedra do Bau",
+"date": "2027-03-19",
+"end_date": null,
+"location": "São Bento do Sapucaí",
+"country": "Brasil",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Trail Curto",
+"Trail Longo",
+"Trail Médio",
+"Ultra-Trail"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2213&lang=pt",
+"official_url": "https://indomit.com.br/saobento/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2244",
+"name": "Jerusalem Marathon & Half Marathon",
+"date": "2027-03-19",
+"end_date": null,
+"location": "Jerusalem",
+"country": "Israel",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2244&lang=pt",
+"official_url": "https://jerusalem-marathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2126",
+"name": "Mostar Half Marathon",
+"date": "2027-03-20",
+"end_date": null,
+"location": "Mostar",
+"country": "Bósnia e Herzegovina",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2126&lang=pt",
+"official_url": "https://mostar.run/en/races/half-marathon/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2245",
+"name": "Project 13.1",
+"date": "2027-03-20",
+"end_date": null,
+"location": "Congers, NY",
+"country": "ESTADOS UNIDOS",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2245&lang=pt",
+"official_url": "https://runsignup.com/Race/NY/Congers/Project131"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1628",
+"name": "4.ª Meia Maratona Baía do Seixal",
+"date": "2027-03-21",
+"end_date": null,
+"location": "Seixal, Setúbal",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"21 km",
+"Caminhada"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1628&lang=pt",
+"official_url": "https://werun.pt/eventos/meia-maratona-baia-do-seixal-2027/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2246",
+"name": "Arrow Venloop Venlo Half Marathon",
+"date": "2027-03-21",
+"end_date": null,
+"location": "Venlo",
+"country": "PAÍSES BAIXOS",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"10 km",
+"21 km",
+"5 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2246&lang=pt",
+"official_url": "https://venloop.nl/en/running/arrow-venloop/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2249",
+"name": "Frankfurt Half Marathon",
+"date": "2027-03-21",
+"end_date": null,
+"location": "Frankfurt",
+"country": "Alemanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2249&lang=pt",
+"official_url": "https://www.frankfurter-halbmarathon.de/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2294",
+"name": "Corrida Contra A Polio No Mundo",
+"date": "2027-03-21",
+"end_date": null,
+"location": "Olímpia",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"5 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2294&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/corrida-contra-a-polio-no-mundo-88401"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2296",
+"name": "Ironman 70.3 Curitiba Paraná",
+"date": "2027-03-21",
+"end_date": null,
+"location": "Curitiba",
+"country": "Brasil",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Half-Ironman 70.3"
+],
+"distances": [
+"Half-Ironman 70.3"
+],
+"url": "https://www.athleko.pt/event.php?id=2296&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/2027-nubank-ultravioleta-ironman-70-3-curitiba-parana-86460"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2304",
+"name": "Triathlon Capixaba de Ferro Marco",
+"date": "2027-03-21",
+"end_date": null,
+"location": "Vitória",
+"country": "Brasil",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Olímpico",
+"Sprint"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2304&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/triathlon-capixaba-de-ferro-marco-2027-87636"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2309",
+"name": "1 Corrida Igreja Luterana Bela Aliança",
+"date": "2027-03-21",
+"end_date": null,
+"location": "São Bento do Sul",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"8 km"
+],
+"distances": [
+"8 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2309&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/1-corrida-igreja-luterana-bela-alianca-88901"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2325",
+"name": "Conecta Run 3ª Edição",
+"date": "2027-03-21",
+"end_date": null,
+"location": "",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"5 km"
+],
+"distances": [
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2325&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/conecta-run-3-edicao-88952"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2327",
+"name": "10 Milhas Alagoas",
+"date": "2027-03-21",
+"end_date": null,
+"location": "Maceió",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"15 km",
+"8 km"
+],
+"distances": [
+"15 km",
+"8 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2327&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/10-milhas-alagoas-2027-86461"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2332",
+"name": "Maratona Internacional do Paraná",
+"date": "2027-03-26",
+"end_date": null,
+"location": "Curitiba",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2332&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/maratona-internacional-do-parana-2027-88364"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1958",
+"name": "Meia de Maratona de Braga",
+"date": "2027-03-28",
+"end_date": null,
+"location": "Braga, Braga",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"21 km",
+"5 km",
+"Caminhada"
+],
+"distances": [
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1958&lang=pt",
+"official_url": "https://www.meiamaratonabraga.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2289",
+"name": "New Balance 15K - São Paulo",
+"date": "2027-03-28",
+"end_date": null,
+"location": "São Paulo",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"15 km"
+],
+"distances": [
+"15 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2289&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/new-balance-15k-sao-paulo-2027-88774?"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1902",
+"name": "Mountain Do Praia do Rosa",
+"date": "2027-04-03",
+"end_date": null,
+"location": "Imbituba, SC",
+"country": "Brasil",
+"types": [
+"Trail"
+],
+"tags": [
+"Caminhada Trail",
+"Trail Curto",
+"Trail Médio"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1902&lang=pt",
+"official_url": "https://mountaindo.com.br/raizes/praiadorosa/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2034",
+"name": "IRONMAN 70.3 Vilamoura-Algarve",
+"date": "2027-04-03",
+"end_date": null,
+"location": "Vilamoura, Faro",
+"country": "Portugal",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Half-Ironman 70.3"
+],
+"distances": [
+"Half-Ironman 70.3"
+],
+"url": "https://www.athleko.pt/event.php?id=2034&lang=pt",
+"official_url": "https://www.ironman.com/races/im703-vilamoura-algarve"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2247",
+"name": "Ibiza Media Maratón",
+"date": "2027-04-03",
+"end_date": null,
+"location": "Ibiza",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2247&lang=pt",
+"official_url": "http://ibizamediamaraton.com/en/home/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2248",
+"name": "Paderborn Easter Run Half Marathon",
+"date": "2027-04-03",
+"end_date": null,
+"location": "Paderborn",
+"country": "ALEMANHA",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2248&lang=pt",
+"official_url": "https://www.paderborner-osterlauf.de/wettbewerbe/halbmarathon.html"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2293",
+"name": "Bolfe Night Run",
+"date": "2027-04-03",
+"end_date": null,
+"location": "São Miguel do Oeste",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"5 km",
+"Kids"
+],
+"distances": [
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2293&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/bolfe-night-run-2027-88967"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2354",
+"name": "Moorea Marathon",
+"date": "2027-04-03",
+"end_date": null,
+"location": "Moorea",
+"country": "Polinésia Francesa",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2354&lang=pt",
+"official_url": "https://www.fenuamoove.com/event/moorea-marathon-2027/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1599",
+"name": "Movistar Madrid Medio Maratón",
+"date": "2027-04-04",
+"end_date": null,
+"location": "Madrid",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1599&lang=pt",
+"official_url": "https://www.mediomaratonmadrid.es/pt/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1618",
+"name": "Generali Berlin Half Marathon",
+"date": "2027-04-04",
+"end_date": null,
+"location": "Berlim",
+"country": "Alemanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1618&lang=pt",
+"official_url": "https://www.generali-berliner-halbmarathon.de/en/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1916",
+"name": "L' Étape Cunha",
+"date": "2027-04-04",
+"end_date": null,
+"location": "Cunha, SP",
+"country": "Brasil",
+"types": [],
+"tags": [
+"Gran Fondo",
+"Medio Fondo"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1916&lang=pt",
+"official_url": "https://cunha.letapeseries.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1934",
+"name": "Maratona Internacional São Paulo",
+"date": "2027-04-04",
+"end_date": null,
+"location": "São Paulo",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1934&lang=pt",
+"official_url": "https://www.yescom.com.br/maratonasp/2026/index.asp"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1957",
+"name": "IV OTSO Media Maratón de Getxo",
+"date": "2027-04-04",
+"end_date": null,
+"location": "Getxo, Biscaia",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1957&lang=pt",
+"official_url": "https://inscripcion.kirolprobak.com/inscripcion/iv-otso-media-maraton-getxo-otso-getxoko-maratoi-erdia/?lang=es"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2250",
+"name": "London Landmarks Half Marathon",
+"date": "2027-04-04",
+"end_date": null,
+"location": "London",
+"country": "REINO UNIDO",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2250&lang=pt",
+"official_url": "https://www.llhm.co.uk/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2326",
+"name": "1º Cj Run",
+"date": "2027-04-04",
+"end_date": null,
+"location": "Campos dos Goytacazes",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2326&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/1-cj-run-88585"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1714",
+"name": "Ibiza Maratón",
+"date": "2027-04-10",
+"end_date": null,
+"location": "Ibiza",
+"country": "Espanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1714&lang=pt",
+"official_url": "https://ibizamarathon.es/en/home/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2306",
+"name": "Maratona de Fortaleza",
+"date": "2027-04-10",
+"end_date": null,
+"location": "Fortaleza",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2306&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/maratona-de-fortaleza-2027-87035"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2351",
+"name": "Corrida Francisco Lázaro Bairro de Benfica 2027",
+"date": "2027-04-10",
+"end_date": null,
+"location": "Lisboa",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"10 km",
+"5 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2351&lang=pt",
+"official_url": "https://xistarca.pt/eventos/corrida-francisco-lazaro-bairro-de-benfica-2027"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2251",
+"name": "Bonn Half Marathon",
+"date": "2027-04-11",
+"end_date": null,
+"location": "Bonn",
+"country": "Alemanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2251&lang=pt",
+"official_url": "https://www.deutschepostmarathonbonn.de/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2231",
+"name": "Belgrade Half Marathon - Super Halfs Europe",
+"date": "2027-04-17",
+"end_date": null,
+"location": "Belgrade",
+"country": "Sérvia",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2231&lang=pt",
+"official_url": "https://www.superhalfs.com/en/events/belgrade/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2252",
+"name": "Carmel Marathon & Half Marathon",
+"date": "2027-04-17",
+"end_date": null,
+"location": "Carmel",
+"country": "ESTADOS UNIDOS",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2252&lang=pt",
+"official_url": "https://www.carmelmarathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2019",
+"name": "IRONMAN 70.3 Valencia",
+"date": "2027-04-18",
+"end_date": null,
+"location": "Valencia",
+"country": "Espanha",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Half-Ironman 70.3"
+],
+"distances": [
+"Half-Ironman 70.3"
+],
+"url": "https://www.athleko.pt/event.php?id=2019&lang=pt",
+"official_url": "https://www.ironman.com/races/im703-valencia"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2040",
+"name": "7.ª edição do Granfondo Torres Vedras",
+"date": "2027-04-18",
+"end_date": null,
+"location": "Torres Vedras, Lisboa",
+"country": "Portugal",
+"types": [],
+"tags": [
+"Gran Fondo",
+"Medio Fondo",
+"Mini Fondo"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2040&lang=pt",
+"official_url": "https://cabreirasolutions.com/evento/granfondo-torres-vedras/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2210",
+"name": "Maratona de Montevideu",
+"date": "2027-04-18",
+"end_date": null,
+"location": "Montevidéu",
+"country": "Uruguai",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2210&lang=pt",
+"official_url": "https://maratonmontevideo.uy/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2232",
+"name": "Wiener Städtische Half Marathon - Super Halfs Eurpe",
+"date": "2027-04-18",
+"end_date": null,
+"location": "Vienna",
+"country": "Áustria",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2232&lang=pt",
+"official_url": "https://www.superhalfs.com/en/events/vienna/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2253",
+"name": "Christchurch Marathon & Half Marathon",
+"date": "2027-04-18",
+"end_date": null,
+"location": "Christchurch",
+"country": "NOVA ZELÂNDIA",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2253&lang=pt",
+"official_url": "https://www.christchurchmarathon.co.nz/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2254",
+"name": "Dusseldorf Half Marathon",
+"date": "2027-04-18",
+"end_date": null,
+"location": "Düsseldorf",
+"country": "Alemanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2254&lang=pt",
+"official_url": "https://www.uniper-duesseldorfmarathon.de/en/competitions/half-marathon"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2301",
+"name": "Ironman 70.3 Brasília",
+"date": "2027-04-18",
+"end_date": null,
+"location": "Brasília",
+"country": "Brasil",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Half-Ironman 70.3"
+],
+"distances": [
+"Half-Ironman 70.3"
+],
+"url": "https://www.athleko.pt/event.php?id=2301&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/2027-nubank-ultravioleta-ironman-70-3-brasilia-86820"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2140",
+"name": "Boston Marathon",
+"date": "2027-04-19",
+"end_date": null,
+"location": "Boston",
+"country": "Estados Unidos",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2140&lang=pt",
+"official_url": "https://www.baa.org/races/boston-marathon/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2018",
+"name": "IRONMAN 70.3 Venice-Jesolo",
+"date": "2027-04-24",
+"end_date": null,
+"location": "Jesolo",
+"country": "Itália",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Half-Ironman 70.3"
+],
+"distances": [
+"Half-Ironman 70.3"
+],
+"url": "https://www.athleko.pt/event.php?id=2018&lang=pt",
+"official_url": "https://www.ironman.com/races/im703-venice-jesolo"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2120",
+"name": "Boka Bay Trail",
+"date": "2027-04-24",
+"end_date": null,
+"location": "Boka Bay",
+"country": "Montenegro",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Endurance",
+"Trail Curto",
+"Trail Longo",
+"Trail Médio",
+"Ultra-Trail"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2120&lang=pt",
+"official_url": "https://www.bokabaytrail.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2255",
+"name": "Illinois Half Marathon",
+"date": "2027-04-24",
+"end_date": null,
+"location": "Champaign-Urbana",
+"country": "ESTADOS UNIDOS",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2255&lang=pt",
+"official_url": "https://illinoismarathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2256",
+"name": "Stockholm Premiar Half Marathon",
+"date": "2027-04-24",
+"end_date": null,
+"location": "Stockholm",
+"country": "SUÉCIA",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2256&lang=pt",
+"official_url": "https://www.stockholmmarathon.se/adidas-premiarhalvan-eng/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1704",
+"name": "Haspa Marathon Hamburg",
+"date": "2027-04-25",
+"end_date": null,
+"location": "Hamburg",
+"country": "Alemanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1704&lang=pt",
+"official_url": "https://haspa-marathon-hamburg.de/en/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1705",
+"name": "Haspa Half Marathon Hamburg",
+"date": "2027-04-25",
+"end_date": null,
+"location": "Hamburg",
+"country": "Alemanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1705&lang=pt",
+"official_url": "https://haspa-marathon-hamburg.de/en/halfmarathon/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1716",
+"name": "TCS London Marathon",
+"date": "2027-04-25",
+"end_date": null,
+"location": "London",
+"country": "Reino Unido",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1716&lang=pt",
+"official_url": "https://www.londonmarathonevents.co.uk/london-marathon"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1876",
+"name": "IRONMAN 70.3 São Paulo",
+"date": "2027-04-25",
+"end_date": null,
+"location": "São Paulo",
+"country": "Brasil",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Half-Ironman 70.3"
+],
+"distances": [
+"Half-Ironman 70.3"
+],
+"url": "https://www.athleko.pt/event.php?id=1876&lang=pt",
+"official_url": "https://www.ironman.com/races/im703-sao-paulo"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1935",
+"name": "Rio de Janeiro Half Marathon",
+"date": "2027-04-25",
+"end_date": null,
+"location": "Rio de Janeiro",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"21 km",
+"5 km",
+"Caminhada"
+],
+"distances": [
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1935&lang=pt",
+"official_url": "https://rjrun.com.br/rj-half-marathon-2026__20415/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2209",
+"name": "Maratona de Cali",
+"date": "2027-04-25",
+"end_date": null,
+"location": "",
+"country": "Colômbia",
+"types": [
+"Estrada"
+],
+"tags": [
+"15 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"15 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2209&lang=pt",
+"official_url": "https://maratondecali.co/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1514",
+"name": "IRONMAN 70.3 St. George",
+"date": "2027-05-01",
+"end_date": null,
+"location": "St. George,, UTAH",
+"country": "Estados Unidos",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Ironman"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1514&lang=pt",
+"official_url": "https://www.ironman.com/news/ironman-703-st-george"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1994",
+"name": "Great Wall Marathon",
+"date": "2027-05-01",
+"end_date": null,
+"location": "Huangyaguan",
+"country": "China",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"21 km",
+"42 km",
+"8 km",
+"Caminhada"
+],
+"distances": [
+"21 km",
+"42 km",
+"8 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1994&lang=pt",
+"official_url": "https://great-wall-marathon.com/?gclsrc=aw.ds&gad_source=1&gad_campaignid=847702302&gbraid=0AAAAADsa0tPfwja3e4su2m_tMZTigd187&gclid=CjwKCAjw6f3RBhApEiwAMaCqWeIY7ml3rpHSFiHAvxbEUTMD-uNquCkU_Mzc4KYV-Eel3K8z5Vhf3xoCAEgQAvD_BwE"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2274",
+"name": "Meia Maratona Internacional de Florianopolis Oakberry",
+"date": "2027-05-01",
+"end_date": null,
+"location": "Rio de Janeiro",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"10 km",
+"21 km",
+"5 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2274&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/meia-maratona-internacional-de-florianopolis-oakberry-2027-87178"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2072",
+"name": "Lobo Ibérico Trail",
+"date": "2027-05-02",
+"end_date": null,
+"location": "Mafra, Malveira, Lisboa",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Caminhada Trail",
+"Trail Curto",
+"Trail Longo",
+"Trail Médio"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2072&lang=pt",
+"official_url": "https://www.trilhoperdido.com/evento/Lobo-Iberico-Trail-2027"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2189",
+"name": "Lidl Setúbal Triathlon",
+"date": "2027-05-02",
+"end_date": null,
+"location": "Setúbal, Setúbal",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Triatlo"
+],
+"tags": [
+"Half-Ironman 70.3",
+"T100",
+"Ultra-Triatlo"
+],
+"distances": [
+"Half-Ironman 70.3",
+"T100"
+],
+"url": "https://www.athleko.pt/event.php?id=2189&lang=pt",
+"official_url": "https://setubaltriathlon.pt"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2208",
+"name": "Maratona de Mendoza",
+"date": "2027-05-02",
+"end_date": null,
+"location": "",
+"country": "Argentina",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2208&lang=pt",
+"official_url": "https://maratondemendoza.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2257",
+"name": "Dublin City Half Marathon",
+"date": "2027-05-02",
+"end_date": null,
+"location": "Dublin",
+"country": "IRLANDA",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2257&lang=pt",
+"official_url": "https://dublincityhalfmarathon.ie/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2355",
+"name": "Baku Marathon",
+"date": "2027-05-02",
+"end_date": null,
+"location": "Baku",
+"country": "Azerbaijão",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2355&lang=pt",
+"official_url": "https://www.marathon.az/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1936",
+"name": "Maratona de Manaus",
+"date": "2027-05-04",
+"end_date": null,
+"location": "Manaus, AM",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1936&lang=pt",
+"official_url": "https://maratonademanaus.com.br/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2017",
+"name": "IRONMAN 70.3 Alcúdia-Mallorca",
+"date": "2027-05-08",
+"end_date": null,
+"location": "Alcúdia",
+"country": "Espanha",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Half-Ironman 70.3"
+],
+"distances": [
+"Half-Ironman 70.3"
+],
+"url": "https://www.athleko.pt/event.php?id=2017&lang=pt",
+"official_url": "https://www.ironman.com/races/im703-mallorca"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2313",
+"name": "Maratona Oficial de Belo Horizonte 2027",
+"date": "2027-05-14",
+"end_date": null,
+"location": "Holambra",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2313&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/maratona-oficial-de-belo-horizonte-2027-mobh-87396"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2016",
+"name": "IRONMAN Lanzarote",
+"date": "2027-05-15",
+"end_date": null,
+"location": "Lanzarote",
+"country": "Espanha",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Ironman"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2016&lang=pt",
+"official_url": "https://www.ironman.com/races/im-lanzarote"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1984",
+"name": "Beer Lovers' Marathon",
+"date": "2027-05-16",
+"end_date": null,
+"location": "Liège",
+"country": "Bélgica",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1984&lang=pt",
+"official_url": "https://www.beerloversmarathon.be/en"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2205",
+"name": "Maratona de Santiago",
+"date": "2027-05-16",
+"end_date": null,
+"location": "Santiago",
+"country": "Chile",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2205&lang=pt",
+"official_url": "https://maratondesantiago.cl/pt-br/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2233",
+"name": "Rimi Riga Half Marathon - Superhalfs Europe",
+"date": "2027-05-16",
+"end_date": null,
+"location": "Riga",
+"country": "Letônia",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2233&lang=pt",
+"official_url": "https://www.superhalfs.com/en/events/riga/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1973",
+"name": "Sanlam Cape Town Marathon",
+"date": "2027-05-23",
+"end_date": null,
+"location": "Cape Town",
+"country": "África do Sul",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1973&lang=pt",
+"official_url": "https://capetownmarathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2015",
+"name": "IRONMAN 70.3 St. Pölten",
+"date": "2027-05-23",
+"end_date": null,
+"location": "St. Polten",
+"country": "Áustria",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Half-Ironman 70.3"
+],
+"distances": [
+"Half-Ironman 70.3"
+],
+"url": "https://www.athleko.pt/event.php?id=2015&lang=pt",
+"official_url": "https://www.ironman.com/races/im703-st-poelten"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2039",
+"name": "Granfondo Médio Tejo 2027",
+"date": "2027-05-23",
+"end_date": null,
+"location": "Tomar, Santarém",
+"country": "Portugal",
+"types": [],
+"tags": [
+"Gran Fondo",
+"Medio Fondo",
+"Mini Fondo"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2039&lang=pt",
+"official_url": "https://cabreirasolutions.com/evento/granfondo-medio-tejo-2/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2113",
+"name": "Kenya Wildlife Half & Marathon",
+"date": "2027-05-23",
+"end_date": null,
+"location": "Machakos",
+"country": "Quênia",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km",
+"Caminhada"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2113&lang=pt",
+"official_url": "https://www.kenyawildlifemarathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1970",
+"name": "Maratona do Rio de Janeiro",
+"date": "2027-05-27",
+"end_date": null,
+"location": "Rio de Janeiro",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1970&lang=pt",
+"official_url": "https://maratonadorio.com.br/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2324",
+"name": "Rota das Catedrais Experience",
+"date": "2027-05-29",
+"end_date": null,
+"location": "Londrina",
+"country": "Brasil",
+"types": [],
+"tags": [
+"MTB"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2324&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/rota-das-catedrais-experience-2027-88985"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2014",
+"name": "IRONMAN 70.3 Alghero",
+"date": "2027-05-30",
+"end_date": null,
+"location": "Alghero",
+"country": "Itália",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Half-Ironman 70.3"
+],
+"distances": [
+"Half-Ironman 70.3"
+],
+"url": "https://www.athleko.pt/event.php?id=2014&lang=pt",
+"official_url": "https://www.ironman.com/races/im703-alghero"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2150",
+"name": "Meia Maratona do Douro Vinhateiro 2027",
+"date": "2027-05-30",
+"end_date": null,
+"location": "Peso da Régua, Vila Real",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"21 km",
+"5 km",
+"Caminhada"
+],
+"distances": [
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2150&lang=pt",
+"official_url": "https://douro-half-marathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2151",
+"name": "Maratona e Meia-Maratona do Rio 2027",
+"date": "2027-05-30",
+"end_date": null,
+"location": "Rio de Janeiro",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2151&lang=pt",
+"official_url": "https://www.maratonadorio.com.br/pt"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2217",
+"name": "Madagascar Marathon, Half, 50K & 10K",
+"date": "2027-05-30",
+"end_date": null,
+"location": "Isalo National Park",
+"country": "Madagáscar",
+"types": [
+"Estrada",
+"Ultra"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"Ultra-Maratona"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2217&lang=pt",
+"official_url": "https://marathontours.com/en-us/events/madagascar-marathon/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2353",
+"name": "Medic to Medic Malawi Marathon",
+"date": "2027-05-30",
+"end_date": null,
+"location": "Thyolo Tea Estates",
+"country": "Malaui",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2353&lang=pt",
+"official_url": "https://www.medictomedic.org.uk/marathon"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2010",
+"name": "IRONMAN 70.3 Bolton",
+"date": "2027-06-06",
+"end_date": null,
+"location": "Bolton",
+"country": "Reino Unido",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Half-Ironman 70.3"
+],
+"distances": [
+"Half-Ironman 70.3"
+],
+"url": "https://www.athleko.pt/event.php?id=2010&lang=pt",
+"official_url": "https://www.ironman.com/races/im703-bolton"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2011",
+"name": "IRONMAN 70.3 Switzerland",
+"date": "2027-06-06",
+"end_date": null,
+"location": "Rapperswil-Jona",
+"country": "Suíça",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Half-Ironman 70.3"
+],
+"distances": [
+"Half-Ironman 70.3"
+],
+"url": "https://www.athleko.pt/event.php?id=2011&lang=pt",
+"official_url": "https://www.ironman.com/races/im703-switzerland"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2012",
+"name": "IRONMAN 70.3 Tours Metropole - Loire Valley",
+"date": "2027-06-06",
+"end_date": null,
+"location": "Tours",
+"country": "França",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Half-Ironman 70.3"
+],
+"distances": [
+"Half-Ironman 70.3"
+],
+"url": "https://www.athleko.pt/event.php?id=2012&lang=pt",
+"official_url": "https://www.ironman.com/races/im703-tours"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2013",
+"name": "IRONMAN Hamburg European Championship",
+"date": "2027-06-06",
+"end_date": null,
+"location": "Hamburg",
+"country": "Alemanha",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Ironman"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2013&lang=pt",
+"official_url": "https://www.ironman.com/races/im-hamburg"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2127",
+"name": "B-HARD Ultra Race & Brevet",
+"date": "2027-06-09",
+"end_date": null,
+"location": "Banja Luka",
+"country": "Bósnia e Herzegovina",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"Ciclo Passeio",
+"Gran Fondo",
+"Medio Fondo",
+"Mini Fondo"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2127&lang=pt",
+"official_url": "https://www.bhardultrarace.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1985",
+"name": "Man vs. Horse Marathon",
+"date": "2027-06-12",
+"end_date": null,
+"location": "Llanwrtyd Wells",
+"country": "Reino Unido",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1985&lang=pt",
+"official_url": "https://www.green-events.co.uk/man-v-horse"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2009",
+"name": "IRONMAN Kaernten-Klagenfurt, Austria",
+"date": "2027-06-13",
+"end_date": null,
+"location": "Klagenfurt",
+"country": "Áustria",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Ironman"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2009&lang=pt",
+"official_url": "https://www.ironman.com/races/im-austria"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2207",
+"name": "Maratona de Aracaju",
+"date": "2027-06-13",
+"end_date": null,
+"location": "Florianópolis",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2207&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/maratona-de-aracaju-2026-74615"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2300",
+"name": "Ironman Florianópolis",
+"date": "2027-06-13",
+"end_date": null,
+"location": "Florianópolis",
+"country": "Brasil",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Ironman"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2300&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/2027-nubank-ultravioleta-ironman-brasil-87161"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2275",
+"name": "Maratona da Serra 2027 Ultra",
+"date": "2027-06-17",
+"end_date": null,
+"location": "Belo Horizonte",
+"country": "Brasil",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"MTB"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2275&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/maratona-da-serra-2027-ultra-88879"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2008",
+"name": "IRONMAN 70.3 Westfriesland",
+"date": "2027-06-20",
+"end_date": null,
+"location": "Hoorn",
+"country": "Países Baixos",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Half-Ironman 70.3"
+],
+"distances": [
+"Half-Ironman 70.3"
+],
+"url": "https://www.athleko.pt/event.php?id=2008&lang=pt",
+"official_url": "https://www.ironman.com/races/im703-westfriesland"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2204",
+"name": "21K Oficial de Ribeirao Preto Multi",
+"date": "2027-06-20",
+"end_date": null,
+"location": "Ribeirão Preto",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2204&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/21k-oficial-de-ribeirao-preto-multivc-73055"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2291",
+"name": "Meia Maratona Internacional de Curitiba",
+"date": "2027-06-20",
+"end_date": null,
+"location": "Curitiba",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2291&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/meia-maratona-internacional-de-curitiba-2027-88966"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2112",
+"name": "Rwanda Impact Marathon",
+"date": "2027-06-21",
+"end_date": null,
+"location": "Muganza",
+"country": "Ruanda",
+"types": [
+"Estrada",
+"Ultra"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"Ultra-Maratona"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2112&lang=pt",
+"official_url": "https://rwanda.impactmarathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2005",
+"name": "IRONMAN Frankfurt European Championship",
+"date": "2027-06-27",
+"end_date": null,
+"location": "Frankfurt",
+"country": "Alemanha",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Ironman"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2005&lang=pt",
+"official_url": ""
+},
+{
+"source": "athleko",
+"source_id": "athleko:2006",
+"name": "IRONMAN 70.3 Elsinore",
+"date": "2027-06-27",
+"end_date": null,
+"location": "Helsingör",
+"country": "Dinamarca",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Half-Ironman 70.3"
+],
+"distances": [
+"Half-Ironman 70.3"
+],
+"url": "https://www.athleko.pt/event.php?id=2006&lang=pt",
+"official_url": "https://www.ironman.com/races/im703-elsinore"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2007",
+"name": "IRONMAN Les Sables d'Olonne-Vendee",
+"date": "2027-06-27",
+"end_date": null,
+"location": "Les Sables d'Olonne",
+"country": "França",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Ironman"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2007&lang=pt",
+"official_url": "https://www.ironman.com/races/im-les-sables-dolonne"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2107",
+"name": "Iceland Volcano Marathon",
+"date": "2027-07-03",
+"end_date": null,
+"location": "Mývatn",
+"country": "Islândia",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2107&lang=pt",
+"official_url": "https://iceland-volcano-marathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2139",
+"name": "Samoa International Marathon",
+"date": "2027-07-03",
+"end_date": null,
+"location": "Apia",
+"country": "Samoa",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km",
+"Caminhada"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2139&lang=pt",
+"official_url": "https://www.samoaevents.com/samoa-international-marathon.html"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2004",
+"name": "IRONMAN Switzerland Thun",
+"date": "2027-07-04",
+"end_date": null,
+"location": "Thun",
+"country": "Suíça",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Ironman"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2004&lang=pt",
+"official_url": "https://www.ironman.com/races/im-switzerland"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2122",
+"name": "Trade Marathon",
+"date": "2027-07-04",
+"end_date": null,
+"location": "Ndola",
+"country": "Zâmbia",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2122&lang=pt",
+"official_url": "https://trademarathon.run/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2202",
+"name": "29 Maratona Internacional de Blumenau",
+"date": "2027-07-04",
+"end_date": null,
+"location": "Blumenau",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2202&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/29-maratona-internacional-de-blumenau-2027-88478"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2206",
+"name": "Hoka Speed Run 2027 Sao Paulo",
+"date": "2027-07-04",
+"end_date": null,
+"location": "São Paulo",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2206&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/hoka-speed-run-2027-sao-paulo-87617"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2225",
+"name": "Gold Coast Half Marathon",
+"date": "2027-07-04",
+"end_date": null,
+"location": "Gold Coast",
+"country": "Australia",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2225&lang=pt",
+"official_url": "https://goldcoastmarathon.com.au/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2267",
+"name": "42 Maratona Internacional de Porto Alegre",
+"date": "2027-07-05",
+"end_date": null,
+"location": "Rio de Janeiro",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"21 km",
+"42 km",
+"Kids"
+],
+"distances": [
+"21 km",
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2267&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/42-maratona-internacional-de-porto-alegre-2027-86759"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1999",
+"name": "IRONMAN 70.3 Vitoria-Gasteiz",
+"date": "2027-07-11",
+"end_date": null,
+"location": "Vitoria-Gasteiz",
+"country": "Espanha",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Half-Ironman 70.3"
+],
+"distances": [
+"Half-Ironman 70.3"
+],
+"url": "https://www.athleko.pt/event.php?id=1999&lang=pt",
+"official_url": "https://www.ironman.com/races/im703-vitoria"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2001",
+"name": "IRONMAN Vitoria-Gasteiz",
+"date": "2027-07-11",
+"end_date": null,
+"location": "Vitoria-Gasteiz",
+"country": "Espanha",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Ironman"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2001&lang=pt",
+"official_url": "https://www.ironman.com/races/im-vitoria"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2002",
+"name": "IRONMAN 70.3 Jonkoping",
+"date": "2027-07-11",
+"end_date": null,
+"location": "Jonkoping",
+"country": "Suécia",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Half-Ironman 70.3"
+],
+"distances": [
+"Half-Ironman 70.3"
+],
+"url": "https://www.athleko.pt/event.php?id=2002&lang=pt",
+"official_url": "https://www.ironman.com/races/im703-jonkoping"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2003",
+"name": "IRONMAN 70.3 Swansea",
+"date": "2027-07-11",
+"end_date": null,
+"location": "Swansea Bay, Wales",
+"country": "Reino Unido",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Half-Ironman 70.3"
+],
+"distances": [
+"Half-Ironman 70.3"
+],
+"url": "https://www.athleko.pt/event.php?id=2003&lang=pt",
+"official_url": "https://www.ironman.com/races/im703-swansea"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2167",
+"name": "Desafio ACDL by ElevoAve",
+"date": "2027-07-17",
+"end_date": null,
+"location": "Santo Tirso, Porto",
+"country": "Portugal",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"Gravel"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2167&lang=pt",
+"official_url": "https://desafioacdl.pt/pt"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2290",
+"name": "Ultramaratona dos Perdidos",
+"date": "2027-07-17",
+"end_date": null,
+"location": "Tijucas do Sul",
+"country": "Brasil",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Trail Curto",
+"Trail Longo",
+"Trail Médio",
+"Ultra-Trail"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=2290&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/ultramaratona-dos-perdidos-2027-88586?"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2201",
+"name": "2 Maratona Virtudes 3 Etapa Aguia Foco",
+"date": "2027-07-30",
+"end_date": null,
+"location": "Brasil (Virtual)",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Ultra"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km",
+"Ultra-Maratona"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2201&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/2-maratona-virtudes-3-etapa-aguia-foco-85344"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2203",
+"name": "1 Desafio Gladiador Run",
+"date": "2027-07-30",
+"end_date": null,
+"location": "Brasil (Virtual)",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2203&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/1-desafio-gladiador-run-85054"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2200",
+"name": "Maratona Internacional de Maceio",
+"date": "2027-07-31",
+"end_date": null,
+"location": "Maceió",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2200&lang=pt",
+"official_url": "https://maratonademaceio.com.br/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2358",
+"name": "Nouméa International Marathon",
+"date": "2027-08-05",
+"end_date": null,
+"location": "Noumea",
+"country": "Nova Caledônia",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2358&lang=pt",
+"official_url": "https://www.newcaledonia.travel/plan-your-trip/agenda/new-caledonia-international-marathon/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1102",
+"name": "Mountain do Fim do Mundo",
+"date": "2027-08-08",
+"end_date": null,
+"location": "Ushuaia",
+"country": "Argentina",
+"types": [
+"Trail"
+],
+"tags": [
+"Endurance",
+"Trail Curto",
+"Trail Longo",
+"Trail Médio"
+],
+"distances": [],
+"url": "https://www.athleko.pt/event.php?id=1102&lang=pt",
+"official_url": "https://mountaindo.com.br/trail-run/mountain-do-fim-do-mundo/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2299",
+"name": "Ironman 70.3 Rio de Janeiro",
+"date": "2027-08-08",
+"end_date": null,
+"location": "Rio de Janeiro",
+"country": "Brasil",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Half-Ironman 70.3"
+],
+"distances": [
+"Half-Ironman 70.3"
+],
+"url": "https://www.athleko.pt/event.php?id=2299&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/2027-nubank-ultravioleta-ironman-70-3-rio-de-janeiro-87853"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2106",
+"name": "Reykjavik Half & Marathon",
+"date": "2027-08-21",
+"end_date": null,
+"location": "Reykjavik",
+"country": "Islândia",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2106&lang=pt",
+"official_url": "https://www.rmi.is/en"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2234",
+"name": "Adidas Stockholm Half Marathon - Superhalfs Europe",
+"date": "2027-08-21",
+"end_date": null,
+"location": "Stockholm",
+"country": "Suécia",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2234&lang=pt",
+"official_url": ""
+},
+{
+"source": "athleko",
+"source_id": "athleko:2288",
+"name": "21K Buenos Aires",
+"date": "2027-08-22",
+"end_date": null,
+"location": "Buenos Aires",
+"country": "Argentina",
+"types": [
+"Estrada"
+],
+"tags": [
+"21 km"
+],
+"distances": [
+"21 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2288&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/21k-buenos-aires-2027-88853"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2141",
+"name": "TCS Sydney Marathon",
+"date": "2027-08-29",
+"end_date": null,
+"location": "Sydney",
+"country": "Austrália",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2141&lang=pt",
+"official_url": "https://www.tcssydneymarathon.com/marathon"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2198",
+"name": "Maratona de Vitoria",
+"date": "2027-08-29",
+"end_date": null,
+"location": "Vitória",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2198&lang=pt",
+"official_url": "https://maratonadevitoria.com.br/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2199",
+"name": "Maratona Internacional de Floripa Fibra",
+"date": "2027-08-29",
+"end_date": null,
+"location": "Florianópolis",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2199&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/maratona-internacional-de-floripa-fibra-2027-88278"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1974",
+"name": "Patagonian International Marathon",
+"date": "2027-09-04",
+"end_date": null,
+"location": "Patagonia",
+"country": "Chile",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"15 km",
+"21 km",
+"42 km"
+],
+"distances": [
+"10 km",
+"15 km",
+"21 km",
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1974&lang=pt",
+"official_url": "https://www.patagonianinternationalmarathon.com/en/registration-2027"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2336",
+"name": "Meia Maratona Guarda do Embau Banlek",
+"date": "2027-09-05",
+"end_date": null,
+"location": "Palhoça",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2336&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/meia-maratona-guarda-do-embau-banlek-2027-89001"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2130",
+"name": "Chișinău Half & Marathon 2027",
+"date": "2027-09-11",
+"end_date": null,
+"location": "Chișinău",
+"country": "Moldávia",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2130&lang=pt",
+"official_url": "https://marathon.md/en"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2287",
+"name": "Maratona de Buenos Aires",
+"date": "2027-09-19",
+"end_date": null,
+"location": "Buenos Aires",
+"country": "Argentina",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2287&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/maratona-de-buenos-aires-2027-88909"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2298",
+"name": "Ironman 70.3 São Paulo",
+"date": "2027-09-19",
+"end_date": null,
+"location": "São Paulo",
+"country": "Brasil",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Half-Ironman 70.3"
+],
+"distances": [
+"Half-Ironman 70.3"
+],
+"url": "https://www.athleko.pt/event.php?id=2298&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/2027-nubank-ultravioleta-ironman-70-3-sao-paulo-88393"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2356",
+"name": "Prishtina Marathon",
+"date": "2027-09-19",
+"end_date": null,
+"location": "Prishtina",
+"country": "Kosovo",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2356&lang=pt",
+"official_url": "https://prishtinamarathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2142",
+"name": "BMW BERLIN-MARATHON",
+"date": "2027-09-26",
+"end_date": null,
+"location": "Berlim",
+"country": "Alemanha",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2142&lang=pt",
+"official_url": "https://www.bmw-berlin-marathon.com/en/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2357",
+"name": "Tbilisi Marathon",
+"date": "2027-09-26",
+"end_date": null,
+"location": "Tbilisi",
+"country": "Geórgia",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2357&lang=pt",
+"official_url": "https://www.tbilisimarathon.ge/en"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2305",
+"name": "Jurere Marathon Hospital Sos Cardio",
+"date": "2027-10-09",
+"end_date": null,
+"location": "Florianópolis",
+"country": "Brasil",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2305&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/jurere-marathon-hospital-sos-cardio-2027-88792"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2143",
+"name": "Bank of America Chicago Marathon",
+"date": "2027-10-10",
+"end_date": null,
+"location": "Chicago",
+"country": "Estados Unidos",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2143&lang=pt",
+"official_url": "https://www.chicagomarathon.com/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2133",
+"name": "Great Zimbabwe Marathon",
+"date": "2027-10-18",
+"end_date": null,
+"location": "Masvingo",
+"country": "Zimbábue",
+"types": [
+"Estrada"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2133&lang=pt",
+"official_url": "https://greatzimbabwemarathon.co.zw/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2297",
+"name": "Ironman 70.3 Florianópolis",
+"date": "2027-10-24",
+"end_date": null,
+"location": "Florianópolis",
+"country": "Brasil",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Half-Ironman 70.3"
+],
+"distances": [
+"Half-Ironman 70.3"
+],
+"url": "https://www.athleko.pt/event.php?id=2297&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/2027-nubank-ultravioleta-ironman-70-3-florianopolis-88812"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2359",
+"name": "Erbil International Marathon",
+"date": "2027-10-29",
+"end_date": null,
+"location": "Arbil",
+"country": "Iraque",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"10 km",
+"15 km",
+"42 km",
+"Caminhada",
+"Kids"
+],
+"distances": [
+"10 km",
+"15 km",
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2359&lang=pt",
+"official_url": "https://erbilmarathon.krd/"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2144",
+"name": "TCS New York City Marathon",
+"date": "2027-11-07",
+"end_date": null,
+"location": "New York",
+"country": "Estados Unidos",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2144&lang=pt",
+"official_url": "https://www.nyrr.org/tcsnycmarathon"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2292",
+"name": "Hoka Speed Run 2027 Rio de Janeiro",
+"date": "2027-11-07",
+"end_date": null,
+"location": "Rio de Janeiro",
+"country": "Brasil",
+"types": [
+"Estrada"
+],
+"tags": [
+"15 km",
+"8 km"
+],
+"distances": [
+"15 km",
+"8 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2292&lang=pt",
+"official_url": "https://www.ticketsports.com.br/e/hoka-speed-run-2027-rio-de-janeiro-88918"
+},
+{
+"source": "athleko",
+"source_id": "athleko:2129",
+"name": "Cotonou International Half & Marathon",
+"date": "2027-12-04",
+"end_date": null,
+"location": "Cotonou",
+"country": "Benin",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"10 km",
+"21 km",
+"42 km",
+"5 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://www.athleko.pt/event.php?id=2129&lang=pt",
+"official_url": "https://www.cotonoumarathon.com/en"
+},
+{
+"source": "athleko",
+"source_id": "athleko:1992",
+"name": "IKEA Marathon",
+"date": "2027-12-15",
+"end_date": null,
+"location": "Croydon",
+"country": "Reino Unido",
+"types": [
+"Estrada"
+],
+"tags": [
+"42 km"
+],
+"distances": [
+"42 km"
+],
+"url": "https://www.athleko.pt/event.php?id=1992&lang=pt",
+"official_url": "https://sussextrailevents.com/"
+}
+]

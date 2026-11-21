@@ -1,0 +1,7056 @@
+[
+{
+"source": "racefinder",
+"source_id": "racefinder:74397",
+"name": "VI TRAIL DA ESCARPIADA",
+"date": "2026-11-21",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"10 km",
+"17 km",
+"31 km"
+],
+"url": "https://racefinder.pt/event/vi-trail-da-escarpiada/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86366",
+"name": "G.P. Atletismo Corrida da Batata Doce de Aljezur 2026",
+"date": "2026-11-21",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 5 km",
+"Kids"
+],
+"distances": [
+"5 km"
+],
+"url": "https://racefinder.pt/event/g-p-atletismo-corrida-da-batata-doce-de-aljezur-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86383",
+"name": "Castanhas a Correr",
+"date": "2026-11-21",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida de Estrada",
+"Kids"
+],
+"distances": [
+"4.5 km"
+],
+"url": "https://racefinder.pt/event/castanhas-a-correr/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:60242",
+"name": "Trail do Chícharo da Serra 2026",
+"date": "2026-11-20",
+"end_date": "2026-11-21",
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"10 km",
+"13 km",
+"19 km",
+"32 km"
+],
+"url": "https://racefinder.pt/event/trail-do-chicharo-da-serra-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:48538",
+"name": "Confluência Trail 2026",
+"date": "2026-11-21",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Kids",
+"Trail Run"
+],
+"distances": [
+"1.6 km",
+"10 km",
+"15 km",
+"25 km",
+"34 km"
+],
+"url": "https://racefinder.pt/event/confluencia-trail-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:71844",
+"name": "S. Silvestre – G.D. Prado",
+"date": "2026-11-21",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/s-silvestre-g-d-prado-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:54000",
+"name": "Meia Maratona Évora",
+"date": "2026-11-21",
+"end_date": "2026-11-22",
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Kids",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/meia-maratona-evora-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:88034",
+"name": "PASSEIO BTT – “ROTA DA GÁVEA”",
+"date": "2026-11-22",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"BTT",
+"Ciclismo"
+],
+"distances": [
+"25 km",
+"45 km"
+],
+"url": "https://racefinder.pt/event/passeio-btt-rota-da-gavea/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:65709",
+"name": "Sky RAce Montejunt inverno 2026",
+"date": "2026-11-22",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Corrida",
+"Sky Running"
+],
+"distances": [
+"12 km",
+"16 km",
+"26 km"
+],
+"url": "https://racefinder.pt/event/sky-race-montejunt-inverno-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:76946",
+"name": "III Rota das Lagoas 2026",
+"date": "2026-11-22",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Kids",
+"Trail Run"
+],
+"distances": [
+"10 km",
+"12 km",
+"20 km"
+],
+"url": "https://racefinder.pt/event/iii-rota-das-lagoas-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:81621",
+"name": "11.ª Corrida de São Martinho – Adriano Valente 2026",
+"date": "2026-11-22",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/11-a-corrida-de-sao-martinho-adriano-valente-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:59724",
+"name": "Trail Vila de S. Torcato",
+"date": "2026-11-22",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"12 km",
+"18 km",
+"26 km",
+"8 km"
+],
+"url": "https://racefinder.pt/event/trail-vila-de-s-torcato-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:31942",
+"name": "10º Trail Carreiros do Pastor Arrimalano",
+"date": "2026-11-21",
+"end_date": "2026-11-22",
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Kids",
+"Trail Run"
+],
+"distances": [
+"12 km",
+"20 km"
+],
+"url": "https://racefinder.pt/event/10o-trail-carreiros-do-pastor-arrimalano/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:60218",
+"name": "Europarque Bio Run",
+"date": "2026-11-22",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/europarque-bio-run-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:90020",
+"name": "Vilaverd Skyrace 2026",
+"date": "2026-11-22",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Sky Running",
+"Trail Run"
+],
+"distances": [
+"14 km",
+"23 km",
+"42 km",
+"6 km"
+],
+"url": "https://racefinder.pt/event/vilaverd-skyrace-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:70673",
+"name": "Sabrosa Trail por Terras de Magalhães",
+"date": "2026-11-22",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Corrida",
+"Trail Run"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/sabrosa-trail-por-terras-de-magalhaes-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:82253",
+"name": "Trail Lagos do Sabor",
+"date": "2026-11-22",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Kids",
+"Trail Run"
+],
+"distances": [
+"10 km",
+"20 km"
+],
+"url": "https://racefinder.pt/event/trail-lagos-do-sabor/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:90036",
+"name": "7.ª Maratona Zurich Donostia San Sebastián 2026",
+"date": "2026-11-22",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Maratona"
+],
+"distances": [
+"10 km",
+"42 km"
+],
+"url": "https://racefinder.pt/event/7-a-maratona-zurich-donostia-san-sebastian-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:64995",
+"name": "Trail do Trabulo 2026",
+"date": "2026-11-22",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"11 km",
+"15 km",
+"25 km"
+],
+"url": "https://racefinder.pt/event/trail-do-trabulo-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:57453",
+"name": "Trail e Caminhada Clube Trilheiros & Amigos",
+"date": "2026-11-22",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"0.5 km",
+"1.5 km",
+"15 km",
+"25 km",
+"9 km"
+],
+"url": "https://racefinder.pt/event/trail-e-caminhada-clube-trilheiros-amigos/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:90536",
+"name": "11ª Corrida de São Martinho",
+"date": "2026-11-22",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/11a-corrida-de-sao-martinho/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:60932",
+"name": "Corrida das Empresas",
+"date": "2026-11-22",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/corrida-das-empresas/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:74135",
+"name": "Rota Al-Buhera XI",
+"date": "2026-11-22",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"BTT",
+"Ciclismo",
+"E-bike"
+],
+"distances": [
+"25 km",
+"40 km",
+"60 km"
+],
+"url": "https://racefinder.pt/event/rota-al-buhera-xi/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:49133",
+"name": "ALUT – Algarviana Ultra Trail 2026",
+"date": "2026-11-26",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Corrida",
+"Ultra Maratonas"
+],
+"distances": [
+"305 km"
+],
+"url": "https://racefinder.pt/event/alut-algarviana-ultra-trail-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:28007",
+"name": "Gerês Extreme Marathon",
+"date": "2026-11-27",
+"end_date": "2026-11-29",
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida de Estrada",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"12 km",
+"14 km",
+"21 km",
+"42 km",
+"90 km"
+],
+"url": "https://racefinder.pt/event/geres-extreme-marathon-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:82236",
+"name": "São Silvestre de Castelões",
+"date": "2026-11-28",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-de-casteloes-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:90048",
+"name": "VI Trail Mineiro Santa Bárbara 2026",
+"date": "2026-11-28",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"16 km",
+"42 km"
+],
+"url": "https://racefinder.pt/event/vi-trail-mineiro-santa-barbara-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:78588",
+"name": "Corrida Pela Diabetes 2026",
+"date": "2026-11-28",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/corrida-pela-diabetes-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:60876",
+"name": "São Silvestre Cidade Palco de Natal",
+"date": "2026-11-28",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-cidade-palco-de-natal-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:84605",
+"name": "38.º Grande Prémio de Atletismo de Mendiga 2026",
+"date": "2026-11-29",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida de Estrada",
+"Kids"
+],
+"distances": [
+"10 km",
+"15 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/38-o-grande-premio-de-atletismo-de-mendiga-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86396",
+"name": "Campeonato Distrital de Meia Maratona",
+"date": "2026-11-29",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Meia Maratona"
+],
+"distances": [
+"21 km"
+],
+"url": "https://racefinder.pt/event/campeonato-distrital-de-meia-maratona/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:54667",
+"name": "Trilhos do Endovélico IV Capitulo",
+"date": "2026-11-29",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Corrida",
+"Trail Run"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/trilhos-do-endovelico-iv-capitulo/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:47419",
+"name": "GENERALI TRANQUILIDADE MEIAMARATONA DOS DESCOBRIMENTOS",
+"date": "2026-11-29",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Kids",
+"Meia Maratona"
+],
+"distances": [
+"0.5 km",
+"10 km",
+"21 km",
+"4 km"
+],
+"url": "https://racefinder.pt/event/generali-tranquilidade-meiamaratona-dos-descobrimentos/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:78189",
+"name": "Corrida dos Milagres",
+"date": "2026-11-29",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/corrida-dos-milagres-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86404",
+"name": "XXXII Circuito do Imaculado Coração de Maria",
+"date": "2026-11-29",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida de Estrada",
+"Kids"
+],
+"distances": [
+"3.8 km"
+],
+"url": "https://racefinder.pt/event/xxxii-circuito-do-imaculado-coracao-de-maria/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:54717",
+"name": "Trail da Cárcoda São Pedro do Sul",
+"date": "2026-11-29",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"10 km",
+"19 km"
+],
+"url": "https://racefinder.pt/event/trail-da-carcoda-sao-pedro-do-sul/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:83541",
+"name": "12.ª Rota da Batata Doce 2026",
+"date": "2026-11-29",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"BTT",
+"Ciclismo",
+"E-bike"
+],
+"distances": [
+"40 km",
+"60 km"
+],
+"url": "https://racefinder.pt/event/12-a-rota-da-batata-doce-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:78199",
+"name": "Meia Maratona de Pombal Full Protein",
+"date": "2026-11-29",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida de Estrada",
+"Meia Maratona"
+],
+"distances": [
+"21 km",
+"8 km"
+],
+"url": "https://racefinder.pt/event/meia-maratona-de-pombal-full-protein/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:67033",
+"name": "XVI Trilhos de Casaínhos",
+"date": "2026-11-29",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"10 km",
+"18 km"
+],
+"url": "https://racefinder.pt/event/xvi-trilhos-de-casainhos/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:83558",
+"name": "XVII Rota das Adegas BTT 2026",
+"date": "2026-11-29",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"BTT",
+"Ciclismo"
+],
+"distances": [
+"35 km"
+],
+"url": "https://racefinder.pt/event/xvii-rota-das-adegas-btt-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:79362",
+"name": "31º Cross dos Cavaleiros de Vale Santiago / 17º Percurso dos Cavaleiros de Vale Santiago",
+"date": "2026-11-29",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corta-Mato",
+"Kids"
+],
+"distances": [
+"10 km",
+"5 km",
+"5.45 km",
+"7.45 km"
+],
+"url": "https://racefinder.pt/event/31o-cross-dos-cavaleiros-de-vale-santiago-17o-percurso-dos-cavaleiros-de-vale-santiago/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87297",
+"name": "Trail Solidário São Gonçalo 2026",
+"date": "2026-11-29",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"15 km",
+"8 km"
+],
+"url": "https://racefinder.pt/event/trail-solidario-sao-goncalo-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:90066",
+"name": "Maratona e Meia Maratona por Estafetas – Vinyols 2026",
+"date": "2026-11-29",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"21 km",
+"42 km"
+],
+"url": "https://racefinder.pt/event/maratona-e-meia-maratona-por-estafetas-vinyols-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:74230",
+"name": "10.º Trail Quinta das Arcas",
+"date": "2026-11-29",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"12 km",
+"20 km"
+],
+"url": "https://racefinder.pt/event/10-o-trail-quinta-das-arcas/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87469",
+"name": "6ª Corrida dos Restauradores",
+"date": "2026-11-30",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/6a-corrida-dos-restauradores/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:54027",
+"name": "Corrida de Natal de Cascais",
+"date": "2026-12-01",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 5 km"
+],
+"distances": [
+"5 km"
+],
+"url": "https://racefinder.pt/event/corrida-de-natal-de-cascais-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:74606",
+"name": "São Silvestre Cidade de Ermesinde 2026",
+"date": "2026-12-01",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-cidade-de-ermesinde-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:74816",
+"name": "5º TREINO TRAIL CONVÍVIO TRILHO DOS CÁGADOS VCO",
+"date": "2026-12-01",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/5o-treino-trail-convivio-trilho-dos-cagados-vco/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:65215",
+"name": "6ª Edição Barreiro São Silvestre 2026",
+"date": "2026-12-01",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"6 km"
+],
+"url": "https://racefinder.pt/event/6a-edicao-barreiro-sao-silvestre-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:74978",
+"name": "Cascais Corrida de Natal",
+"date": "2026-12-01",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 5 km"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/cascais-corrida-de-natal/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:85895",
+"name": "2.º Carrossel do Planalto das Cesaredas 2026",
+"date": "2026-12-01",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Kids",
+"Trail Run"
+],
+"distances": [
+"10 km",
+"13 km",
+"26 km"
+],
+"url": "https://racefinder.pt/event/2-o-carrossel-do-planalto-das-cesaredas-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:76879",
+"name": "X Trail “Este Românico” 2026",
+"date": "2026-12-01",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"11 km",
+"16 km",
+"8 km"
+],
+"url": "https://racefinder.pt/event/x-trail-este-romanico-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:77885",
+"name": "TRILHO DO VINHO DE TALHA",
+"date": "2026-12-01",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"10 km",
+"20 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/trilho-do-vinho-de-talha/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:67420",
+"name": "PROENÇA CROSS TRAIL 2026",
+"date": "2026-12-04",
+"end_date": "2026-12-05",
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Corrida",
+"Trail Run",
+"Ultra Maratonas"
+],
+"distances": [
+"14 km",
+"25 km",
+"49 km"
+],
+"url": "https://racefinder.pt/event/proenca-cross-trail-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:43182",
+"name": "EPIC AZORES 2026",
+"date": "2026-12-04",
+"end_date": "2026-12-05",
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Kids",
+"Trail Run",
+"Ultra Maratonas"
+],
+"distances": [
+"100 km",
+"15 km",
+"160 km",
+"3 km",
+"30 km",
+"60 km"
+],
+"url": "https://racefinder.pt/event/epic-azores-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:71657",
+"name": "São Silvestre de Fátima 2026",
+"date": "2026-12-05",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Corrida 5 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-de-fatima-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:63497",
+"name": "São Silvestre de Vila Real de Sto. António – Monte Gordo 2026",
+"date": "2026-12-05",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Jovens"
+],
+"distances": [
+"10 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-de-vila-real-de-sto-antonio-monte-gordo-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:82021",
+"name": "SÃO SILVESTRE DE FORNOS DE ALGODRES",
+"date": "2026-12-05",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"6 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-de-fornos-de-algodres/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:70616",
+"name": "SPT Urban Night Trail – Alenquer Presépio de Portugal",
+"date": "2026-12-05",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"13 km",
+"8 km"
+],
+"url": "https://racefinder.pt/event/spt-urban-night-trail-alenquer-presepio-de-portugal/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:81634",
+"name": "29.ª São Silvestre de Santo Tirso 2026",
+"date": "2026-12-05",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida 5 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"3.2 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/29-a-sao-silvestre-de-santo-tirso-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:83528",
+"name": "SÃO SILVESTRE DE MELIDES – EDIÇÃO 2026",
+"date": "2026-12-05",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-de-melides-edicao-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87448",
+"name": "11ª São Silvestre Idanha-a-Nova",
+"date": "2026-12-05",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Corrida 5 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"5 km",
+"700 m"
+],
+"url": "https://racefinder.pt/event/11a-sao-silvestre-idanha-a-nova/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:73595",
+"name": "TRAIL DA AMIZADE 2026",
+"date": "2026-12-05",
+"end_date": "2026-12-06",
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Kids",
+"Trail Run",
+"Ultra Maratonas"
+],
+"distances": [
+"12 km",
+"19 km",
+"32 km",
+"50 km",
+"82 km"
+],
+"url": "https://racefinder.pt/event/trail-da-amizade-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:78913",
+"name": "14º X-Mas Night Trail",
+"date": "2026-12-05",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"10 km",
+"12 km",
+"19 km"
+],
+"url": "https://racefinder.pt/event/14o-x-mas-night-trail/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:70928",
+"name": "São Silvestre Cortegaça/Esmoriz",
+"date": "2026-12-05",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida 5 km",
+"Corrida de Estrada",
+"Jovens"
+],
+"distances": [
+"10 km",
+"10 km + 5 km",
+"4.5 km",
+"400 m",
+"5 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-cortegaca-esmoriz/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:67063",
+"name": "São Silvestre de Barcelos Cli’Pulsar 2026",
+"date": "2026-12-05",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-de-barcelos-clipulsar-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:51915",
+"name": "5ª Taça de Portugal Ciclocross",
+"date": "2026-12-05",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"BTT",
+"Ciclismo"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/5a-taca-de-portugal-ciclocross/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:81683",
+"name": "18.º Trail do Sarilho / Cantanhede 2026",
+"date": "2026-12-06",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"11 km",
+"15 km",
+"24 km"
+],
+"url": "https://racefinder.pt/event/18-o-trail-do-sarilho-cantanhede-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:57652",
+"name": "Maratona do Algarve 2026",
+"date": "2026-12-06",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Maratona"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/maratona-doalgarve2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86161",
+"name": "3.º Passeio de BTT dos Casais da Serra 2026",
+"date": "2026-12-06",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"BTT",
+"Ciclismo"
+],
+"distances": [
+"20 km",
+"30 km"
+],
+"url": "https://racefinder.pt/event/3-o-passeio-de-btt-dos-casais-da-serra-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:76847",
+"name": "Maratona BTT Canha 2026",
+"date": "2026-12-06",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"BTT",
+"Ciclismo",
+"E-bike"
+],
+"distances": [
+"35 km",
+"60 km"
+],
+"url": "https://racefinder.pt/event/maratona-btt-canha-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:90078",
+"name": "Maratona Valencia Trinidad Alfonso Zurich",
+"date": "2026-12-06",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Maratona"
+],
+"distances": [
+"42 km"
+],
+"url": "https://racefinder.pt/event/maratona-valencia-trinidad-alfonso-zurich/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:51921",
+"name": "6ª Taça de Portugal Ciclocross",
+"date": "2026-12-06",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"BTT",
+"Ciclismo"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/6a-taca-de-portugal-ciclocross/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:71014",
+"name": "9ª Edição do Pinga Trail",
+"date": "2026-12-06",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"10 km",
+"16 km",
+"23 km"
+],
+"url": "https://racefinder.pt/event/9a-edicao-do-pinga-trail/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:72762",
+"name": "1º Trail Trilhos da Lagoa de Obidos",
+"date": "2026-12-06",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"12 km",
+"22 km",
+"8 km"
+],
+"url": "https://racefinder.pt/event/1o-trail-trilhos-da-lagoa-de-obidos/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:76862",
+"name": "VIII Trail de Elvas – Património Mundial 2026",
+"date": "2026-12-06",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/viii-trail-de-elvas-patrimonio-mundial-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:79456",
+"name": "VIII Trail Elvas",
+"date": "2026-12-06",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/viii-trail-elvas/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87417",
+"name": "Trail Solidário do 25",
+"date": "2026-12-08",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Kids",
+"Trail Run"
+],
+"distances": [
+"10 km",
+"15 km",
+"2 km"
+],
+"url": "https://racefinder.pt/event/trail-solidario-do-25/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:79068",
+"name": "São Silvestre do Oeste 2026",
+"date": "2026-12-08",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida de Estrada"
+],
+"distances": [
+"10.1 km",
+"5.78 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-do-oeste-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87432",
+"name": "GP Atletismo Nª Srª da Conceição",
+"date": "2026-12-08",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"8 km"
+],
+"url": "https://racefinder.pt/event/gp-atletismo-na-sra-da-conceicao/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:82265",
+"name": "8ª São Silvestre de Seide",
+"date": "2026-12-08",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida de Estrada",
+"Kids"
+],
+"distances": [
+"5 km",
+"8 km"
+],
+"url": "https://racefinder.pt/event/8a-sao-silvestre-de-seide/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87275",
+"name": "São Silvestre do Oeste 2026 – Santa Cruz",
+"date": "2026-12-08",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida de Estrada",
+"Kids"
+],
+"distances": [
+"10.1 km",
+"5.78 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-do-oeste-2026-santa-cruz/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87491",
+"name": "69ª Volta a Paranhos",
+"date": "2026-12-08",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"4 km"
+],
+"url": "https://racefinder.pt/event/69a-volta-a-paranhos/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86646",
+"name": "Corrida de Natal – Santa Cruz das Flores 2026",
+"date": "2026-12-08",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida de Estrada",
+"Kids"
+],
+"distances": [
+"1.5 km",
+"3 km",
+"6 km"
+],
+"url": "https://racefinder.pt/event/corrida-de-natal-santa-cruz-das-flores-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:85913",
+"name": "35.º Grande Prémio de Atletismo A-do-Barbas 2026",
+"date": "2026-12-08",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"8 km"
+],
+"url": "https://racefinder.pt/event/35-o-grande-premio-de-atletismo-a-do-barbas-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:84642",
+"name": "I Caminhada de São Silvestre – Carvalhal de Turquel 2026",
+"date": "2026-12-11",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida"
+],
+"distances": [
+"7 km"
+],
+"url": "https://racefinder.pt/event/i-caminhada-de-sao-silvestre-carvalhal-de-turquel-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:81997",
+"name": "12ª São Silvestre de Vendas Novas",
+"date": "2026-12-05",
+"end_date": "2026-12-11",
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida de Estrada"
+],
+"distances": [
+"10 km",
+"4 km",
+"5 km",
+"7 km"
+],
+"url": "https://racefinder.pt/event/12a-sao-silvestre-de-vendas-novas/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:68090",
+"name": "X SÃO SILVESTRE ALMADA",
+"date": "2026-12-12",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida 5 km",
+"Jovens"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/x-sao-silvestre-almada/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:71504",
+"name": "13ª SÃO SILVESTRE DA BATALHA",
+"date": "2026-12-12",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Jovens",
+"Kids"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/13a-sao-silvestre-da-batalha/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:85977",
+"name": "I São Silvestre de Tarouca 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"5 km",
+"9.8 km"
+],
+"url": "https://racefinder.pt/event/i-sao-silvestre-de-tarouca-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:83627",
+"name": "Run For All – São Silvestre de Caminha 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/run-for-all-sao-silvestre-de-caminha-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:59116",
+"name": "São Silvestre de Almeirim",
+"date": "2026-12-12",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-de-almeirim-3/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:85990",
+"name": "10.ª São Silvestre Gondomar 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"4 km",
+"500 m"
+],
+"url": "https://racefinder.pt/event/10-a-sao-silvestre-gondomar-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:75073",
+"name": "Vª São Silvestre de Oliveira de Frades",
+"date": "2026-12-12",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://racefinder.pt/event/va-sao-silvestre-de-oliveira-de-frades/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:73554",
+"name": "3ª São Silvestre de Vila Nova de Santo André",
+"date": "2026-12-12",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/3a-sao-silvestre-de-vila-nova-de-santo-andre/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:78173",
+"name": "Trail da Rabanada",
+"date": "2026-12-06",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"12 km",
+"21 km",
+"8 km"
+],
+"url": "https://racefinder.pt/event/trail-da-rabanada-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:73567",
+"name": "DESAFIO PICOS DO AÇOR 2026",
+"date": "2026-12-12",
+"end_date": "2026-12-13",
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Kids",
+"Trail Run"
+],
+"distances": [
+"13 km",
+"18 km",
+"32 km"
+],
+"url": "https://racefinder.pt/event/desafio-picos-do-acor-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:79314",
+"name": "São Silvestre de Castelo de Paiva 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-de-castelo-de-paiva-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:32568",
+"name": "ROTA NATALÍCIA",
+"date": "2026-12-12",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"BTT",
+"Ciclismo"
+],
+"distances": [
+"45 km",
+"60 km"
+],
+"url": "https://racefinder.pt/event/rota-natalicia/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86626",
+"name": "3ª Corrida São Silvestre Vila Flor",
+"date": "2026-12-12",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Kids"
+],
+"distances": [
+"10 km"
+],
+"url": "https://racefinder.pt/event/3a-corrida-sao-silvestre-vila-flor/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:79341",
+"name": "São Silvestre Casa Benfica Almodôvar",
+"date": "2026-12-12",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida de Estrada"
+],
+"distances": [
+"4.8 km",
+"9.6 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-casa-benfica-almodovar/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:82282",
+"name": "4.ª Crediversos São Silvestre de Vermoim",
+"date": "2026-12-12",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/4-a-crediversos-sao-silvestre-de-vermoim/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86638",
+"name": "6ª São Silvestre – Reguengos de Monsaraz 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://racefinder.pt/event/6a-sao-silvestre-reguengos-de-monsaraz-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:60863",
+"name": "Remax White São Silvestre de Coimbra",
+"date": "2026-12-12",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/remax-white-sao-silvestre-de-coimbra-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:70974",
+"name": "TRAIL NOTURNO DE VALONGO 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"13 km",
+"21 km",
+"9 km"
+],
+"url": "https://racefinder.pt/event/trail-noturno-de-valongo-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:85873",
+"name": "11.ª São Silvestre Solidária Constância – Brigada Mecanizada 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"3 km",
+"7 km"
+],
+"url": "https://racefinder.pt/event/11-a-sao-silvestre-solidaria-constancia-brigada-mecanizada-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86183",
+"name": "XIV Trail Noturno do Ludens – Trail Pela Vida 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"12 km"
+],
+"url": "https://racefinder.pt/event/xiv-trail-noturno-do-ludens-trail-pela-vida-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:90087",
+"name": "IV Maratona Dany Sport Corralejo Grandes Playas 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Corrida 5 km",
+"Kids",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/iv-maratona-dany-sport-corralejo-grandes-playas-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:77840",
+"name": "VI Corrida São Silvestre de Alcochete",
+"date": "2026-12-12",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida 5 km",
+"Kids"
+],
+"distances": [
+"0.4 km",
+"0.7 km",
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/vi-corrida-sao-silvestre-de-alcochete/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:72823",
+"name": "6º São Silvestre Vitor Baptista",
+"date": "2026-12-12",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida de Estrada",
+"Jovens"
+],
+"distances": [
+"10 km",
+"6 km"
+],
+"url": "https://racefinder.pt/event/6o-sao-silvestre-vitor-baptista/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:90108",
+"name": "VIII Corrida Trail Berrea 2026",
+"date": "2026-12-12",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"13 km",
+"23 km",
+"42 km",
+"7 km"
+],
+"url": "https://racefinder.pt/event/viii-corrida-trail-berrea-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:90129",
+"name": "2.ª Maratona Internacional Elche-Alicante 2026",
+"date": "2026-12-13",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Maratona"
+],
+"distances": [
+"42 km"
+],
+"url": "https://racefinder.pt/event/2-a-maratona-internacional-elche-alicante-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:62983",
+"name": "São Silvestre de Arrifana",
+"date": "2026-12-13",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-de-arrifana-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:13694",
+"name": "3º Trail Winter Challenge S.A. – Vila Galé",
+"date": "2026-12-13",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"10 km",
+"12 km",
+"20 km"
+],
+"url": "https://racefinder.pt/event/3o-desafio-de-trail-de-inverno-s-a-vila-gale/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:70679",
+"name": "São Silvestre El Corte Inglés 2026",
+"date": "2026-12-13",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Jovens"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-el-corte-ingles-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86417",
+"name": "Corrida de Natal com Zins",
+"date": "2026-12-13",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida de Estrada",
+"Kids"
+],
+"distances": [
+"1 km",
+"9 km"
+],
+"url": "https://racefinder.pt/event/corrida-de-natal-com-zins/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:74103",
+"name": "VII TRAIL DO FALCÃO REAL",
+"date": "2026-12-13",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Kids",
+"Trail Run"
+],
+"distances": [
+"10 km",
+"17 km",
+"32 km"
+],
+"url": "https://racefinder.pt/event/vii-trail-do-falcao-real/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:77826",
+"name": "III São Silvestre da Guarda | 48.º Grande Prémio de Atletismo da Guarda",
+"date": "2026-12-13",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida de Estrada",
+"Kids"
+],
+"distances": [
+"3 km",
+"9 km"
+],
+"url": "https://racefinder.pt/event/iii-sao-silvestre-da-guarda-48-o-grande-premio-de-atletismo-da-guarda/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:58832",
+"name": "CORRIDA SÃO SILVESTRE DA GOLEGÃ",
+"date": "2026-12-18",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/corrida-sao-silvestre-da-golega/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:78645",
+"name": "VIII São Silvestre Baía do Seixal 2026",
+"date": "2026-12-19",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Kids"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/viii-sao-silvestre-baia-do-seixal-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87386",
+"name": "CHERRY WINTER RUN",
+"date": "2026-12-19",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida 5 km",
+"Kids"
+],
+"distances": [
+"1.6 km",
+"10 km",
+"300 m",
+"5 km"
+],
+"url": "https://racefinder.pt/event/cherry-winter-run/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:75060",
+"name": "SÃO SILVESTRE MANUEL DOS SANTOS ALMEIDA 2026",
+"date": "2026-12-19",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-manuel-dos-santos-almeida-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87593",
+"name": "São Silvestre de Lourosa",
+"date": "2026-12-19",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida 5 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-de-lourosa-3/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:79057",
+"name": "São Silvestre do Algarve 2026",
+"date": "2026-12-19",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida de Estrada"
+],
+"distances": [
+"10.7 km",
+"5.8 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-do-algarve-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86613",
+"name": "Corrida de São Silvestre – Lamego",
+"date": "2026-12-19",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/corrida-de-sao-silvestre-lamego/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:79328",
+"name": "5ª SÃO SILVESTRE UFESTREMOZ",
+"date": "2026-12-19",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/5a-sao-silvestre-ufestremoz/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86429",
+"name": "2ª São Silvestre de Guimarães",
+"date": "2026-12-19",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"4 km"
+],
+"url": "https://racefinder.pt/event/2a-sao-silvestre-de-guimaraes/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:78937",
+"name": "Corvus Trail Branco Gaspar 2026",
+"date": "2026-12-19",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Kids",
+"Trail Run"
+],
+"distances": [
+"1 km",
+"10 km",
+"18 km",
+"31 km"
+],
+"url": "https://racefinder.pt/event/corvus-trail-branco-gaspar-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:74086",
+"name": "DECATHLON São Silvestre Montijo",
+"date": "2026-12-19",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Jovens"
+],
+"distances": [
+"0.5 km",
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/decathlon-sao-silvestre-montijo/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:65593",
+"name": "São Silvestre de Lourosa",
+"date": "2026-12-19",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-de-lourosa-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86660",
+"name": "III Corrida São Silvestre – B.V. Sernancelhe",
+"date": "2026-12-19",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/iii-corrida-sao-silvestre-b-v-sernancelhe/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:79004",
+"name": "CENTRAUTO – São Silvestre | CAMARNEIRA",
+"date": "2026-12-19",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/centrauto-sao-silvestre-camarneira/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:83612",
+"name": "São Silvestre Vila Nova de Cerveira 2026",
+"date": "2026-12-19",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-vila-nova-de-cerveira-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:90141",
+"name": "X Maratona Clandestina 2026",
+"date": "2026-12-20",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 5 km",
+"Corrida de Estrada",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"10.5 km",
+"15.5 km",
+"21 km",
+"26 km",
+"31.5 km",
+"36.5 km",
+"42 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/x-maratona-clandestina-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:74433",
+"name": "2.ª São Silvestre de Leiria",
+"date": "2026-12-20",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/2-a-sao-silvestre-de-leiria/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:78155",
+"name": "Continental Grande Prémio de Natal",
+"date": "2026-12-20",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Kids"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/continental-grande-premio-de-natal-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87243",
+"name": "São Silvestre de Mortágua 2026",
+"date": "2026-12-20",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida 5 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-de-mortagua-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:78428",
+"name": "Amarante Xmas Trail 2026",
+"date": "2026-12-20",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"12 km",
+"15 km",
+"30 km"
+],
+"url": "https://racefinder.pt/event/amarante-xmas-trail-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:81702",
+"name": "2.º Kiaius Sky Race 2026",
+"date": "2026-12-20",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Corrida",
+"Sky Running"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/2-o-kiaius-sky-race-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:74991",
+"name": "Carcavelos X-Mas Trail",
+"date": "2026-12-20",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/carcavelos-x-mas-trail/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:83194",
+"name": "São Silvestre do Porto 2026",
+"date": "2026-12-20",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-do-porto-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87362",
+"name": "São Silvestre “Vila Madeiro” Penamacor",
+"date": "2026-12-23",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida de Estrada",
+"Kids"
+],
+"distances": [
+"8.6 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-vila-madeiro-penamacor-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:78881",
+"name": "São Silvestre de Famalicão",
+"date": "2026-12-23",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-de-famalicao-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86445",
+"name": "2ª São Silvestre de Vizela",
+"date": "2026-12-23",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida de Estrada"
+],
+"distances": [
+"8 km"
+],
+"url": "https://racefinder.pt/event/2a-sao-silvestre-de-vizela/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:79389",
+"name": "São Silvestre “Vila Madeiro” Penamacor",
+"date": "2026-12-23",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida de Estrada",
+"Kids"
+],
+"distances": [
+"1.609 km",
+"400 m",
+"8.6 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-vila-madeiro-penamacor/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:75047",
+"name": "Crediversos 13ª Corrida de S. Silvestre de Viana do Castelo",
+"date": "2026-12-26",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/crediversos-13a-corrida-de-s-silvestre-de-viana-do-castelo/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87581",
+"name": "São Silvestre Jobra / Campeonato Regional Estrada",
+"date": "2026-12-26",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Kids"
+],
+"distances": [
+"10 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-jobra-campeonato-regional-estrada/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:83207",
+"name": "São Silvestre de Amares",
+"date": "2026-12-26",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida de Estrada",
+"Kids"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/sao-silvestre-de-amares-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:78674",
+"name": "São Silvestre Mirandela 2026",
+"date": "2026-12-26",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-mirandela-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:83223",
+"name": "São Silvestre Jobra/Vila da Branca",
+"date": "2026-12-26",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Kids"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/sao-silvestre-jobra-vila-da-branca-3/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:90171",
+"name": "10K e 3ª Maratona Trail Majadahonda 2026",
+"date": "2026-12-26",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"10 km",
+"21 km",
+"31 km",
+"42 km"
+],
+"url": "https://racefinder.pt/event/10k-e-3a-maratona-trail-majadahonda-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86575",
+"name": "São Silvestre de Beja 2026",
+"date": "2026-12-26",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida de Estrada",
+"Kids"
+],
+"distances": [
+"10 km",
+"5 km",
+"6.6 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-de-beja-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86597",
+"name": "4ª São Silvestre Cocheiros & Comp.ª",
+"date": "2026-12-26",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/4a-sao-silvestre-cocheiros-comp-a/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:69291",
+"name": "5ª São Silvestre Praia da Tocha",
+"date": "2026-12-26",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida em Cadeira de Rodas"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/5a-sao-silvestre-praia-da-tocha/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:73762",
+"name": "São Silvestre Jobra/Vila da Branca",
+"date": "2026-12-26",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Jovens"
+],
+"distances": [
+"10 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-jobra-vila-da-branca-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:77813",
+"name": "2ª São Silvestre de Vila Nova de Tazem",
+"date": "2026-12-26",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"8 km"
+],
+"url": "https://racefinder.pt/event/2a-sao-silvestre-de-vila-nova-de-tazem/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:88023",
+"name": "Crediversos 10ª Corrida de S. Silvestre KIDS de Viana do Castelo",
+"date": "2026-12-26",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Kids"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/crediversos-10a-corrida-de-s-silvestre-kids-de-viana-do-castelo/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:54020",
+"name": "São Silvestre de Lisboa",
+"date": "2026-12-26",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-de-lisboa/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:74420",
+"name": "1.ª CORRIDA SÃO SILVESTRE DE CAXARIAS",
+"date": "2026-12-27",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/1-a-corrida-sao-silvestre-de-caxarias/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:83235",
+"name": "S. Silvestre Braga 2026",
+"date": "2026-12-27",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5.7 km"
+],
+"url": "https://racefinder.pt/event/s-silvestre-braga-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:88012",
+"name": "O Natal Passa a Correr – CVP Frazão",
+"date": "2026-12-27",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"14 km",
+"9 km"
+],
+"url": "https://racefinder.pt/event/o-natal-passa-a-correr-cvp-frazao-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:72985",
+"name": "7º Trail Cabeça Aldeia Natal",
+"date": "2026-12-27",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"15 km"
+],
+"url": "https://racefinder.pt/event/7o-trail-cabeca-aldeia-natal/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86219",
+"name": "67.ª Volta à Cidade do Funchal 2026",
+"date": "2026-12-28",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida de Estrada",
+"Corrida em Cadeira de Rodas",
+"Kids"
+],
+"distances": [
+"2.35 km",
+"5.85 km"
+],
+"url": "https://racefinder.pt/event/67-a-volta-a-cidade-do-funchal-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:73092",
+"name": "São Silvestre dos Olivais",
+"date": "2026-12-30",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Jovens"
+],
+"distances": [
+"10 km",
+"4 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-dos-olivais/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87504",
+"name": "São Silvestre dos Olivais 2026",
+"date": "2026-12-30",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida em Cadeira de Rodas",
+"Kids"
+],
+"distances": [
+"10 km",
+"4 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-dos-olivais-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87996",
+"name": "Crediversos 4º São silvestre de Ribeirão",
+"date": "2026-12-30",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"500 m",
+"800 m"
+],
+"url": "https://racefinder.pt/event/crediversos-4o-sao-silvestre-de-ribeirao/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87559",
+"name": "São Silvestre de Sousel",
+"date": "2026-12-30",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-de-sousel/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:83640",
+"name": "X Free Trail Águias de Alvelos | Réveillon 2026",
+"date": "2026-12-31",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/x-free-trail-aguias-de-alvelos-reveillon-2026/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:54038",
+"name": "São Silvestre da Amadora",
+"date": "2026-12-31",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Jovens"
+],
+"distances": [
+"10 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-da-amadora-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:71692",
+"name": "São Silvestre de Tondela 2027",
+"date": "2027-01-02",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-de-tondela-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86536",
+"name": "2ª Corrida dos Reis",
+"date": "2027-01-03",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 5 km",
+"Corrida de Estrada",
+"Kids"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/2a-corrida-dos-reis/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:84008",
+"name": "Corrida dos Reis – Marinhais 2027",
+"date": "2027-01-03",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 5 km",
+"Corrida de Estrada",
+"Kids"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/corrida-dos-reis-marinhais-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:64550",
+"name": "Vulcan Trail 2027",
+"date": "2027-01-03",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"12 km",
+"20 km"
+],
+"url": "https://racefinder.pt/event/vulcan-trail-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:71307",
+"name": "São Silvestre de Espinho",
+"date": "2027-01-03",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/sao-silvestre-de-espinho-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:78956",
+"name": "I CORRIDA DOS REIS – VILA DE PORTO DE MÓS",
+"date": "2027-01-09",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"6 km"
+],
+"url": "https://racefinder.pt/event/i-corrida-dos-reis-vila-de-porto-de-mos/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:65659",
+"name": "VOUGA TRAIL 2027",
+"date": "2027-01-08",
+"end_date": "2027-01-10",
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Kids",
+"Trail Run",
+"Uphill"
+],
+"distances": [
+"12 km",
+"14 km",
+"20 km",
+"38 km",
+"5 km",
+"55 km"
+],
+"url": "https://racefinder.pt/event/vouga-trail-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:62432",
+"name": "ARENA SHOPPING MEIA MARATONA DE TORRES VEDRAS",
+"date": "2027-01-10",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Kids",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/arena-shopping-meia-maratona-de-torres-vedras/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:78132",
+"name": "Arena Shopping Meia Maratona Torres Vedras",
+"date": "2027-01-10",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Kids",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/arena-shopping-meia-maratona-torres-vedras/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:68490",
+"name": "8ª Corrida dos Reis – Bênção do Atleta",
+"date": "2027-01-10",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Jovens"
+],
+"distances": [
+"10 km",
+"7 km"
+],
+"url": "https://racefinder.pt/event/8a-corrida-dos-reis-bencao-do-atleta/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:74848",
+"name": "VIII GRANDE PRÉMIO PENICHE A CORRER",
+"date": "2027-01-10",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Kids"
+],
+"distances": [
+"0.5 km",
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/viii-grande-premio-peniche-a-correr/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:83567",
+"name": "Passeio BTT de Inverno 2027",
+"date": "2027-01-10",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"BTT",
+"Ciclismo"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/passeio-btt-de-inverno-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87309",
+"name": "XXII Passeio BTT Trilhos de Pontével",
+"date": "2027-01-10",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"BTT",
+"Ciclismo",
+"E-bike",
+"Gravel"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/xxii-passeio-btt-trilhos-de-pontevel/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:90547",
+"name": "5.º Trail Trilhos de São Martinho 2027",
+"date": "2027-01-10",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"12 km",
+"19 km",
+"8 km"
+],
+"url": "https://racefinder.pt/event/5-o-trail-trilhos-de-sao-martinho-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:31003",
+"name": "Terra de Gigantes",
+"date": "2027-01-17",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Corrida",
+"Ultra Maratonas"
+],
+"distances": [
+"303,8 km"
+],
+"url": "https://racefinder.pt/event/terra-de-gigantes-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:79023",
+"name": "Terra de Gigantes 2027",
+"date": "2027-01-14",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Corrida",
+"Ultra Maratonas"
+],
+"distances": [
+"303.8 km"
+],
+"url": "https://racefinder.pt/event/terra-de-gigantes-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:71670",
+"name": "TRILHOS DOS REIS 2027",
+"date": "2027-01-16",
+"end_date": "2027-01-17",
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Jovens",
+"Trail Run",
+"Ultra Maratonas"
+],
+"distances": [
+"14 km",
+"17 km",
+"20 km",
+"32 km",
+"48 km"
+],
+"url": "https://racefinder.pt/event/trilhos-dos-reis-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:85393",
+"name": "IX Corrida de Ano Novo – Esposende 2027",
+"date": "2027-01-16",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Kids"
+],
+"distances": [
+"10 km",
+"8 km"
+],
+"url": "https://racefinder.pt/event/ix-corrida-de-ano-novo-esposende-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:73078",
+"name": "Lousa Mountain Trail",
+"date": "2027-01-17",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"10 km",
+"13 km",
+"23 km"
+],
+"url": "https://racefinder.pt/event/lousa-mountain-trail/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:90198",
+"name": "Serralades de Barxeta MABU 2027",
+"date": "2027-01-17",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"12 km",
+"20 km",
+"42 km"
+],
+"url": "https://racefinder.pt/event/serralades-de-barxeta-mabu-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87956",
+"name": "13º Trail Off-Road da Barreira 2027",
+"date": "2027-01-17",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"12 km",
+"20 km"
+],
+"url": "https://racefinder.pt/event/13o-trail-off-road-da-barreira-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:67095",
+"name": "5ª edição da Grande Corrida de Ano Novo",
+"date": "2027-01-03",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Corrida 5 km",
+"Kids"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/5a-edicao-da-grandecorrida-de-ano-novo/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86466",
+"name": "Campeonato Distrital Trail Sprint ADAL 2027",
+"date": "2027-01-17",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"20 km"
+],
+"url": "https://racefinder.pt/event/campeonato-distrital-trail-sprint-adal-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:90569",
+"name": "1.º Pirâmide Radical Trail 2027",
+"date": "2027-01-17",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"10 km",
+"16 km",
+"25 km"
+],
+"url": "https://racefinder.pt/event/1-o-piramide-radical-trail-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87924",
+"name": "Hybrid Day Aveiro 2027",
+"date": "2027-01-23",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Corrida",
+"Híbrido"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/hybrid-day-aveiro-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:81818",
+"name": "HERO CHALLENGE",
+"date": "2027-01-23",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Corrida",
+"Híbrido"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/hero-challenge/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:90681",
+"name": "Trail da Póvoa de Varzim 2027",
+"date": "2027-01-24",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/trail-da-povoa-de-varzim-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:88051",
+"name": "28 MEIA MARATONA MANUELA MACHADO",
+"date": "2027-01-24",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Meia Maratona"
+],
+"distances": [
+"21 km"
+],
+"url": "https://racefinder.pt/event/28-meia-maratona-manuela-machado/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:84029",
+"name": "28.ª Meia Maratona Manuela Machado 2027",
+"date": "2027-01-24",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Meia Maratona"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/28-a-meia-maratona-manuela-machado-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:90234",
+"name": "3.ª Edição Grande Prémio LXTRIATHLON 2027",
+"date": "2027-01-24",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Kids",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21.1 km",
+"4 km"
+],
+"url": "https://racefinder.pt/event/3-a-edicao-grande-premio-lxtriathlon-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:75516",
+"name": "DUATLO BARCELOS",
+"date": "2027-01-24",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Duatlo"
+],
+"tags": [
+"Duatlo"
+],
+"distances": [
+"5 km corrida + 20 km ciclismo + 2.5 km corrida"
+],
+"url": "https://racefinder.pt/event/duatlo-barcelos/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:82301",
+"name": "Trail Serra D’Aire 2027",
+"date": "2027-01-24",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"12 km",
+"18 km",
+"38 km"
+],
+"url": "https://racefinder.pt/event/trail-serra-daire-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:78975",
+"name": "Duatlo de Barcelos 2027",
+"date": "2027-01-24",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Duatlo"
+],
+"tags": [
+"Duatlo"
+],
+"distances": [
+"5 km corrida + 20 km ciclismo + 2.5 km corrida"
+],
+"url": "https://racefinder.pt/event/duatlo-de-barcelos-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86045",
+"name": "Racenature Albufeira 2027",
+"date": "2027-01-28",
+"end_date": "2027-01-30",
+"location": "",
+"country": "Portugal",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"BTT",
+"Ciclismo",
+"Gravel"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/racenature-albufeira-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:66353",
+"name": "Linhas de Torres 100",
+"date": "2027-01-29",
+"end_date": "2027-01-30",
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Kids",
+"Trail Run",
+"Ultra Maratonas"
+],
+"distances": [
+"10 km",
+"100 km",
+"20 km",
+"30 km",
+"50 km"
+],
+"url": "https://racefinder.pt/event/linhas-de-torres-100-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:89915",
+"name": "Maratona de Almagro 2027",
+"date": "2027-01-30",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Maratona"
+],
+"distances": [
+"42 km"
+],
+"url": "https://racefinder.pt/event/maratona-de-almagro-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87545",
+"name": "Trail do Capitão 2027",
+"date": "2027-01-30",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"10 km",
+"20 km"
+],
+"url": "https://racefinder.pt/event/trail-do-capitao-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:58102",
+"name": "SANTA MARIA TRAIL – SMAT 2027",
+"date": "2027-01-31",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"10 km",
+"20 km",
+"35 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/santa-maria-trail-smat-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:5727",
+"name": "Maratona do Funchal",
+"date": "2027-01-31",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida de Estrada",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"21 km",
+"42 km",
+"8 km"
+],
+"url": "https://racefinder.pt/event/maratona-do-funchal/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86474",
+"name": "XII Maratona do Funchal 2027",
+"date": "2027-01-31",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida de Estrada",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"21 km",
+"42 km",
+"8 km"
+],
+"url": "https://racefinder.pt/event/xii-maratona-do-funchal-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:84058",
+"name": "Montepio Meia Maratona de Cascais 2027",
+"date": "2027-02-06",
+"end_date": "2027-02-07",
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km",
+"Corrida 5 km",
+"Kids",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21.1 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/montepio-meia-maratona-de-cascais-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:89680",
+"name": "VIII Trilhos de Viana 2027",
+"date": "2027-02-07",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"14 km",
+"26 km",
+"8 km"
+],
+"url": "https://racefinder.pt/event/viii-trilhos-de-viana-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:16291",
+"name": "V Trail Vilarinho Cima",
+"date": "2027-02-07",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"13 km",
+"21 km",
+"8 km"
+],
+"url": "https://racefinder.pt/event/vilarinho-cima-trail/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:39018",
+"name": "5º Trail Manuelino",
+"date": "2027-02-07",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Kids",
+"Trail Run"
+],
+"distances": [
+"1.5 km",
+"12 km",
+"18 km",
+"32 km"
+],
+"url": "https://racefinder.pt/event/5o-trail-manuelino/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:81607",
+"name": "Corrida do Carnaval de Rio Tinto 2027",
+"date": "2027-02-09",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/corrida-do-carnaval-de-rio-tinto-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86133",
+"name": "7.º Trail Costa Norte by ADSP 2027",
+"date": "2027-02-13",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/7-o-trail-costa-norte-by-adsp-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:84136",
+"name": "12.º Santo Thyrso Ultra Trilhos – STUT 2027",
+"date": "2027-02-13",
+"end_date": "2027-02-14",
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Kids",
+"Trail Run",
+"Ultra Maratonas"
+],
+"distances": [
+"12 km",
+"17 km",
+"32 km",
+"45 km"
+],
+"url": "https://racefinder.pt/event/12-o-santo-thyrso-ultra-trilhos-stut-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:38899",
+"name": "TAUT – Terras do Ancião Ultra Trail",
+"date": "2027-02-14",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run",
+"Ultra Maratonas"
+],
+"distances": [
+"110 km",
+"13 km",
+"161 km",
+"20 km",
+"241 km",
+"35 km",
+"500 km",
+"62 km"
+],
+"url": "https://racefinder.pt/event/taut-terras-do-anciao-ultra-trail-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86492",
+"name": "Corrida dos Namorados | Campeonato Regional de 5km de estrada",
+"date": "2027-02-14",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 5 km"
+],
+"distances": [
+"5 km"
+],
+"url": "https://racefinder.pt/event/corrida-dos-namorados-campeonato-regional-de-5km-de-estrada/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:58126",
+"name": "Foz Côa Douro Trail Adventure",
+"date": "2027-02-19",
+"end_date": "2027-02-21",
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"11 km",
+"17 km",
+"19 km + 30 km + 17 km",
+"37 km"
+],
+"url": "https://racefinder.pt/event/foz-coa-douro-trail-adventure/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:67474",
+"name": "XII Trail Montes Saloios",
+"date": "2027-02-21",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run",
+"Ultra Maratonas"
+],
+"distances": [
+"10 km",
+"15 km",
+"31 km",
+"50 km"
+],
+"url": "https://racefinder.pt/event/xii-trail-montes-saloios/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:84037",
+"name": "Meia Maratona de Sesimbra 2027",
+"date": "2027-02-21",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Kids",
+"Meia Maratona"
+],
+"distances": [
+"0.5 km",
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/meia-maratona-de-sesimbra-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:85855",
+"name": "Meia Maratona de Óbidos 2027",
+"date": "2027-02-21",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21 km",
+"8 km"
+],
+"url": "https://racefinder.pt/event/meia-maratona-de-obidos-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:85763",
+"name": "XVIII Trail de Conímbriga Terras de Sicó 2027",
+"date": "2027-02-26",
+"end_date": "2027-02-28",
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run",
+"Ultra Maratonas"
+],
+"distances": [
+"111 km",
+"13 km",
+"178 km",
+"25 km",
+"42 km",
+"60 km"
+],
+"url": "https://racefinder.pt/event/xviii-trail-de-conimbriga-terras-de-sico-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:78115",
+"name": "Corrida das Lezírias",
+"date": "2027-02-27",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 5 km",
+"Corrida de Estrada",
+"Kids"
+],
+"distances": [
+"15 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/corrida-das-lezirias-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86006",
+"name": "Granfondo Leiria Region 2027",
+"date": "2027-02-27",
+"end_date": "2027-02-28",
+"location": "",
+"country": "Portugal",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"Ciclismo",
+"Ciclismo de Estrada"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/granfondo-leiria-region-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87523",
+"name": "32ª Corrida das Lezírias",
+"date": "2027-02-27",
+"end_date": "2027-02-28",
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 5 km",
+"Corrida de Estrada",
+"Kids"
+],
+"distances": [
+"15 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/32a-corrida-das-lezirias/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:70419",
+"name": "Corrida Solidária Reigoso",
+"date": "2027-02-28",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida de Estrada"
+],
+"distances": [
+"10 km",
+"15 km",
+"8 km"
+],
+"url": "https://racefinder.pt/event/corrida-solidaria-reigoso-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:36494",
+"name": "7º BTT Rota das Laranjeiras",
+"date": "2027-02-28",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"BTT",
+"Ciclismo"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/7o-btt-rota-das-laranjeiras-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:71741",
+"name": "Algarve Bike Challenge 2027",
+"date": "2027-03-05",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"BTT",
+"Ciclismo"
+],
+"distances": [
+"150 km"
+],
+"url": "https://racefinder.pt/event/algarve-bike-challenge-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:18539",
+"name": "Hyundai 7K",
+"date": "2027-03-06",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida de Estrada"
+],
+"distances": [
+"7 km"
+],
+"url": "https://racefinder.pt/event/hyundai-7k/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:41257",
+"name": "Montalegre Urban Fit",
+"date": "2027-03-06",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Corrida",
+"Corridas de Obstáculos"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/montalegre-urban-fit-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:70193",
+"name": "Sharish Monsaraz Natur Trail 2027",
+"date": "2027-03-06",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run",
+"Ultra Maratonas"
+],
+"distances": [
+"10 km",
+"20 km",
+"30 km",
+"50 km"
+],
+"url": "https://racefinder.pt/event/sharish-monsaraz-natur-trail-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:79029",
+"name": "LOUZANTRAIL 2027",
+"date": "2027-03-06",
+"end_date": "2027-03-07",
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Kids",
+"Trail Run",
+"Ultra Maratonas"
+],
+"distances": [
+"14 km",
+"20 km",
+"31 km",
+"48 km",
+"68 km"
+],
+"url": "https://racefinder.pt/event/louzantrail-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:46137",
+"name": "Mimosa Passeio da Família",
+"date": "2027-03-06",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida"
+],
+"distances": [
+"4 km"
+],
+"url": "https://racefinder.pt/event/mimosa-passeio-da-familia/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:46144",
+"name": "EDP New Generation",
+"date": "2027-03-06",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Kids"
+],
+"tags": [
+"Corrida",
+"Jovens",
+"Kids"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/edp-new-generation-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:11237",
+"name": "Vodafone 10k",
+"date": "2027-03-07",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km"
+],
+"url": "https://racefinder.pt/event/vodafone-10k/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87186",
+"name": "VIII Trail do Rio Paiva",
+"date": "2027-03-07",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"10 km",
+"15 km",
+"23 km",
+"35 km"
+],
+"url": "https://racefinder.pt/event/viii-trail-do-rio-paiva/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:90500",
+"name": "V Maratona Trail Rota do Sal",
+"date": "2027-03-14",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"10 km",
+"13 km",
+"22 km"
+],
+"url": "https://racefinder.pt/event/v-maratona-trail-rota-do-sal/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87976",
+"name": "Trail do Vale Encantado – ARCVC",
+"date": "2027-03-14",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Kids",
+"Trail Run"
+],
+"distances": [
+"17 km",
+"27 km",
+"7 km",
+"700 m"
+],
+"url": "https://racefinder.pt/event/trail-do-vale-encantado-arcvc/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:69535",
+"name": "Trilhos dos Calceteiros 2027",
+"date": "2027-03-14",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/trilhos-dos-calceteiros-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:81936",
+"name": "TRAIL DO SERROTE 2027",
+"date": "2027-03-14",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"12-13 km",
+"14 km",
+"19 km"
+],
+"url": "https://racefinder.pt/event/trail-do-serrote-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:70173",
+"name": "POVOAÇÃO TRAIL 2027",
+"date": "2027-03-14",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run",
+"Ultra Maratonas"
+],
+"distances": [
+"18 km",
+"30 km",
+"50 km",
+"9 km"
+],
+"url": "https://racefinder.pt/event/povoacao-trail-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:66123",
+"name": "VIANA Granfondo by KTM 2027",
+"date": "2027-03-14",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"Ciclismo",
+"Ciclismo de Estrada"
+],
+"distances": [
+"130 km",
+"60 km",
+"80 km"
+],
+"url": "https://racefinder.pt/event/viana-granfondo-by-ktm-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:77703",
+"name": "Meia Maratona de Gaia",
+"date": "2027-03-14",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/meia-maratona-de-gaia-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:18818",
+"name": "CARAMULO MAGIC 2027",
+"date": "2027-03-20",
+"end_date": "2027-03-21",
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run",
+"Ultra Maratonas"
+],
+"distances": [
+"10 km",
+"21 km",
+"32 km",
+"47 km"
+],
+"url": "https://racefinder.pt/event/trilha-magica-do-caramulo/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:68059",
+"name": "Backyard Ultra Ansião",
+"date": "2027-03-20",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Corrida",
+"Ultra Maratonas"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/backyard-ultra-ansiao/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:90274",
+"name": "10ª Maratona Terrugem Trail",
+"date": "2027-03-21",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Corrida",
+"Trail Run"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/10a-maratona-terrugem-trail/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:84080",
+"name": "6.ª Meia Maratona Douro Verde 2027",
+"date": "2027-03-21",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21 km"
+],
+"url": "https://racefinder.pt/event/6-a-meia-maratona-douro-verde-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:58410",
+"name": "Meia Maratona Baía do Seixal 2027",
+"date": "2027-03-21",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/meia-maratona-baia-do-seixal-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:74802",
+"name": "8º TRAIL DA PRIMAVERA",
+"date": "2027-03-21",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/8o-trail-da-primavera/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:83582",
+"name": "II Resistência BTT – Vila Chã 2027",
+"date": "2027-03-27",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"BTT",
+"Ciclismo",
+"E-bike"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/ii-resistencia-btt-vila-cha-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:84098",
+"name": "Meia Maratona de Braga 2027",
+"date": "2027-03-28",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 5 km",
+"Meia Maratona"
+],
+"distances": [
+"21 km",
+"5 km",
+"6 km"
+],
+"url": "https://racefinder.pt/event/meia-maratona-de-braga-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:85837",
+"name": "Renascença Meia Maratona de Fátima 2027",
+"date": "2027-04-03",
+"end_date": "2027-04-04",
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"21 km",
+"6 km"
+],
+"url": "https://racefinder.pt/event/renascenca-meia-maratona-de-fatima-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86510",
+"name": "Pinheiro Grande Backyard Ultra – GDPG",
+"date": "2027-04-03",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Corrida",
+"Trail Run",
+"Ultra Maratonas"
+],
+"distances": [
+"3 voltas",
+"6 voltas"
+],
+"url": "https://racefinder.pt/event/pinheiro-grande-backyard-ultra-gdpg/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87163",
+"name": "TRILHOS DAS AZENHAS 2027",
+"date": "2027-04-03",
+"end_date": "2027-04-04",
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Kids",
+"Trail Run"
+],
+"distances": [
+"10 km",
+"14 km",
+"19 km"
+],
+"url": "https://racefinder.pt/event/trilhos-das-azenhas-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:67018",
+"name": "IRONMAN 70.3 Vilamoura-Algarve",
+"date": "2027-04-03",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Triatlo",
+"Triatlo de Média Distância"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/ironman-70-3-vilamoura-algarve/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87353",
+"name": "STC ULTIMATE OBSTACLE CHALLENGE 2027",
+"date": "2027-04-04",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Obstáculos"
+],
+"tags": [
+"Corrida",
+"Corridas de Obstáculos"
+],
+"distances": [
+"8 km"
+],
+"url": "https://racefinder.pt/event/stc-ultimate-obstacle-challenge-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:82348",
+"name": "Ameal Trail – Meivcore 2027",
+"date": "2027-04-10",
+"end_date": "2027-04-11",
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Kids",
+"Trail Run"
+],
+"distances": [
+"10 km",
+"11 km",
+"17.5 km"
+],
+"url": "https://racefinder.pt/event/ameal-trail-meivcore-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:77566",
+"name": "X Meia Maratona de Faro",
+"date": "2027-04-10",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida de Estrada",
+"Meia Maratona"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/x-meia-maratona-de-faro/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:85814",
+"name": "Piódão Trail Running 2027",
+"date": "2027-04-10",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run",
+"Ultra Maratonas"
+],
+"distances": [
+"13 km",
+"25 km",
+"53 km"
+],
+"url": "https://racefinder.pt/event/piodao-trail-running-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:70141",
+"name": "EuroBEC Granfondo 2027",
+"date": "2027-04-11",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Ciclismo"
+],
+"tags": [
+"Caminhada",
+"Ciclismo",
+"Ciclismo de Estrada",
+"Corrida"
+],
+"distances": [
+"100 km",
+"150 km",
+"60 km"
+],
+"url": "https://racefinder.pt/event/eurobec-granfondo-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:75470",
+"name": "LISBON ECO MARATHON 2027",
+"date": "2027-04-11",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida de Estrada",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"13 km",
+"21 km",
+"42 km",
+"8 km"
+],
+"url": "https://racefinder.pt/event/lisbon-eco-marathon-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:77791",
+"name": "Farol Adventure Trail – Flores Azores 2027",
+"date": "2027-04-17",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"17.5 km",
+"36.5 km",
+"9 km"
+],
+"url": "https://racefinder.pt/event/farol-adventure-trail-flores-azores-2027-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:66087",
+"name": "Granfondo Torres Vedras 2027",
+"date": "2027-04-17",
+"end_date": "2027-04-18",
+"location": "",
+"country": "Portugal",
+"types": [
+"Ciclismo",
+"Kids"
+],
+"tags": [
+"Caminhar",
+"Ciclismo",
+"Jovens"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/granfondo-torres-vedras-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:65562",
+"name": "Trail Run Real Priolo",
+"date": "2027-04-24",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run",
+"Ultra Maratonas"
+],
+"distances": [
+"12 km",
+"18 km",
+"30 km",
+"49 km",
+"9.3 km"
+],
+"url": "https://racefinder.pt/event/trail-run-real-priolo-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:15552",
+"name": "Maratona da Europa – Aveiro",
+"date": "2027-04-24",
+"end_date": "2027-04-25",
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km",
+"Corrida de Estrada",
+"Maratona",
+"Meia Maratona"
+],
+"distances": [
+"10 km",
+"10 km + 21 km",
+"10 km + 42 km",
+"10 km + 5 km",
+"21 km",
+"42 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/maratona-europeia-aveiro/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:81411",
+"name": "II Touro Triatlo de Vila Nova de Paiva 2026",
+"date": "2027-04-25",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Olímpica",
+"Triatlo",
+"Triatlo de Média Distância"
+],
+"distances": [
+"1 km NATAÇÃO + 40 km CICLISMO + 9 km CORRIDA",
+"2 km natação + 80 km ciclismo + 18 km corrida"
+],
+"url": "https://racefinder.pt/event/ii-touro-triatlo-de-vila-nova-de-paiva-2026-2/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:67274",
+"name": "Oh Meu Deus by UTMB 2027",
+"date": "2027-04-30",
+"end_date": "2027-05-02",
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"167 km",
+"22 km",
+"52 km",
+"94 km"
+],
+"url": "https://racefinder.pt/event/oh-meu-deus-by-utmb-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:90514",
+"name": "6º Trail Run Aqui Há-Os",
+"date": "2027-05-02",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"10 km",
+"17 km",
+"31 km"
+],
+"url": "https://racefinder.pt/event/6o-trail-run-aqui-ha-os/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:43965",
+"name": "Lidl Setúbal Triathlon",
+"date": "2027-05-02",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Triatlo"
+],
+"tags": [
+"Triatlo",
+"Triatlo de Média Distância"
+],
+"distances": [
+"1.9 km natação + 90 km ciclismo + 21 km corrida"
+],
+"url": "https://racefinder.pt/event/lidl-setubal-triathlon/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:82318",
+"name": "ESTRELA GRANDE TRAIL 2027",
+"date": "2027-05-07",
+"end_date": "2027-05-09",
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Kids",
+"Trail Run",
+"Ultra Maratonas"
+],
+"distances": [
+"15 km",
+"35 km",
+"45 km",
+"6 km",
+"65 km",
+"85 km"
+],
+"url": "https://racefinder.pt/event/estrela-grande-trail-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:13480",
+"name": "Zumub 24h Run Sintra",
+"date": "2027-05-08",
+"end_date": "2027-05-09",
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Ultra"
+],
+"tags": [
+"Corrida",
+"Corrida de Estrada",
+"Maratona",
+"Ultra Maratonas"
+],
+"distances": [
+"12 H",
+"24 H",
+"3 H",
+"42 km"
+],
+"url": "https://racefinder.pt/event/zumub-24h-run-sintra/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87940",
+"name": "Wings for Life World Run 2027",
+"date": "2027-05-09",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida de Estrada"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/wings-for-life-world-run-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:81670",
+"name": "Corrida da Marginal de Miramar 2027",
+"date": "2027-05-22",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [
+"10 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/corrida-da-marginal-de-miramar-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87143",
+"name": "7 Cidades Ultimate Trail 2027",
+"date": "2027-05-22",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Kids",
+"Trail Run"
+],
+"distances": [
+"25.3 km",
+"41.8 km",
+"8.4 km",
+"9.3 km"
+],
+"url": "https://racefinder.pt/event/7-cidades-ultimate-trail-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:71705",
+"name": "Grandfondo Médio Tejo 2027",
+"date": "2027-05-22",
+"end_date": "2027-05-23",
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada",
+"Ciclismo",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Ciclismo",
+"Ciclismo de Estrada",
+"Corrida",
+"Kids"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/grandfondo-medio-tejo-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:81978",
+"name": "Eco Trail Praia Mag8 – 5ª Edição",
+"date": "2027-05-30",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"12 km",
+"13 km",
+"19 km",
+"8 km"
+],
+"url": "https://racefinder.pt/event/eco-trail-praia-mag8-5a-edicao/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:78601",
+"name": "Bracarvs Backyard Ultra Vila Verde – 4ª Edição",
+"date": "2027-06-05",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Corrida",
+"Ultra Maratonas"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/bracarvs-backyard-ultra-vila-verde-4a-edicao/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:78890",
+"name": "Trail de São João da Vila",
+"date": "2027-06-05",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Trail Run"
+],
+"distances": [
+"12 km",
+"20 km",
+"35.9 km"
+],
+"url": "https://racefinder.pt/event/trail-de-sao-joao-da-vila/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87948",
+"name": "16ª Corrida do Vinho e da Pera Rocha",
+"date": "2027-06-05",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada"
+],
+"tags": [
+"Corrida",
+"Corrida de Estrada"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/16a-corrida-do-vinho-e-da-pera-rocha/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:61147",
+"name": "Ultra Trail Serra da Freita 2027",
+"date": "2027-06-26",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra"
+],
+"tags": [
+"Corrida",
+"Trail Run",
+"Ultra Maratonas"
+],
+"distances": [
+"101 km",
+"12 km",
+"19 km",
+"31 km",
+"66 km"
+],
+"url": "https://racefinder.pt/event/ultra-trail-serra-da-freita-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:59426",
+"name": "Granfondo Serra da Estrela 2027",
+"date": "2027-06-27",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"Ciclismo",
+"Ciclismo de Estrada"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/granfondo-serra-da-estrela-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:81657",
+"name": "Corrida do Areinho – Vila Nova de Gaia 2027",
+"date": "2027-06-27",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Estrada",
+"Caminhada"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Corrida 10 km"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/corrida-do-areinho-vila-nova-de-gaia-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86085",
+"name": "Vila do Conde Peneda-Gerês Extreme 2027",
+"date": "2027-07-09",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"BTT",
+"Ciclismo"
+],
+"distances": [
+"300 km"
+],
+"url": "https://racefinder.pt/event/vila-do-conde-peneda-geres-extreme-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:71823",
+"name": "Desafio ACDL 2027",
+"date": "2027-07-17",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"BTT",
+"Ciclismo"
+],
+"distances": [
+"100 km",
+"200 km",
+"400 km"
+],
+"url": "https://racefinder.pt/event/desafio-acdl-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:86106",
+"name": "Granfondo Paredes 2027",
+"date": "2027-07-25",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Ciclismo"
+],
+"tags": [
+"Ciclismo",
+"Ciclismo de Estrada"
+],
+"distances": [],
+"url": "https://racefinder.pt/event/granfondo-paredes-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87113",
+"name": "Limestone Ultra Trail 2027",
+"date": "2027-07-29",
+"end_date": "2027-07-31",
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Kids",
+"Trail Run",
+"Ultra Maratonas"
+],
+"distances": [
+"108 km",
+"15 km",
+"167 km",
+"20 km",
+"34 km",
+"63 km"
+],
+"url": "https://racefinder.pt/event/limestone-ultra-trail-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87073",
+"name": "Swim Party Algarve 2027",
+"date": "2027-09-11",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Natação"
+],
+"tags": [
+"Natação",
+"Águas abertas"
+],
+"distances": [
+"10 km",
+"3.2 km + 1.8 km + 5 km",
+"5 km"
+],
+"url": "https://racefinder.pt/event/swim-party-algarve-2027/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:12821",
+"name": "Vertical Costa Norte",
+"date": "2027-09-28",
+"end_date": null,
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail"
+],
+"tags": [
+"Corrida",
+"Sky Running"
+],
+"distances": [
+"3,7 km"
+],
+"url": "https://racefinder.pt/event/vertical-costa-norte/",
+"official_url": ""
+},
+{
+"source": "racefinder",
+"source_id": "racefinder:87090",
+"name": "UTAX AXtrail®2027",
+"date": "2027-10-15",
+"end_date": "2027-10-17",
+"location": "",
+"country": "Portugal",
+"types": [
+"Trail",
+"Ultra",
+"Caminhada",
+"Kids"
+],
+"tags": [
+"Caminhada",
+"Corrida",
+"Kids",
+"Trail Run",
+"Ultra Maratonas"
+],
+"distances": [
+"103 km",
+"16 km",
+"33 km",
+"54 km",
+"8 km"
+],
+"url": "https://racefinder.pt/event/utax-axtrail2027/",
+"official_url": ""
+}
+]
