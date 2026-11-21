@@ -7,6 +7,7 @@ from __future__ import annotations
 
 import datetime as dt
 import json
+import os
 import re
 import sys
 import traceback
@@ -165,7 +166,9 @@ def main(only: list[str]) -> int:
     print("Destino:", "Supabase" if store.remote() else "ficheiros locais", flush=True)
     status = {}
     for name, fn in ALL.items():
-        if only and name not in only:
+        # SKIP_SOURCES=itra: sites que bloqueiam servidores (ITRA no GitHub Actions) usam a última recolha feita de um PC
+        skip = {s.strip() for s in os.environ.get("SKIP_SOURCES", "").split(",") if s.strip()}
+        if (only and name not in only) or name in skip:
             status[name] = "cache"
             continue
         try:

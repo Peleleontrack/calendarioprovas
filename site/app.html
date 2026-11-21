@@ -652,7 +652,8 @@ footer .wrap { padding-block: 16px 32px; display: grid; gap: 6px; }
       if (k === "orioasis" && !has) return `<span><i class="dot manual"></i>OriOasis: importação manual</span>`;
       const err = st.startsWith("erro");
       const n = RACES.filter((r) => r.sources.some((s) => s.site === k)).length;
-      return `<span title="${esc(st)}"><i class="dot${err ? " err" : ""}"></i>${LABELS[k]}: ${n}${err ? ` (falhou hoje; dados de ${when(has)})` : ""}</span>`;
+      const note = err ? ` (falhou hoje; dados de ${when(has)})` : st === "cache" && has ? ` (dados de ${when(has)})` : "";
+      return `<span title="${esc(st)}"><i class="dot${err ? " err" : st === "cache" ? " manual" : ""}"></i>${LABELS[k]}: ${n}${note}</span>`;
     }).join("");
     render();
   }).catch(() => {

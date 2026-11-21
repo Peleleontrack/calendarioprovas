@@ -61,6 +61,22 @@ Primeira recolha: o Athleko enche aos poucos (4 páginas por execução), por is
 Login por email: o Supabase, sem servidor de email próprio, só envia poucos emails por hora e apenas para membros
 da organização. Para mais pessoas, configurar um SMTP em *Authentication → Emails*.
 
+## ITRA (atualizar a partir de um PC)
+
+O ITRA está atrás de uma proteção (CloudFront/WAF) que recusa pedidos vindos de servidores como os do GitHub
+Actions (responde HTTP 202). Por isso o workflow usa `SKIP_SOURCES: itra` e a página mostra a última recolha
+ITRA guardada no Supabase, com a data no rodapé. Os pontos ITRA mudam pouco: atualizar 1x por mês chega.
+
+Para atualizar, num PC com Python (a chave é a mesma service_role do segredo do GitHub, nunca a guardar no repositório):
+
+```
+set SUPABASE_URL=https://wtgjdtzvcogfsrhgixgv.supabase.co
+set SUPABASE_SERVICE_KEY=<service_role key>
+.venv\Scripts\python scraperun.py itra
+```
+
+(No Claude Code, também se pode pedir para recolher o ITRA localmente e gravar na tabela `source_cache`.)
+
 ## Orientação (OriOasis)
 
 O OriOasis está protegido contra acessos automáticos, por isso não é recolhido sozinho.
