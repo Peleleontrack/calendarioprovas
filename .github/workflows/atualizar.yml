@@ -25,11 +25,11 @@ jobs:
 
       - name: Recolher provas e gravar no Supabase
         env:
-          SUPABASE_URL: ${{ vars.SUPABASE_URL }}
+          SUPABASE_URL: https://wtgjdtzvcogfsrhgixgv.supabase.co   # público (igual ao site/config.js)
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
         run: |
           if [ -z "$SUPABASE_URL" ] || [ -z "$SUPABASE_SERVICE_KEY" ]; then
-            echo "::warning::Supabase ainda não configurado (falta a variável SUPABASE_URL ou o segredo SUPABASE_SERVICE_KEY, ver README). Nada a fazer."
+            echo "::warning::Falta o segredo SUPABASE_SERVICE_KEY no repositório (ver README). Nada a fazer."
             exit 0
           fi
           python scraper/run.py

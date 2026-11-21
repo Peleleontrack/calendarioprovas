@@ -44,12 +44,13 @@ Depois abre http://localhost:8765.
 
 ## Publicar online (GitHub + Supabase + Vercel)
 
-1. **Supabase**: criar um projeto e aplicar `supabase/migrations/001_init.sql` (SQL Editor ou CLI).
-   - *Authentication → URL Configuration*: pôr o endereço do Vercel em **Site URL** e em **Redirect URLs**.
-   - Copiar o **Project URL** e a **anon key** (públicos) para `site/config.js`.
-2. **GitHub** (repositório → *Settings → Secrets and variables → Actions*):
-   - separador *Variables*: `SUPABASE_URL` = Project URL;
-   - separador *Secrets*: `SUPABASE_SERVICE_KEY` = **service_role key** do Supabase (*Project Settings → API Keys*). É secreta: nunca no código.
+1. **Supabase** (projeto `calendarioprovas`, já criado e com a estrutura aplicada: `supabase/migrations/`).
+   - *Authentication → URL Configuration*: pôr o endereço do Vercel em **Site URL** e em **Redirect URLs**
+     (sem isto, o link de entrada enviado por email não volta para o site).
+   - `site/config.js` já tem o Project URL e a anon key (são públicos).
+2. **GitHub** (repositório → *Settings → Secrets and variables → Actions → Secrets → New repository secret*):
+   - nome `SUPABASE_SERVICE_KEY`, valor = **service_role key** do Supabase
+     (*Project Settings → API Keys*, separador das chaves legacy, "service_role" → *Reveal*). É secreta: nunca no código.
    - *Actions → Atualizar provas → Run workflow* para a primeira recolha. Depois corre sozinho de 3 em 3 horas.
 3. **Vercel**: *Add New → Project* → importar o repositório → *Deploy* (o `vercel.json` já diz para publicar a pasta `site/`).
    Cada `git push` para `main` publica uma versão nova. As provas não precisam de novo deploy: a página lê-as do Supabase.
